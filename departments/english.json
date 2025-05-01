@@ -1,21 +1,98 @@
 {
-  "department": "영어영문학과",
-  "curriculum": [
-    {
-      "year": 1,
-      "semester": 1,
-      "courses": [
+    "department": "english",
+    "curriculum": [
         {
-          "type": "전선",
-          "name": "기초 전공 과목1",
-          "credits": 3
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                { "type": "전선", "name": "언어이야기기", "credits": 3 },
+                { "type": "전선", "name": "영미문학의세계", "credits": 3 }
+            ]
         },
         {
-          "type": "전선",
-          "name": "기초 전공 과목2",
-          "credits": 3
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                { "type": "전선", "name": "언어와문화의번역", "credits": 3 },
+                {
+                    "type": "전선",
+                    "name": "미래사회와언어데이터터",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                { "type": "전필", "name": "영어속의논리", "credits": 3 },
+                {
+                    "type": "전필",
+                    "name": "영어문법의이해와활용용",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어듣기와말하기",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영미작가이야기기",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                { "type": "전필", "name": "영어어휘와발음", "credits": 3 },
+                { "type": "전선", "name": "국제업무와영어", "credits": 3 },
+                { "type": "전선", "name": "영미단편소설", "credits": 3 },
+                { "type": "전선", "name": "현대사회와영어어", "credits": 3 },
+                { "type": "전선", "name": "영어토론과발표표", "credits": 3 }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                { "type": "전필", "name": "영미소설의이해", "credits": 3 },
+                { "type": "전선", "name": "영국사회와문학", "credits": 3 },
+                { "type": "전선", "name": "영어음성음운론", "credits": 3 },
+                { "type": "전선", "name": "영어교과교육론", "credits": 3 },
+                { "type": "전선", "name": "문학과문화", "credits": 3 }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                { "type": "전필", "name": "영어통사론", "credits": 3 },
+                { "type": "전필", "name": "미국사회와문학학", "credits": 3 },
+                { "type": "전선", "name": "영어논리및논술", "credits": 3 },
+                {
+                    "type": "전선",
+                    "name": "영어교과교재연구및지도법",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                { "type": "전선", "name": "현대영어학의흐름", "credits": 3 },
+                { "type": "전선", "name": "언어과학", "credits": 3 }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                { "type": "전선", "name": "영미명작의세계", "credits": 3 }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
