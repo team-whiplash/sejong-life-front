@@ -1,11 +1,36 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
+  <meta charset="UTF-8">
+  <title>세종대학교 동아리 총 모음</title>
+  <link rel="stylesheet" href="css/club.css">
 </head>
 <body>
-    
+
+<h1>세종대학교 중앙 동아리 총 모음</h1>
+
+<!-- 필터 버튼 -->
+<div id="filters">
+  <button onclick="filterClubs('전체')">전체</button>
+  <button onclick="filterClubs('학술/전공 연계')">학술/전공 연계</button>
+  <button onclick="filterClubs('공연/예술/문화')">공연/예술/문화</button>
+  <button onclick="filterClubs('체육/레저')">체육/레저</button>
+  <button onclick="filterClubs('종교')">종교</button>
+  <button onclick="filterClubs('봉사/친목/대외활동')">봉사/친목/대외활동</button>
+  <button onclick="filterClubs('취미/기타')">취미/기타</button>
+  <button onclick="filterClubs('기타')">기타</button>
+</div>
+
+<!-- 동아리 카드 표시 영역 -->
+<div id="club-list"></div>
+
+<!-- 페이지네이션 -->
+<div id="pagination">
+  <button onclick="prevPage()">이전</button>
+  <span id="page-info">1 / 1</span>
+  <button onclick="nextPage()">다음</button>
+</div>
+
+<script src="js/club.js"></script>
 </body>
 </html>
