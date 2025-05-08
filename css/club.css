@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 40px;
+    background-color: white;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .logo img {
+    height: 30px;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+  }
+  
+  .nav-links li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #444;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-links li a:hover {
+    color: #0061b0;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 24px 0;
+    font-size: 14px;
+    color: #888;
+    background-color: #f9f9f9;
+    margin-top: 100px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  #search-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  #search-input {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  #filters {
+    text-align: center;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  
+  #filters button {
+    margin: 5px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  #filters button:hover {
+    background-color: #0056b3;
+  }
+  #pagination {
+    text-align: center;
+    margin: 30px 0;
+  }
+  
+  #pagination button {
+    padding: 10px 15px;
+    margin: 0 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  footer {
+    text-align: center;
+    padding: 24px 0;
+    font-size: 14px;
+    color: #888;
+    background-color: #f9f9f9;
+    margin-top: 100px;
+  }
+  #club-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 0 20px;
+  }
+  
+  .club-card {
+    background: white;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    display: flex;
+    align-items: center; /* 수직 정렬 */
+    height: 160px; /* 고정 높이 (필요 시 조정 가능) */
+  }
+  .club-card-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+  }
+  .club-image {
+    width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+  }
+.club-text {
+    flex: 1;
+  }
+  
+  .club-text h3 {
+    margin: 0 0 8px 0;
+    font-size: 18px;
+  }
+  
+  .club-text p {
+    margin: 0;
+    color: #555;
+    font-size: 14px;
+  }
+  .club-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    transition: 0.3s;
+  }
