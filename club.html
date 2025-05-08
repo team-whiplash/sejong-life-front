@@ -2,13 +2,29 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>세종대학교 동아리 총 모음</title>
+  <title>세종대학교 동아리</title>
   <link rel="stylesheet" href="css/club.css">
 </head>
 <body>
+    <header>
+        <div class="logo">
+            <a href="index.html">
+                <img src="assets/images/logo.png" alt="Sejong Life Logo">
+            </a>
+        </div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="info.html">정보광장</a></li>
+                <li><a href="graduate.html">졸업요건</a></li>
+                <li><a href="club.html">동아리</a></li>
+                <li><a href="meal.html">식사안내</a></li>
+        </nav>
+    </header>
+<h1>세종대학교 동아리 모음</h1>
 
-<h1>세종대학교 중앙 동아리 총 모음</h1>
-
+<div id="search-container">
+    <input type="text" id="search-input" placeholder="동아리를 검색하세요..." onkeyup="searchClubs()" />
+  </div>
 <!-- 필터 버튼 -->
 <div id="filters">
   <button onclick="filterClubs('전체')">전체</button>
@@ -17,8 +33,6 @@
   <button onclick="filterClubs('체육/레저')">체육/레저</button>
   <button onclick="filterClubs('종교')">종교</button>
   <button onclick="filterClubs('봉사/친목/대외활동')">봉사/친목/대외활동</button>
-  <button onclick="filterClubs('취미/기타')">취미/기타</button>
-  <button onclick="filterClubs('기타')">기타</button>
 </div>
 
 <!-- 동아리 카드 표시 영역 -->
@@ -33,4 +47,7 @@
 
 <script src="js/club.js"></script>
 </body>
+<footer>
+    <p>ⓒ 2025 Whiplash Team. All rights reserved.</p>
+</footer>
 </html>
