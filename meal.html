@@ -1,11 +1,52 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-</head>
-<body>
-    
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Sejong Life</title>
+        <link rel="stylesheet" href="css/index.css">
+        <link rel="stylesheet" href="css/meal.css">
+        <script src="js/mealMockData.js" defer></script>
+        <script src="js/meal.js" defer></script>
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <a href="index.html">
+                    <img src="assets/images/logo.png" alt="Sejong Life Logo">
+                </a>
+            </div>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="info.html">정보광장</a></li>
+                    <li><a href="graduate.html">졸업요건</a></li>
+                    <li><a href="club.html">동아리</a></li>
+                    <li><a href="meal.html">식사안내</a></li>
+            </nav>
+        </header>
+        <main>   
+            <div class="category-tabs">
+                <span class="tab active" data-category="campus">교내</span>
+                <span class="tab" data-category="offcampus">교외</span>
+                <!-- <button class="random-pick-btn">
+                    <img class="roulette-img" src="assets/images/roulette.png" alt="Roulette Icon">
+                </button> -->
+            </div>
+            <div class="type-buttons">
+                <button class="type-btn selected" data-type="cafe">카페</button>
+                <button class="type-btn" data-type="restaurant">음식점</button>      
+            </div>
+
+            <!-- <div class="roulette-box">
+                <button class="random-pick-btn">
+                    <img class="roulette-img" src="assets/images/roulette.png" alt="Roulette Icon">
+                </button>
+            </div> -->
+            
+            <div class="store-list"></div>
+        </main>
+        <footer>
+            <p>ⓒ 2025 Whiplash Team. All rights reserved.</p>
+        </footer>
+    </body>
 </html>

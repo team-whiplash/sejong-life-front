@@ -1,0 +1,151 @@
+.category-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin: 20px 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.category-tabs .tab {
+  cursor: pointer;
+  color: black;
+  position: relative;
+}
+
+.category-tabs .tab.active {
+  color: #dc143c;
+}
+
+.category-tabs .tab.active::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 100%;
+  height: 3px;
+  background-color: #dc143c;
+}
+
+.type-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.type-btn {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border-radius: 30px;
+  border: none;
+  background-color: #eee;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.type-btn:hover {
+  background-color: black;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+
+.type-btn.selected {
+  background-color: black;
+  color: white;
+}
+
+.store-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin: 24px 100px;
+}
+
+.store {
+  /* border: 1px solid #ccc; */
+  border-radius: 8px;
+}
+
+.hover-overlay {
+  position: absolute;
+  inset: 0; /* top, right, bottom, left = 0 */
+  background: rgba(255, 255, 255);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center;
+  align-items: center; */
+  padding: 16px;
+  box-sizing: border-box;
+  /* text-align: center; */
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s ease;
+}
+
+.store-card:hover .hover-overlay {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.hover-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  /* margin-bottom: 8px; */
+}
+
+.hover-desc {
+  font-size: 0.95rem;
+  line-height: 1.4;
+  white-space: pre-wrap;
+}
+
+.store-card {
+  position: relative;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.store-image {
+  width: 90%;
+  height: 260px;
+  border-radius: 20px;
+  margin: 10px 0;
+}
+
+.store-name {
+  font-weight: bolder;
+  font-size: 1.5em;
+  margin-bottom: 4px;
+}
+
+.store-position {
+  color: #5d5d5d;
+  font-size: 1.1em;
+}
+
+/* .roulette-box {
+  position: fixed;
+  top: 100px;
+  right: 60px;
+  z-index: 1000;
+}
+
+.random-pick-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.roulette-img {
+  width: 40px;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.random-pick-btn:hover .roulette-img {
+  transform: scale(1.05);
+} */
