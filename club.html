@@ -20,24 +20,30 @@
                 <li><a href="meal.html">식사안내</a></li>
         </nav>
     </header>
-<h1>세종대학교 동아리 모음</h1>
-
-<div id="search-container">
-    <input type="text" id="search-input" placeholder="동아리를 검색하세요..." onkeyup="searchClubs()" />
-  </div>
+    
 <!-- 필터 버튼 -->
 <div id="filters">
-  <button onclick="filterClubs('전체')">전체</button>
-  <button onclick="filterClubs('학술/전공 연계')">학술/전공 연계</button>
-  <button onclick="filterClubs('공연/예술/문화')">공연/예술/문화</button>
-  <button onclick="filterClubs('체육/레저')">체육/레저</button>
-  <button onclick="filterClubs('종교')">종교</button>
-  <button onclick="filterClubs('봉사/친목/대외활동')">봉사/친목/대외활동</button>
+  <button class="active" onclick="filterClubs('전체',event)">전체</button>
+  <button onclick="filterClubs('학술/전공 연계',event)">학술/전공 연계</button>
+  <button onclick="filterClubs('공연/예술/문화',event)">공연/예술/문화</button>
+  <button onclick="filterClubs('체육/레저',event)">체육/레저</button>
+  <button onclick="filterClubs('종교',event)">종교</button>
+  <button onclick="filterClubs('봉사/친목/대외활동',event)">봉사/친목/대외활동</button>
 </div>
 
 <!-- 동아리 카드 표시 영역 -->
 <div id="club-list"></div>
+<!-- 검색 버튼 -->
+<div id="search-container">
+  <div class="search-box">
+    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="11" cy="11" r="8"></circle>
+      <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+    </svg>
 
+    <input type="text" id="search-input" placeholder="동아리를 검색하세요..." onkeyup="searchClubs()" />
+  </div>
+</div>
 <!-- 페이지네이션 -->
 <div id="pagination">
   <button onclick="prevPage()">이전</button>
