@@ -131,6 +131,7 @@
   }
   
   .club-text h3 {
+    text-align: center;
     margin: 0 0 8px 0;
     font-size: 18px;
   }
@@ -138,6 +139,7 @@
   .club-text p {
     word-break: keep-all;
     margin: 0;
+    text-align: center;
     color: #555;
     font-size: 13px;
   }
