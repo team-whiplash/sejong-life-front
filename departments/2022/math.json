@@ -1,0 +1,333 @@
+{
+    "department": "수학통계학과",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "교양필수",
+            "name": "신입생세미나",
+            "credits": 1
+          },
+          {
+            "type": "교양필수",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "교양필수",
+            "name": "English Listening Practice 1",
+            "credits": 2
+          },
+          {
+            "type": "교양선택1",
+            "name": "소프트웨어기초코딩",
+            "credits": 3
+          },
+          
+          {
+            "type": "학문기초교양",
+            "name": "미적분학1",
+            "credits": 3
+          },
+          
+          {
+            "type": "전필",
+            "name": "통계학1",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+
+          {
+            "type": "교양필수",
+            "name": "대학생활과진로탐색",
+            "credits": 1
+          },
+          {
+            "type": "교양필수",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+         
+          {
+            "type": "학문기초교양",
+            "name": "미적분학2",
+            "credits": 3
+          },
+          {
+            "type": "교양선택1",
+            "name": "고급프로그래밍입문-P",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "통계학2",
+            "credits": 3
+          }
+         
+         
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "교양필수",
+            "name": "English Reading Practice 1",
+            "credits": 2
+          }, 
+         
+          {
+            "type": "전필",
+            "name": "선형대수학1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "해석학개론1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "계산수학1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "조합론",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "전산통계실습",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+
+          {
+            "type": "교양선택1",
+            "name": "세계사:인간과문명",
+            "credits": 3
+          },
+         
+          {
+            "type": "전필",
+            "name": "선형대수학2",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "확률론",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "해석학개론2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "미분방정식",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "프로그래밍실습",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "계산수학2",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "현대대수학1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "수리통계학1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "확률과정론",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "회귀분석1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기계학습",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "수치해석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "표본조사론",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "수리통계학2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "실험계획법",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "회귀분석2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "비모수통계학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "딥러닝",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "현대대수학2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "정수론",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "복소수해석학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "미분기하학개론",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "다변량통계분석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "범주형자료분석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "보험수학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "위상수학1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "응용통계학특강1",
+            "credits": 3
+          }
+          
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "수학사",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "위상수학2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "통계자료분석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "베이지안분석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "응용통계학특강2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "시계열자료분석",
+            "credits": 3
+          }
+          
+        ]
+      }
+    ]
+  }

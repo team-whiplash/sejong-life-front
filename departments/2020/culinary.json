@@ -1,0 +1,151 @@
+{
+    "department": "글로벌조리학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "식품위생학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "조리기초실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "조리학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "글로벌식생활문화",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "모던이스트퀴진실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무2",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "한식조리실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "글로벌식재료연구",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품관련법규",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무3",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "호텔외식경영실무4",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "푸드스타일링",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "양식조리실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "레스토랑주방시설관리론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "외식산업경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "글로벌동양요리실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무5",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "글로벌서양요리실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "외식원가관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식경영실무6",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

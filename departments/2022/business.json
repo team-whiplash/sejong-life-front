@@ -1,0 +1,301 @@
+{
+    "department": "경영학부",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "신입생세미나A",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "경영수학",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "경영학원론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "경제학원론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "신입생세미나B",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "회계원리1",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "경영통계학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경영기초수학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경영기초영어",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "Introduction to Finance",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "관리회계",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "재무관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "마케팅관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "회계원리2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경영과학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "비즈니스커뮤니케이션1",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "조직행동론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "경영정보론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "생산관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "마케팅조사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "소비자행동론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "원가회계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "투자론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기업재무",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "비즈니스커뮤니케이션2",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "손해보험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "보험과리스크",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "서비스마케팅",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "인적자원관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "조직관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기업윤리와사회적책임",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "마케팅커뮤니케이션",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "전사적자원관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "비지니스인텔리전스",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "채권분석",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경영데이터관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "중급회계1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "상업교과교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "마케팅애널리틱스",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "관리경제학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "세무회계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "선물옵션이론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "유통경로관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "인적자원개발론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "서비스운영관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "디지털경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "중급회계2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "Services Marketing in a Global Context",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "상업교과교재연구및지도법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "상업논리및논술",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "비즈니스세미나",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "사이버보안경영론",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

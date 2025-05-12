@@ -1,0 +1,233 @@
+{
+    "department": "국제학부 영어영문학전공",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "일본사회의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "중국어입문",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "시장경제의원리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "언어이야기",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "초급일본어1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "언어학과디지털휴머니티",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "세종인을위한전공탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "현대중국의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "초급중국어",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본문화의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "초급일본어2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "미래사회와언어데이터",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "언어와문화의번역",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "영어속의논리",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "영문법의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영미희곡",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영미작가이야기",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "인지체계와의사소통능력",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "영어어휘와발음",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영미단편소설",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "국제업무와영어",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "현대사회와영어",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어토론과발표",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "영미소설의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영국사회와문학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어음성음운론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어의미의흐름",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어교과교육론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "영어통사론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "미국사회와문학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어교과교재연구및지도법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어논리및논술",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "영미시의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "영미명작의세계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로2",
+                    "credits": 1
+                }
+            ]
+        }
+    ]
+}

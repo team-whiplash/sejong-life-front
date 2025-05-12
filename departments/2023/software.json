@@ -1,0 +1,362 @@
+{
+    "department": "콘텐츠소프트웨어학과",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전공교양(인필)",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          
+          {
+            "type": "BSM(인필)",
+            "name": "기초미적분학",
+            "credits": 3
+          },
+          {
+            "type": "전필(인필)",
+            "name": "C프로그래밍및실습",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전문교양(인필)",
+            "name": "대학영어",
+            "credits": 2
+          },
+          {
+            "type": "전문교양(인필)",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "BSM(인필)",
+            "name": "공업수학1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "창의SW융합노마드",
+            "credits": 3
+          },
+          {
+            "type": "전필(인필)",
+            "name": "고급C프로그래밍및실습",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필(인필)",
+            "name": "자료구조및실습",
+            "credits": 3
+          },
+          {
+            "type": "BSM(인필)",
+            "name": "일반물리 및 시뮬레이션",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "확률및통계프로그래밍",
+            "credits": 3
+          },
+          
+          {
+            "type": "전필(인필)",
+            "name": "문제해결 및 실습: C++",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "멀티미디어프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "윈도우즈프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "웹프로그래밍",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+       {
+            "type": "전필(인필)",
+            "name": "SW설계기초(산학프로젝트입문)",
+            "credits": "3(3)"
+          },
+          {
+            "type": "BSM(인필)",
+            "name": "통계학개론",
+            "credits": 3
+          },
+          
+          {
+            "type": "전필(인필)",
+            "name": "알고리즘및실습",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전필(인필)",
+            "name": "컴퓨터구조",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "문제해결 및 실습: JAVA",
+            "credits": "3(1)"
+          },
+          {
+            "type": "BSM(인필)",
+            "name": "이산수학 및 프로그래밍",
+            "credits": 3
+          },
+           {
+            "type": "BSM(인필)",
+            "name": "선형대수 및 프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "K-MOOC: 멀티미디어",
+            "credits": 3
+          }
+         
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필(인필)",
+            "name": "운영체제",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전필(인필)",
+            "name": "데이터베이스",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전필(인필)",
+            "name": "오픈소스SW개론",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "게임프로그래밍",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "수치해석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "소프트웨어교육1",
+            "credits": 3
+          }
+          
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "오픈소스SW공학",
+            "credits": "3(1)"
+          },  
+          {
+            "type": "전선",
+            "name": "컴퓨터네트워크",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "컴퓨터그래픽스",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "소프트웨어공학",
+            "credits": 3
+          },
+           {
+            "type": "전선",
+            "name": "음성오디오처리",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "데이터베이스프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "데이터공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "앱프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "소프트웨어교육2",
+            "credits": 3
+          }
+        
+          
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필(인필)",
+            "name": "Capstone디자인(산학협력프로젝트)",
+            "credits": "6(6)"
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "인턴쉽1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "가상현실",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "컴퓨터애니메이션",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "기계학습",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "패턴인식",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "영상처리",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "소프트웨어특강1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "고급데이터베이스",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선(인필)",
+            "name": "Capstone디자인(산학협력프로젝트)",
+            "credits": "6(6)"
+          },  
+          {
+            "type": "전선",
+            "name": "소프트웨어특강2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "인턴쉽2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "HCI개론",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "지능형시스템",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "인공지능",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "컴퓨터비전시스템",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "증강현실",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "음성처리",
+            "credits": 3
+          },
+           {
+            "type": "전선",
+            "name": "특허와 창업",
+            "credits": 3
+          }
+          
+        
+          
+        ]
+      }
+    ]
+  }

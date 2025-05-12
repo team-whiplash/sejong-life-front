@@ -1,0 +1,469 @@
+{
+    "department": "화학과",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "공통필수",
+            "name": "세종인을위한진로설계",
+            "credits": 1
+          },
+          {
+            "type": "공통필수",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "공통필수",
+            "name": "대학영어",
+            "credits": 2
+          },
+          {
+            "type": "전공기초",
+            "name": "일반화학1",
+            "credits": 3
+          },
+          {
+            "type": "학문기초교양",
+            "name": "미적분학1",
+            "credits": 3
+          },
+          {
+            "type": "전공기초",
+            "name": "일반물리학1",
+            "credits": 3
+          },
+          {
+            "type": "전공기초",
+            "name": "일반생물학1",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "공통필수",
+            "name": "세종인을위한전공탐색",
+            "credits": 1
+          },
+          {
+            "type": "공통필수",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "공통필수",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "학문기초교양",
+            "name": "SW기초코딩",
+            "credits": 3
+          },
+          {
+            "type": "전공기초",
+            "name": "미적분학2",
+            "credits": 3
+          },
+           {
+            "type": "전공기초",
+            "name": "기초통계학",
+            "credits": 3
+          },
+           {
+            "type": "전공기초",
+            "name": "기초천문학",
+            "credits": 3
+          },
+           {
+            "type": "전공기초",
+            "name": "기초생물통계학",
+            "credits": 3
+          },
+
+          {
+            "type": "전공기초",
+            "name": "일반물리학2",
+            "credits": 3
+          },
+          {
+            "type": "전공기초",
+            "name": "일반화학2",
+            "credits": 3
+          },
+          {
+            "type": "전공기초",
+            "name": "일반생물학2",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "학문기초교양",
+            "name": "인공지능과빅데이터",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "분석화학실험",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "유기화학1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "정량분석화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "향장화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "환경화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "화학을위한물리",
+            "credits": 3
+          }
+          
+
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "유기화학2",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "응용분석화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "단백질생화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "유기화학실험",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "물리화학12",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "화학과진로1",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "전자재료화학개론",
+            "credits": 3
+          }
+          
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "무기화학",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "물리화학2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기기분석화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "나노화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "물리화학실험",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "유기메카니즘",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "유전생화학",
+            "credits": 3
+          },
+          
+          {
+            "type": "전선",
+            "name": "전기화학학",
+            "credits": 3
+          },
+          
+          {
+            "type": "전선",
+            "name": "화학교과교육론",
+            "credits": 3
+          },
+          
+          {
+            "type": "전선",
+            "name": "화학전공인턴십1",
+            "credits": 3
+          },
+          
+          {
+            "type": "전선",
+            "name": "이차전지개론",
+            "credits": 3
+          },
+          
+          {
+            "type": "전선",
+            "name": "화학과진로2",
+            "credits": 1
+          }
+          
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "고분자화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "극미량분석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "금속착물화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "무기화학실험",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "생유기화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "생화학실험",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "화학과소프트웨어1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "화학교과교재연구및지도법",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "화학논리및논술",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "화학전공인턴십2"
+          },
+          {
+            "type": "전선",
+            "name": "복합소재화학",
+            "credits": 3
+          }
+         
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "생화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "고등고분자화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "고분자화학실험",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "신소재화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "유기합성",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "응용화학연구및실험1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "의약화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "크로마토그래피실습",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "수소에너지및응용개론",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "화학을위한머신러닝",
+            "credits": 3
+          }
+
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "고등물리화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "고등분석화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "고등생화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "분광학및실험",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "분자모델링",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "생물리화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "에너지화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "응용화학연구및실험2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "융복합화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "초분자화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "정밀화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "생활속의화학",
+            "credits": 3
+          }
+          
+
+
+         
+          
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,217 @@
+{
+    "department": "역사학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "세종인을위한진로설계",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "인류의선사문화",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "역사와역사콘텐츠의이해",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "세종인을위한전공탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "문화유적현장실습",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "한국의문화유산",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "세계사속의한국사",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "역사학개론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "서양고대사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "동아시아고대사",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "문화유적현장실습2",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "한국중세사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "서양중세사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "동아시아중세사",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "서양근세문화사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "한국근세사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "역사교과교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "동아시아근세사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "AI디지털기반역사문화자원큐레이션",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "문화유적현장실습3",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "한국근대사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "역사교과교재연구및지도법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "서양근대사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "동아시아근대사",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선선",
+                    "name": "쟁점동양사",
+                    "credits": 3
+                },
+                {
+                    "type": "쟁점서양사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "역사문화콘텐츠제작실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "쟁점한국사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로2",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "한국사상,문화사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "20세기현대사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "서양사학사",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

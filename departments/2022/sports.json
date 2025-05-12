@@ -1,0 +1,238 @@
+{
+    "department": "체육학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "체육원리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기초종목실기",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "골프",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "운동과건강",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "체육사회학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "건강증진학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "체육철학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "체육측정평가",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "스포츠의학입문",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "구기스포츠",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "인체해부학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "체육사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "스포츠와미디어",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "체력육성실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "뉴스포츠의이해",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "운동생리학",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "체육심리학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "스포츠특강1",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "레저스포츠1",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "체육교과교육론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "트레이닝방법론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "스포츠영양학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "스포츠특강2",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "운동기능학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "레저스포츠2",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "체육교과교재연구및지도법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "체육논리및논술",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "졸업시험(P/NP)",
+                    "credits": 0
+                },
+                {
+                    "type": "전필",
+                    "name": "스포츠마케팅",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "코우치학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "스포츠과학실험법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "스포츠재활",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "졸업시험(P/NP)",
+                    "credits": 0
+                },
+                {
+                    "type": "전선",
+                    "name": "비교체육학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "운동처방",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "체육학연구법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "학교보건",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

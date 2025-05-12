@@ -1,0 +1,420 @@
+{
+    "department": "컴퓨터공학과",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전공교양(인필)",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "BSM(인필)",
+            "name": "일반물리학1",
+            "credits": 3
+          },
+          {
+            "type": "BSM(인필)",
+            "name": "기초미적분학",
+            "credits": 3
+          },
+          {
+            "type": "전공기초(인필)",
+            "name": "C프로그래밍및실습",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전문교양(인필)",
+            "name": "대학영어",
+            "credits": 2
+          },
+          {
+            "type": "전문교양(인필)",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "BSM(인필)",
+            "name": "공업수학1",
+            "credits": 3
+          },
+          {
+            "type": "전공(인필)",
+            "name": "공학설계기초(산학프로젝트입문)",
+            "credits": "3(3)"
+          },
+          {
+            "type": "전공기초(인필)",
+            "name": "고급C프로그래밍및실습",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전공",
+            "name": "창의SW융합노마드",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "BSM(인필)",
+            "name": "확률과통계및프로그래밍",
+            "credits": 3
+          },  
+          {
+            "type": "전공(인필)",
+            "name": "자료구조및실습",
+            "credits": 3
+          },
+          {
+            "type": "전공(인필)",
+            "name": "디지털시스템",
+            "credits": "3(1)"
+          },
+         
+          {
+            "type": "전공",
+            "name": "문제해결및실습:C++",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전공",
+            "name": "웹프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "윈도우즈프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "K-MOOC:모두를위한머신러닝",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "BSM(인필)",
+            "name": "이산수학및프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "BSM(인필)",
+            "name": "선형대수및프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전공(인필)",
+            "name": "알고리즘및실습",
+            "credits": 3
+          },
+          {
+            "type": "전공(인필)",
+            "name": "컴퓨터구조",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "문제해결및실습:JAVA",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전공",
+            "name": "K-MOOC:멀티미디어",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "오픈소스SW개론",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전공(인필)",
+            "name": "운영체제",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "데이터베이스",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전공",
+            "name": "컴퓨터그래픽스",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전공",
+            "name": "신호및시스템",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "오픈소스SW공학",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전공",
+            "name": "C#프로그래밍",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전공",
+            "name": "마이크로컴퓨터",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전공",
+            "name": "하드웨어시스템설계",
+            "credits": 3
+          },
+          
+          {
+            "type": "전공",
+            "name": "서버프로그래밍설계",
+            "credits": 3
+          },
+          
+          {
+            "type": "전공",
+            "name": "프로그래밍언어의개념",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전공(인필)",
+            "name": "컴퓨터네트워크",
+            "credits": 3
+          },
+        
+          {
+            "type": "전공",
+            "name": "소프트웨어공학",
+            "credits": 3
+          },
+         
+          {
+            "type": "전공",
+            "name": "Unix프로그래밍",
+            "credits": "3(1)"
+          },
+          
+          {
+            "type": "전공",
+            "name": "디지털신호처리",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "소프트웨어공학",
+            "credits": 3
+          },
+          
+          {
+            "type": "전공",
+            "name": "XML프로그래밍",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전공",
+            "name": "심화프로그래밍설계",
+            "credits": "3(2)"
+          },
+          {
+            "type": "전공",
+            "name": "통신시스템",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "웹기반시스템",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "멀티코어프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "인공지능",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "문제해결기법",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전공(인필)",
+            "name": "Capstone디자인(산학협력프로젝트)",
+            "credits": "6(6)"
+          },
+          {
+            "type": "전공",
+            "name": "졸업연구및진로1",
+            "credits": 1
+          },
+          
+          {
+            "type": "전공",
+            "name": "영상처리",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전공",
+            "name": "임베디드시스템",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전공",
+            "name": "정보보호개론",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "HCI개론",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "네트워크프로그래밍",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전공",
+            "name": "무선통신",
+            "credits": 3
+          },
+         
+          {
+            "type": "전공",
+            "name": "패턴인식",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "소프트웨어특강1",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "모바일응용설계",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "기계학습",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "고급데이터베이스",
+            "credits": 3
+          }
+        
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전공",
+            "name": "앱프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "졸업연구및진로2",
+            "credits": 1
+          },
+          {
+            "type": "전공",
+            "name": "정보검색",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "지능형시스템",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "스마트그리드",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "컴파일러",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "컴퓨터비전시스템",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "소프트웨어특강2",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "객체지향설계기술",
+            "credits": 3
+          },
+          {
+            "type": "전공",
+            "name": "가상현실",
+            "credits": 3
+          },
+          
+          {
+            "type": "전공",
+            "name": "특허와창업",
+            "credits": 3
+          }
+        
+          
+        ]
+      }
+    ]
+  }

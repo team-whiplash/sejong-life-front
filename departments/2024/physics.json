@@ -1,0 +1,339 @@
+{
+    "department": "물리천문학과",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "공통필수",
+            "name": "세종인을위한진로설계",
+            "credits": 1
+          },
+          {
+            "type": "공통필수",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "공통필수",
+            "name": "대학영어",
+            "credits": 2
+          },
+          {
+            "type": "전공기초",
+            "name": "일반화학1",
+            "credits": 3
+          },
+          {
+            "type": "학문기초교양",
+            "name": "미적분학1",
+            "credits": 3
+          },
+          {
+            "type": "전공기초",
+            "name": "일반물리학1",
+            "credits": 3
+          },
+          {
+            "type": "전공기초",
+            "name": "일반생물학1",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "공통필수",
+            "name": "세종인을위한전공탐색",
+            "credits": 1
+          },
+          {
+            "type": "공통필수",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "공통필수",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "학문기초교양",
+            "name": "SW기초코딩",
+            "credits": 3
+          },
+          {
+            "type": "전공기초",
+            "name": "미적분학2",
+            "credits": 3
+          },
+           {
+            "type": "전공기초",
+            "name": "기초통계학",
+            "credits": 3
+          },
+           {
+            "type": "전공기초",
+            "name": "기초천문학",
+            "credits": 3
+          },
+           {
+            "type": "전공기초",
+            "name": "기초생물통계학",
+            "credits": 3
+          },
+
+          {
+            "type": "전공기초",
+            "name": "일반물리학2",
+            "credits": 3
+          },
+          {
+            "type": "전공기초",
+            "name": "일반화학2",
+            "credits": 3
+          },
+          {
+            "type": "전공기초",
+            "name": "일반생물학2",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "학문기초교양",
+            "name": "고급프로그래밍활용",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "역학1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "항성천문학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기초계산과학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "현대물리학및실험",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "수리물리1",
+            "credits": 3
+          }
+
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "은하천문학",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "전자기학1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "계산과학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기초천문관측및실습",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "수리물리2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "역학2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "전자학실험",
+            "credits": 3
+          }
+          
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "양자역학1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "고급계산과학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기초회로와센서실험",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "전자기학2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "천체물리학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "항성대기",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "나노소자의이해",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "양자역학2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "열물리학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "천문관측및실습(종합설계)",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "천체분광학개론",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디스플레이광학",
+            "credits": 3
+          }
+         
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "고체물리학1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "전파천문학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "데이터분석기법",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "통계물리학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "현대우주론",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "반도체소자물리학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "고체물리학2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "성간물질",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "핵및입자물리학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "중력과상대론",
+            "credits": 3
+          }
+         
+          
+        ]
+      }
+    ]
+  }

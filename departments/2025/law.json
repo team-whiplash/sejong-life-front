@@ -1,0 +1,193 @@
+{
+    "department": "법학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "세종인을위한진로설계",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "법학입문",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "세종인을위한전공탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "인권과법",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "헌법1",
+                    "credits": 3
+                },
+                {
+                    "type": "전팔",
+                    "name": "민법총칙",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "형법총론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "상행위법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "채권총론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "계약법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "법철학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "헌법2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "물권법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "형법각론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "행정법",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "형사소송법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "노동법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "금융법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "LEET추리논증연습1",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "회사법",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "민사소송법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "법학적성평가연습2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "친족상속법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "저작권법",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "공정거래법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "LEET언어이해연습1",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로2",
+                    "credits": 1
+                }
+            ]
+        }
+    ]
+}

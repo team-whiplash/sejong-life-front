@@ -1,0 +1,228 @@
+{
+    "department": "국제학부 영어영문학전공",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "신입생세미나A",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "영미문학의세계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어학의세계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본사회의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "중국어입문",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본어A1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "시장경제의원리",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "신입생세미나B",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "일본문화",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "현대중국의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어의활용",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영문번역의첫걸음",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "초급중국어",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본어A2",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "영어속의논리",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "영문법의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영미문화와어휘",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어듣기와말하기",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영미작가이야기",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "인지체계와의사소통능력",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "영어어휘와발음",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영미단편소설",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "국제업무와영어",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "영미소설의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어의미의흐름",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어교과교육론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "영어통사론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "미국사회와문학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영미여성문학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "문학번역",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어표현과의사소통",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어교과교재연구및지도법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어논리및논술",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로2",
+                    "credits": 1
+                }
+            ]
+        }
+    ]
+}

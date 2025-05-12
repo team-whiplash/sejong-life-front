@@ -1,0 +1,213 @@
+{
+    "department": "호텔외식비즈니스학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "경영학원론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "마케팅원론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "관광산업의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무1",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "회계원리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "글로벌식생활문화",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식비즈니스의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "서비스매너",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무2",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "주류학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무3",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "레스토랑경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식서비스경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식식품위생관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "푸드스타일링",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무4",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "외식산업경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "호텔외식마케팅",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식인적자원관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품관련법규",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무5",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "호텔기업경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "호텔외식원가관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무6",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "음식평론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식경영실무7",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식마케팅조사론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식컨설팅",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "외식상품개발론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식경영실무8",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "프랜차이즈기업사례연구",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식창업프로젝트",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

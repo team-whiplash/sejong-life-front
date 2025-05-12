@@ -1,0 +1,326 @@
+{
+    "department": "건설환경공학과",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전공교양",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "전공교양",
+            "name": "대학생활과진로탐색",
+            "credits": 3
+          },
+          {
+            "type": "전공교양",
+            "name": "세종사회봉사1",
+            "credits": 3
+          },
+          {
+            "type": "전공교양",
+            "name": "정보사회와사이버윤리",
+            "credits": 3
+          },
+          {
+            "type": "MSC",
+            "name": "소프트웨어기초코딩",
+            "credits": 3
+          },
+          {
+            "type": "MSC",
+            "name": "일변수미적분학",
+            "credits": 3
+          },
+          {
+            "type": "MSC",
+            "name": "일반물리학및실험1",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전문교양",
+            "name": "English Listening Practice 1",
+            "credits": 2
+          },
+          {
+            "type": "전문교양",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "MSC",
+            "name": "고급프로그래밍입문-P",
+            "credits": 3
+          },
+          {
+            "type": "MSC",
+            "name": "다변수미적분학",
+            "credits": 3
+          },
+          {
+            "type": "MSC",
+            "name": "일반물리학및실험2",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "기초창의설계",
+            "credits": "3(3)"
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "MSC",
+            "name": "공업수학1",
+            "credits": 3
+          },
+          {
+            "type": "MSC",
+            "name": "일반화학",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "환경공학및실험",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "유체역학및연습",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "응용역학및연습1",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "MSC",
+            "name": "지구환경과학입문",
+            "credits": 3
+          },
+          {
+            "type": "전문교양",
+            "name": "English Reading Practice 1",
+            "credits": 2
+          },
+          {
+            "type": "전문교양",
+            "name": "세계경제의이해",
+            "credits": 2
+          },
+          {
+            "type": "MSC",
+            "name": "공업수학2",
+            "credits": 3
+          },
+          {
+            "type": "MSC",
+            "name": "건설수치해석",
+            "credits": 3
+          },
+          
+          {
+            "type": "전필",
+            "name": "응용역학및연습2",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "토질역학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "수리학",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "재해방지공학",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "콘크리트공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전필",
+            "name": "구조공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "스마트수처리시스템공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "강구조공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "측량학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "공업교과교육론",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "건설경영관리",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "콘크리트구조설계",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "물재생자원순환",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "수문학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기초공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "합성구조설계",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "공업교과교재연구및지도법",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "공업논리및논술",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "도로공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "수자원공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "건설CAD",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "내진설계",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "해안및항만공학",
+            "credits": "3(1.5)"
+          }
+          
+         
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "건설환경종합설계",
+            "credits": "3(3)"
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "교량공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "첨단계측공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "건설재료시험",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "신재생에너지",
+            "credits": 3
+          }
+          
+        ]
+      }
+    ]
+  }
