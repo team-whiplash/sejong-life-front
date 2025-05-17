@@ -6,22 +6,32 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전공교양",
+            "type": "교필",
             "name": "문제해결을위한글쓰기와발표",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "교필",
+            "name": "세종인을위한전공설계",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "학기",
             "name": "SW기초코딩",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "미적분학1",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "전기",
             "name": "일반물리학1",
             "credits": 3
           }
@@ -32,27 +42,32 @@
         "semester": 2,
         "courses": [
           {
-            "type": "전문교양",
+            "type": "교필",
             "name": "대학영어",
             "credits": 2
           },
           {
-            "type": "전문교양",
+            "type": "교필",
+            "name": "세종인을위한전공탐색",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "서양철학:쟁점과토론",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "고급프로그래밍활용",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "미적분학2",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "전기",
             "name": "일반화학1",
             "credits": 3
           }
@@ -63,12 +78,12 @@
         "semester": 1,
         "courses": [
           {
-            "type": "MSC",
-            "name": "수치해석",
-            "credits": 3
+            "type": "교필(2~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
           },
           {
-            "type": "MSC",
+            "type": "전기",
             "name": "공업수학1",
             "credits": 3
           },
@@ -89,8 +104,13 @@
           },
           {
             "type": "전선",
-            "name": "기초설계",
+            "name": "수치해석",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기초설계",
+            "credits": "3(3)"
           }
         ]
       },
@@ -99,7 +119,7 @@
         "semester": 2,
         "courses": [
           {
-            "type": "MSC",
+            "type": "전기",
             "name": "공업수학2",
             "credits": 3
           },
@@ -123,13 +143,17 @@
             "name": "기계요소설계",
             "credits": 3
           }
-          
         ]
       },
       {
         "year": 3,
         "semester": 1,
         "courses": [
+          {
+            "type": "교필(3~4학년)",
+            "name": "취창업과진로설계",
+            "credits": 1
+          },
           {
             "type": "전필",
             "name": "기계제작법",
@@ -138,7 +162,7 @@
           {
             "type": "전선",
             "name": "유체기계",
-            "credits": 3
+            "credits": "3(1)"
           },
           {
             "type": "전선",
@@ -148,7 +172,7 @@
           {
             "type": "전선",
             "name": "응용기계설계",
-            "credits": 3
+            "credits": "3(3)"
           },
           {
             "type": "전선",
@@ -174,12 +198,12 @@
           {
             "type": "전선",
             "name": "자동제어",
-            "credits": 3
+            "credits": "3(1)"
           },
           {
             "type": "전선",
             "name": "열유체응용설계",
-            "credits": 3
+            "credits": "3(3)"
           },
           {
             "type": "전선",
@@ -204,7 +228,7 @@
           {
             "type": "전선",
             "name": "컴퓨터응용설계",
-            "credits": 3
+            "credits": "3(1)"
           },
           {
             "type": "전선",
@@ -225,12 +249,7 @@
           {
             "type": "전선",
             "name": "종합설계A",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로1",
-            "credits": 1
+            "credits": "3(3)"
           },
           {
             "type": "전선",
@@ -240,7 +259,7 @@
           {
             "type": "전선",
             "name": "기초유한요소법",
-            "credits": 3
+            "credits": "3(1)"
           },
           {
             "type": "전선",
@@ -250,7 +269,7 @@
           {
             "type": "전선",
             "name": "로보틱스",
-            "credits": 3
+            "credits": "3(1)"
           },
           {
             "type": "전선",
@@ -281,6 +300,11 @@
             "type": "전선",
             "name": "전산열유체역학",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
           }
         ]
       },
@@ -291,12 +315,7 @@
           {
             "type": "전선",
             "name": "종합설계B",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로2",
-            "credits": 1
+            "credits": "3(3)"
           },
           {
             "type": "전선",
@@ -311,7 +330,7 @@
           {
             "type": "전선",
             "name": "최적설계",
-            "credits": 3
+            "credits": "3(1)"
           },
           {
             "type": "전선",
@@ -345,8 +364,8 @@
           },
           {
             "type": "전선",
-            "name": "생체역학",
-            "credits": 3
+            "name": "졸업연구및진로2",
+            "credits": 1
           }
         ]
       }

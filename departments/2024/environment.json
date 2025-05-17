@@ -6,22 +6,32 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전공교양",
+            "type": "교필",
+            "name": "세종인을위한진로설계",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "문제해결을위한글쓰기와발표",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "학기",
             "name": "SW기초코딩",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "미적분학1",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "전기",
             "name": "일반물리학1",
             "credits": 3
           }
@@ -32,23 +42,32 @@
         "semester": 2,
         "courses": [
           {
-            "type": "전문교양",
+            "type": "교필",
+            "name": "세종인을위한전공탐색",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "대학영어",
             "credits": 2
           },
           {
-            "type": "전문교양",
+            "type": "교필",
             "name": "서양철학:쟁점과토론",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "고급프로그래밍활용",
             "credits": 3
           },
-          
           {
-            "type": "MSC",
+            "type": "학기",
+            "name": "미적분학2",
+            "credits": 3
+          },
+          {
+            "type": "전기",
             "name": "일반화학1",
             "credits": 3
           }
@@ -59,12 +78,12 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전선",
-            "name": "기초창의설계",
-            "credits": "3(3)"
+            "type": "교필(2~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
           },
-          {
-            "type": "MSC",
+          { 
+            "type": "전기",
             "name": "공업수학1",
             "credits": 3
           },
@@ -77,6 +96,11 @@
             "type": "전필",
             "name": "수질관리",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기초창의설계",
+            "credits": "3(3)"
           },
           {
             "type": "전선",
@@ -112,7 +136,7 @@
           {
             "type": "전선",
             "name": "환경통계학",
-            "credits": 3
+            "credits": "3(1)"
           },
           {
             "type": "전선",
@@ -139,14 +163,17 @@
             "name": "환경생물기초",
             "credits": 3
           }
-         
-          
         ]
       },
       {
         "year": 3,
         "semester": 1,
         "courses": [
+          {
+            "type": "교필(3~4학년)",
+            "name": "취창업과진로설계",
+            "credits": 1
+          },
           {
             "type": "전선",
             "name": "대기오염방지공학",
@@ -162,13 +189,11 @@
             "name": "환경바이오공학",
             "credits": 3
           },
-        
           {
             "type": "전선",
             "name": "환경해양학",
             "credits": 3
           }
-         
         ]
       },
       {
@@ -185,7 +210,6 @@
             "name": "환경원격탐사",
             "credits": 3
           },
-         
           {
             "type": "전선",
             "name": "환경생태학",
@@ -196,8 +220,6 @@
             "name": "온실가스관리및분석",
             "credits": 3
           }
-          
-          
         ]
       },
       {
@@ -224,8 +246,6 @@
             "name": "졸업연구및진로1",
             "credits": 1
           }
-         
-         
         ]
       },
       {
@@ -236,11 +256,6 @@
             "type": "전필",
             "name": "환경영향평가",
             "credits": "3(1)"
-          },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로2",
-            "credits": 1
           },
           {
             "type": "전필",
@@ -262,9 +277,12 @@
             "type": "전선",
             "name": "하폐수처리및실습",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
           }
-         
-          
         ]
       }
     ]

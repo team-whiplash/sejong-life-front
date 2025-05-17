@@ -40,7 +40,7 @@ button {
     border: none;
     border-radius: 12px;
     background-color: #4caf50;
-    color: white;
+    color: black;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
 }
@@ -48,11 +48,13 @@ button {
 /* 단과대 버튼 스타일 구분 */
 #college-menu button {
     background-color: #1976d2;
+    word-break: keep-all;
 }
 
 /* 학과 버튼 스타일 구분 */
 #dept-menu button {
     background-color: #4caf50;
+    word-break: keep-all;
 }
 
 /* 버튼 hover 효과 */
@@ -92,6 +94,7 @@ h2 {
 table {
     width: 100%;
     border-collapse: collapse;
+    word-break: keep-all;
 }
 
 th,

@@ -6,37 +6,37 @@
         "semester": 1,
         "courses": [
           {
-            "type": "교양필수",
+            "type": "교필(1~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "문제해결을위한글쓰기와발표",
             "credits": 3
           },
           {
-            "type": "교양필수",
+            "type": "교필",
             "name": "신입생세미나",
             "credits": 1
           },
           {
-            "type": "교양선택",
-            "name": "세종사회봉사1",
-            "credits": 1
-          },
-          {
-            "type": "MSC",
+            "type": "교선1",
             "name": "소프트웨어기초코딩",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "일변수미적분학",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "일반물리학및실험1",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "일반화학및실험1",
             "credits": 3
           }
@@ -47,38 +47,37 @@
         "semester": 2,
         "courses": [
           {
-            "type": "교양필수",
+            "type": "교필",
             "name": "English Listening Practice 1",
             "credits": 2
           },
           {
-            "type": "교양필수",
+            "type": "교필",
             "name": "서양철학:쟁점과토론",
             "credits": 3
           },
           {
-            "type": "교양필수",
+            "type": "교필",
             "name": "대학생활과진로탐색",
             "credits": 1
           },
           {
-            "type": "MSC",
+            "type": "교선1",
             "name": "고급프로그래밍입문-C",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "다변수미적분학",
             "credits": 3
           },
-          
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "일반물리학및실험2",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "일반화학및실험2",
             "credits": 3
           }
@@ -88,9 +87,13 @@
         "year": 2,
         "semester": 1,
         "courses": [
-          
           {
-            "type": "MSC",
+            "type": "교선1(2학년)",
+            "name": "세계사:인간과문명",
+            "credits": 3
+          },
+          {
+            "type": "학기",
             "name": "공업수학1",
             "credits": 3
           },
@@ -107,7 +110,7 @@
           {
             "type": "전선",
             "name": "공학기초설계실험",
-            "credits": 3
+            "credits": "3(3)"
           },
           {
             "type": "전선",
@@ -120,13 +123,8 @@
             "credits": 3
           },
           {
-            "type": "전필",
+            "type": "전선",
             "name": "신소재과학1",
-            "credits": 3
-          },
-          {
-            "type": "교양선택",
-            "name": "세계사:인간과문명",
             "credits": 3
           }
         ]
@@ -136,16 +134,15 @@
         "semester": 2,
         "courses": [
           {
-            "type": "MSC",
-            "name": "공업수학2",
-            "credits": 3
-          },
-          {
-            "type": "교양필수",
+            "type": "교필",
             "name": "English Reading Practice 1",
             "credits": 2
           },
-
+          {
+            "type": "학기",
+            "name": "공업수학2",
+            "credits": 3
+          },
           {
             "type": "전필",
             "name": "유기화학",
@@ -178,6 +175,11 @@
         "semester": 1,
         "courses": [
           {
+            "type": "교필(3~4학년)",
+            "name": "취창업과진로설계",
+            "credits": 1
+          },
+          {
             "type": "전필",
             "name": "고체물리",
             "credits": 3
@@ -190,7 +192,7 @@
           {
             "type": "전선",
             "name": "금속과세라믹기초설계및실험",
-            "credits": 3
+            "credits": "3(3)"
           },
           {
             "type": "전선",
@@ -231,7 +233,7 @@
           {
             "type": "전필",
             "name": "반도체와고분자화학기초설계및실험",
-            "credits": 3
+            "credits": "3(3)"
           },
           {
             "type": "전선",
@@ -268,7 +270,6 @@
             "name": "전기화학",
             "credits": 3
           }
-          
         ]
       },
       {
@@ -278,12 +279,7 @@
           {
             "type": "전선",
             "name": "나노신소재창의연구1(종합설계)",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로1",
-            "credits": 1
+            "credits": "3(3)"
           },
           {
             "type": "전선",
@@ -318,12 +314,17 @@
           {
             "type": "전선",
             "name": "산학협동강좌1",
-            "credits": 3
+            "credits": "3(2)"
           },
           {
             "type": "전선",
             "name": "나노신소재인턴십1",
-            "credits": 3
+            "credits": "3(2)"
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
           }
         ]
       },
@@ -334,12 +335,7 @@
           {
             "type": "전선",
             "name": "나노신소재창의연구2(종합설계)",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로2",
-            "credits": 1
+            "credits": "3(3)"
           },
           {
             "type": "전선",
@@ -379,12 +375,17 @@
           {
             "type": "전선",
             "name": "산학협동강좌2",
-            "credits": 3
+            "credits": "3(2)"
           },
           {
             "type": "전선",
             "name": "나노신소재인턴십2",
-            "credits": 3
+            "credits": "3(2)"
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
           }
         ]
       }

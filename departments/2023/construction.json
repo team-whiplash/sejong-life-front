@@ -6,17 +6,32 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전공교양",
+            "type": "교필(1~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "문제해결을위한글쓰기와발표",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "교필",
+            "name": "신입생세미나A",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "학기",
             "name": "SW기초코딩",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "미적분학1",
             "credits": 3
           },
@@ -32,17 +47,22 @@
         "semester": 2,
         "courses": [
           {
-            "type": "전문교양",
+            "type": "교필",
             "name": "대학영어",
             "credits": 2
           },
           {
-            "type": "전문교양",
+            "type": "교필",
+            "name": "신입생세미나B",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "서양철학:쟁점과토론",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "고급프로그래밍활용",
             "credits": 3
           },
@@ -51,20 +71,27 @@
             "name": "건축기초설계",
             "credits": "3(3)"
           }
-        
         ]
       },
       {
         "year": 2,
         "semester": 1,
         "courses": [
-         
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "공업수학1",
             "credits": 3
           },
-         
+          {
+            "type": "학기",
+            "name": "일반물리학1",
+            "credits": 3
+          },
+          {
+            "type": "학기",
+            "name": "일반화학1",
+            "credits": 3
+          },
           {
             "type": "전선",
             "name": "건축환경개론",
@@ -76,21 +103,10 @@
             "credits": "3(1)"
           },
           {
-            "type": "MSC",
-            "name": "일반물리학1",
-            "credits": 3
-          },
-          {
-            "type": "MSC",
-            "name": "일반화학1",
-            "credits": 3
-          },
-          {
             "type": "전필",
             "name": "창의공학설계",
             "credits": "3(1.5)"
           }
-          
         ]
       },
       {
@@ -98,17 +114,12 @@
         "semester": 2,
         "courses": [
           {
-            "type": "MSC",
+            "type": "학기",
             "name": "공업수학2",
             "credits": 3
           },
           {
-            "type": "MSC",
-            "name": "고급인공지능활용",
-            "credits": 3
-          },
-          {
-            "type": "MSC",
+            "type": "학기",
             "name": "일반물리학2",
             "credits": 3
           },
@@ -118,17 +129,15 @@
             "credits": 3
           },
           {
-            "type": "전선",
-            "name": "건축설비개론",
-            "credits": 3
-          },
-          {
             "type": "전필",
             "name": "건축디지털설계",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "건축설비개론",
+            "credits": 3
           }
-        
-          
         ]
       },
       {
@@ -136,14 +145,19 @@
         "semester": 1,
         "courses": [
           {
+            "type": "교필(3~4학년)",
+            "name": "취창업과진로설계",
+            "credits": 1
+          },
+          {
+            "type": "학기",
+            "name": "통계학개론",
+            "credits": 3
+          },
+          {
             "type": "전필",
             "name": "건축환경설계",
             "credits": "3(1.5)"
-          },
-          {
-            "type": "MSC",
-            "name": "통계학개론",
-            "credits": 3
           },
           {
             "type": "전필",
@@ -170,7 +184,6 @@
             "name": "건축일반구조",
             "credits": 3
           }
-         
         ]
       },
       {
@@ -197,7 +210,6 @@
             "name": "건축환경설비해석",
             "credits": 3
           },
-          
           {
             "type": "전선",
             "name": "건축재료",
@@ -213,7 +225,6 @@
             "name": "철근콘크리트설계",
             "credits": "3(1)"
           }
-          
         ]
       },
       {
@@ -224,11 +235,6 @@
             "type": "전필",
             "name": "공학설계A",
             "credits": "3(3)"
-          },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로1",
-            "credits": 1
           },
           {
             "type": "전선",
@@ -249,8 +255,12 @@
             "type": "전선",
             "name": "건축실무",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
           }
-          
         ]
       },
       {
@@ -264,15 +274,9 @@
           },
           {
             "type": "전선",
-            "name": "졸업연구및진로2",
-            "credits": 1
-          },
-          {
-            "type": "전선",
             "name": "컴퓨터구조해석",
             "credits": 3
           },
-          
           {
             "type": "전선",
             "name": "스마트구조개론",
@@ -287,8 +291,12 @@
             "type": "전선",
             "name": "건설IT",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
           }
-          
         ]
       }
     ]

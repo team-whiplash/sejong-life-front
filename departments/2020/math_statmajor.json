@@ -5,74 +5,77 @@
         "year": 1,
         "semester": 1,
         "courses": [
-          {
-            "type": "교양필수",
-            "name": "대학생활과진로설계1",
+           {
+            "type": "교필",
+            "name": "창업과기업가정신1(1~4학년중에 수강)",
             "credits": 1
           },
           {
-            "type": "교양필수",
+            "type": "교필",
+            "name": "대학생활과진로설계",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "서양철학:쟁점과토론",
             "credits": 3
           },
           {
-            "type": "교양필수",
+            "type": "교필",
             "name": "English Listening Practice 1",
             "credits": 2
           },
           {
-            "type": "교양선택1",
+            "type": "교선1",
             "name": "소프트웨어기초코딩",
             "credits": 3
           },
-          
           {
-            "type": "학문기초교양",
+            "type": "학기",
             "name": "일변수미적분학",
             "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "선형대수학1",
+            "credits": 3
           }
-          
-        
         ]
       },
       {
         "year": 1,
         "semester": 2,
-        "courses": [
-
+        "courses" : [
           {
-            "type": "교양필수",
+            "type": "교필(1~4학년)",
             "name": "세종사회봉사1",
             "credits": 1
           },
           {
-            "type": "교양필수",
+            "type": "교필",
+            "name": "신입생세미나",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "문제해결을위한글쓰기와발표",
             "credits": 3
           },
-         
           {
-            "type": "학문기초교양",
-            "name": "다변수미적분학",
+            "type": "교선1",
+            "name": "고급프로그래밍입문-C",
             "credits": 3
           },
           {
-            "type": "교양선택1",
-            "name": "고급프로그래밍입문-P",
+            "type": "학기",
+            "name": "다변수미적분학",
             "credits": 3
           },
           {
             "type": "전선",
             "name": "전산수학실습1",
             "credits": 3
-          },
-          {
-            "type": "교양필수",
-            "name": "신입생세미나",
-            "credits": 3
           }
-         
-         
         ]
       },
       {
@@ -80,11 +83,10 @@
         "semester": 1,
         "courses": [
           {
-            "type": "교양필수",
+            "type": "교필",
             "name": "English Reading Practice 1",
             "credits": 2
-          }, 
-         
+          },  
           {
             "type": "전선",
             "name": "통계학1",
@@ -116,21 +118,14 @@
         "year": 2,
         "semester": 2,
         "courses": [
-
           {
-            "type": "교양선택1",
+            "type": "교선1(2학년)",
             "name": "세계사:인간과문명",
             "credits": 3
           },
-         
           {
             "type": "전필",
             "name": "통계학2",
-            "credits": 3
-          },
-          {
-            "type": "전필",
-            "name": "확률론",
             "credits": 3
           },
           {
@@ -138,7 +133,11 @@
             "name": "해석학개론2",
             "credits": 3
           },
-          
+          {
+            "type": "전필",
+            "name": "확률론",
+            "credits": 3
+          },
           {
             "type": "전선",
             "name": "수치해석",
@@ -154,14 +153,17 @@
             "name": "전산수학실습2",
             "credits": 3
           }
-          
-          
         ]
       },
       {
         "year": 3,
         "semester": 1,
         "courses": [
+          {
+            "type": "교필",
+            "name": "취업역량개발론(3~4학년중에 수강)",
+            "credits": 1
+          },
           {
             "type": "전필",
             "name": "전산통계실습",
@@ -187,8 +189,6 @@
             "name": "응용확률론",
             "credits": 3
           }
-          
-          
         ]
       },
       {
@@ -215,10 +215,6 @@
             "name": "비모수통계학",
             "credits": 3
           }
-          
-          
-          
-          
         ]
       },
       {
@@ -232,11 +228,6 @@
           },
           {
             "type": "전선",
-            "name": "졸업연구및진로1",
-            "credits": 1
-          },
-          {
-            "type": "전선",
             "name": "범주형자료분석",
             "credits": 3
           },
@@ -245,7 +236,6 @@
             "name": "보험수학",
             "credits": 3
           },
-         
           {
             "type": "전선",
             "name": "응용통계학특강1",
@@ -255,10 +245,12 @@
             "type": "전선",
             "name": "기계학습",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
           }
-          
-          
-          
         ]
       },
       {
@@ -272,11 +264,6 @@
           },
           {
             "type": "전선",
-            "name": "졸업연구및진로2",
-            "credits": 1
-          },
-          {
-            "type": "전선",
             "name": "시계열자료분석",
             "credits": 3
           },
@@ -287,20 +274,24 @@
           },
           {
             "type": "전선",
-            "name": "응용통계학특강2",
-            "credits": 3
-          },
-           {
-            "type": "전선",
             "name": "수학사",
             "credits": 3
           },
-           {
+          {
+            "type": "전선",
+            "name": "응용통계학특강2",
+            "credits": 3
+          },
+          {
             "type": "전선",
             "name": "딥러닝",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
           }
-          
         ]
       }
     ]

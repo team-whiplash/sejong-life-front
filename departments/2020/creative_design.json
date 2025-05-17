@@ -1,0 +1,288 @@
+{
+    "department": "창의소프트학부",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+            {
+            "type": "교필(1~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "교필",
+            "name": "대학생활과진로설계",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "Englsih Listening Practice 1",
+            "credits": 2
+          },
+          {
+            "type": "교선1",
+            "name": "컴퓨터사고기반기초코딩",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "2D디자인",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "3D디자인",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "교필",
+            "name": "신입생세미나",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "교선1",
+            "name": "프로그래밍입문-P",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "프로덕트디자인1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "비주얼커뮤니케이션디자인1",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "교필",
+            "name": "Englsih Reading Practice 1",
+            "credits": 2
+          },
+          {
+            "type": "교선1(2학년)",
+            "name": "한국현대사의이해",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "타이포그래피",
+            "credits": 2
+          },
+          {
+            "type": "전선",
+            "name": "프로덕트디자인2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기초렌더링",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "비주얼커뮤니케이션디자인2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디자인인모션1",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "타입&이미지",
+            "credits": 2
+          },
+          {
+            "type": "전선",
+            "name": "기초3D그래픽스",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디자인재료및성형기법",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "프로덕트조형스튜디오",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "인터렉티브디자인",
+            "credits": 2
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "교필(3~4학년)",
+            "name": "취업역량개발론",
+            "credits": 1
+          },
+          {
+            "type": "전필",
+            "name": "UX디자인1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "그래픽디자인1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "3D그래픽어플리케이션",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "스마트프로덕트디자인1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "프로덕트&모빌리티디자인1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "인포그래픽",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "UX디자인2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "그래픽디자인2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디지털미디어디자인",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "스마트프로덕트디자인2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "프로덕트&모빌리티디자인2",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "졸업작품",
+            "credits": 0
+          },
+          {
+            "type": "전선",
+            "name": "아이덴티티디자인1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디지털미디어프로젝트1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "제품시스템디자인1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "제품및운송기기디자인3",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "졸업작품",
+            "credits": 0
+          },
+          {
+            "type": "전선",
+            "name": "아이덴티티디자인2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디지털미디어프로젝트2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "제품시스템디자인2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "제품및운송기기디자인4",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디자인비즈니스&매니지먼트",
+            "credits": 2
+          }
+        ]
+      }
+    ]
+}

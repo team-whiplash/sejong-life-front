@@ -6,27 +6,37 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전공교양",
+            "type": "중필(1~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "중필",
             "name": "문제해결을위한글쓰기와발표",
             "credits": 3
           },
           {
-            "type": "전공교양",
+            "type": "중필",
             "name": "세종사회봉사1",
             "credits": 1
           },
           {
-            "type": "MSC",
+            "type": "중필",
+            "name": "대학생활과진로설계",
+            "credits": 1
+          },
+          {
+            "type": "중필선택",
             "name": "소프트웨어기초코딩",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "전기",
             "name": "일변수미적분학",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "전기",
             "name": "일반물리학및실험1",
             "credits": 3
           }
@@ -37,28 +47,27 @@
         "semester": 2,
         "courses": [
           {
-            "type": "전문교양",
+            "type": "중필",
             "name": "English Listening Practice1",
             "credits": 2
           },
           {
-            "type": "전문교양",
+            "type": "중필",
             "name": "서양철학:쟁점과토론",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "중필선택",
             "name": "고급프로그래밍입문-C",
             "credits": 3
           },
-          
           {
-            "type": "MSC",
+            "type": "전기",
             "name": "다변수미적분학",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "전기",
             "name": "일반물리학및실험2",
             "credits": 3
           }
@@ -69,18 +78,13 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전문교양",
+            "type": "중필선택(2학년)",
             "name": "세계사:인간과문명",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "전기",
             "name": "공업수학1",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "기초설계",
             "credits": 3
           },
           {
@@ -94,11 +98,15 @@
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "전선",
+            "name": "기초설계",
+            "credits": "3(3)"
+          },
+          {
+            "type": "전선",
             "name": "원자로열역학",
             "credits": 3
           }
-          
         ]
       },
       {
@@ -106,38 +114,42 @@
         "semester": 2,
         "courses": [
           {
-            "type": "MSC",
-            "name": "공업수학2",
-            "credits": 3
-          },
-          {
-            "type": "전문교양",
+            "type": "중필",
             "name": "English Reading Practice 1",
             "credits": 2
           },
           {
-            "type": "MSC",
-            "name": "확률및통계",
+            "type": "전기",
+            "name": "공업수학2",
             "credits": 3
           },
           {
             "type": "전필",
             "name": "원자력기계공학기초",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전필",
+            "name": "플라즈마전자기학기초",
             "credits": 3
           },
           {
             "type": "전선",
             "name": "원자로공학1",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "확률및통계",
             "credits": 3
           },
-          
           {
             "type": "전선",
             "name": "방사선과물질의상호작용",
             "credits": 3
           },
           {
-            "type": "MSC",
+            "type": "전선",
             "name": "원자로열전달",
             "credits": 3
           },
@@ -145,13 +157,7 @@
             "type": "전선",
             "name": "원자력법령",
             "credits": 3
-          },
-          {
-            "type": "전필",
-            "name": "플라즈마전자기학기초",
-            "credits": 3
           }
-          
         ]
       },
       {
@@ -159,23 +165,28 @@
         "semester": 1,
         "courses": [
           {
+            "type": "중필(3~4학년)",
+            "name": "취업역량개발론",
+            "credits": 1
+          },
+          {
             "type": "전필",
             "name": "원자로열수력학",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전필",
+            "name": "방사선계측및실험",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "원자력발전소구조해석",
             "credits": 3
           },
           {
             "type": "전선",
             "name": "수치해석",
-            "credits": 3
-          },
-          {
-            "type": "전필",
-            "name": "방사선계측및실험",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "원자력발전소구조해석",
             "credits": 3
           },
           {
@@ -193,7 +204,6 @@
             "name": "핵재료공학",
             "credits": 3
           }
-          
         ]
       },
       {
@@ -203,14 +213,13 @@
           {
             "type": "전필",
             "name": "확률론적안전성평가",
-            "credits": 3
+            "credits": "3(1)"
           },
           {
             "type": "전선",
             "name": "핵연료주기및폐기물관리",
             "credits": 3
           },
-          
           {
             "type": "전선",
             "name": "보건물리",
@@ -236,7 +245,6 @@
             "name": "원자로동역학및실험",
             "credits": 3
           }
-          
         ]
       },
       {
@@ -244,9 +252,14 @@
         "semester": 1,
         "courses": [
           {
+            "type": "전필",
+            "name": "원자로안전공학",
+            "credits": 3
+          },
+          {
             "type": "전선",
             "name": "종합설계A",
-            "credits": 3
+            "credits": "3(3)"
           },
           {
             "type": "전선",
@@ -260,11 +273,13 @@
           },
           {
             "type": "전선",
-            "name": "졸업연구및진로1",
-            "credits": 1
+            "name": "원자력안전규제",
+            "credits": 3
           },
           {
-            
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
           }
         ]
       },
@@ -273,19 +288,19 @@
         "semester": 2,
         "courses": [
           {
-            "type": "전선",
+            "type": "전필",
             "name": "몬테카를로분석및방사선차폐",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "원자로보호및감시",
             "credits": 3
           },
           {
             "type": "전선",
             "name": "종합설계B",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "원자력데이터사이언스",
-            "credits": 3
+            "credits": "3(3)"
           },
           {
             "type": "전선",
@@ -299,15 +314,9 @@
           },
           {
             "type": "전선",
-            "name": "양자공학응용",
-            "credits": 3
-          },
-          {
-            "type": "전선",
             "name": "졸업연구및진로2",
             "credits": 1
           }
-          
         ]
       }
     ]

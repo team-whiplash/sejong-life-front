@@ -1,0 +1,368 @@
+{
+    "department": "우주항공시스템공학부",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "교필",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "교필",
+            "name": "세종인을위한전공설계",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "학기",
+            "name": "SW기초코딩",
+            "credits": 3
+          },
+          {
+            "type": "학기",
+            "name": "미적분학1",
+            "credits": 3
+          },
+          {
+            "type": "전기",
+            "name": "일반물리학1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "우주항공입문",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "교필",
+            "name": "대학영어",
+            "credits": 2
+          },
+          {
+            "type": "교필",
+            "name": "세종인을위한전공탐색",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "학기",
+            "name": "고급프로그래밍활용",
+            "credits": 3
+          },
+          {
+            "type": "학기",
+            "name": "미적분학2",
+            "credits": 3
+          },
+          {
+            "type": "전기",
+            "name": "일반물리학2",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "항공우주무기체계",
+            "credits": 2
+          },
+          {
+            "type": "전필",
+            "name": "항공전사",
+            "credits": 2
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "교필(2~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "학기",
+            "name": "인공지능과빅데이터",
+            "credits": 3
+          },
+          {
+            "type": "전기",
+            "name": "공업수학1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "군사학개론",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "비행기초역학1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "열역학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "고체역학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "관숙비행",
+            "credits": 1
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전기",
+            "name": "공업수학2",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "비행기초역학2",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "일반비행이론",
+            "credits": 1
+          },
+          {
+            "type": "전필",
+            "name": "공군리더십",
+            "credits": 2
+          },
+          {
+            "type": "전필",
+            "name": "항공전략론",
+            "credits": 2
+          },
+          {
+            "type": "전필",
+            "name": "항공법",
+            "credits": 2
+          },
+          {
+            "type": "전필",
+            "name": "미래항공우주산업",
+            "credits": 2
+          },
+          {
+            "type": "전선",
+            "name": "동역학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "공기역학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "항공우주응용SW1",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "비행역학",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "모의비행이론및실습",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "항공안전관리론",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "우주기술운용체계1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "비행기초역학3",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "압축성유체역학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "항공기구조역학",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "모의비행실습1",
+            "credits": 2
+          },
+          {
+            "type": "전필",
+            "name": "비행시스템분석및설계1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "우주기술운용체계2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "비행기초역학4",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "사이버전개론",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "수치해석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "자동제어",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "추진체공학",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "모의비행실습2",
+            "credits": 2
+          },
+          {
+            "type": "전선",
+            "name": "비행시스템분석및설계2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "무인항공기설계1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "비행기초역학5",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "열전달",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "초소형위성설계및실습",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "항법전자시스템설계",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "비행일반및체험비행",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "모의비행실습3",
+            "credits": 2
+          },
+          {
+            "type": "전선",
+            "name": "무인항공기설계2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "방위사업체계",
+            "credits": 2
+          },
+          {
+            "type": "전선",
+            "name": "유도제어시스템설계",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "항공우주AI응용",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
+          }
+        ]
+      }
+    ]
+  }

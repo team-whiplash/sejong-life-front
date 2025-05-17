@@ -6,32 +6,35 @@
         "semester": 1,
         "courses": [
           {
-            "type": "교양필수",
-            "name": "신입생세미나",
+            "type": "교필",
+            "name": "창업과기업가정신1(1~4학년중에 수강)",
             "credits": 1
           },
           {
-            "type": "교양필수",
+            "type": "교필",
+            "name": "신입생세미나A",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "서양철학:쟁점과토론",
             "credits": 3
           },
           {
-            "type": "교양필수",
-            "name": "English Listening Practice 1",
+            "type": "교필",
+            "name": "대학영어",
             "credits": 2
           },
           {
-            "type": "교양선택1",
-            "name": "소프트웨어기초코딩",
+            "type": "학기",
+            "name": "SW기초코딩",
             "credits": 3
           },
-          
           {
-            "type": "학문기초교양",
+            "type": "학기",
             "name": "미적분학1",
             "credits": 3
           },
-          
           {
             "type": "전필",
             "name": "통계학1",
@@ -45,24 +48,28 @@
         "courses": [
 
           {
-            "type": "교양필수",
-            "name": "대학생활과진로탐색",
+            "type": "교필",
+            "name": "신입생세미나B",
             "credits": 1
           },
           {
-            "type": "교양필수",
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "문제해결을위한글쓰기와발표",
             "credits": 3
           },
-         
           {
-            "type": "학문기초교양",
-            "name": "미적분학2",
+            "type": "학기",
+            "name": "고급프로그래밍활용",
             "credits": 3
           },
           {
-            "type": "교양선택1",
-            "name": "고급프로그래밍입문-P",
+            "type": "학기",
+            "name": "미적분학2",
             "credits": 3
           },
           {
@@ -70,20 +77,12 @@
             "name": "통계학2",
             "credits": 3
           }
-         
-         
         ]
       },
       {
         "year": 2,
         "semester": 1,
         "courses": [
-          {
-            "type": "교양필수",
-            "name": "English Reading Practice 1",
-            "credits": 2
-          }, 
-         
           {
             "type": "전필",
             "name": "선형대수학1",
@@ -115,13 +114,6 @@
         "year": 2,
         "semester": 2,
         "courses": [
-
-          {
-            "type": "교양선택1",
-            "name": "세계사:인간과문명",
-            "credits": 3
-          },
-         
           {
             "type": "전필",
             "name": "선형대수학2",
@@ -152,13 +144,17 @@
             "name": "계산수학2",
             "credits": 3
           }
-          
         ]
       },
       {
         "year": 3,
         "semester": 1,
         "courses": [
+          {
+            "type": "교필",
+            "name": "취창업과진로설계(3~4학년중에 수강)",
+            "credits": 1
+          },
           {
             "type": "전필",
             "name": "현대대수학1",
@@ -167,11 +163,6 @@
           {
             "type": "전필",
             "name": "수리통계학1",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "확률과정론",
             "credits": 3
           },
           {
@@ -193,8 +184,12 @@
             "type": "전선",
             "name": "표본조사론",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "확률과정론",
+            "credits": 3
           }
-          
         ]
       },
       {
@@ -213,12 +208,12 @@
           },
           {
             "type": "전선",
-            "name": "회귀분석2",
+            "name": "비모수통계학",
             "credits": 3
           },
           {
             "type": "전선",
-            "name": "비모수통계학",
+            "name": "회귀분석2",
             "credits": 3
           },
           {
@@ -246,7 +241,6 @@
             "name": "미분기하학개론",
             "credits": 3
           }
-          
         ]
       },
       {
@@ -257,11 +251,6 @@
             "type": "전선",
             "name": "다변량통계분석",
             "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로1",
-            "credits": 1
           },
           {
             "type": "전선",
@@ -282,9 +271,12 @@
             "type": "전선",
             "name": "응용통계학특강1",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
           }
-          
-          
         ]
       },
       {
@@ -295,11 +287,6 @@
             "type": "전선",
             "name": "수학사",
             "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로2",
-            "credits": 1
           },
           {
             "type": "전선",
@@ -318,15 +305,19 @@
           },
           {
             "type": "전선",
+            "name": "시계열자료분석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
             "name": "응용통계학특강2",
             "credits": 3
           },
           {
             "type": "전선",
-            "name": "시계열자료분석",
-            "credits": 3
+            "name": "졸업연구및진로2",
+            "credits": 1
           }
-          
         ]
       }
     ]

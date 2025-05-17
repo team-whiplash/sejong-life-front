@@ -1,0 +1,305 @@
+{
+    "department": "건축학과",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "교필(1~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "교필",
+            "name": "신입생세미나A",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "학기",
+            "name": "SW기초코딩",
+            "credits": 3
+          },
+          {
+            "type": "학기",
+            "name": "통계학개론",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "교필",
+            "name": "대학영어",
+            "credits": 2
+          },
+          {
+            "type": "교필",
+            "name": "신입생세미나B",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "교필(2~5학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "전필",
+            "name": "스튜디오1",
+            "credits": 6
+          },
+          {
+            "type": "전필",
+            "name": "건축디지털디자인1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "서양건축사",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "표현과매체",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "학기",
+            "name": "고급인공지능활용",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "건축구조개론",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "스튜디오2",
+            "credits": 6
+          },
+          {
+            "type": "전필",
+            "name": "현대건축사",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "건축디지털디자인2",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "건축시공및관리",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "건축환경개론",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "스튜디오3",
+            "credits": 6
+          },
+          {
+            "type": "전선",
+            "name": "디지털패브리케이션",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "재료와디테일",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "도시설계",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "스튜디오4",
+            "credits": 6
+          },
+          {
+            "type": "전필",
+            "name": "건축설비",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "건축경제학",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "교필(4~5학년)",
+            "name": "취창업과진로설계",
+            "credits": 1
+          },
+          {
+            "type": "전필",
+            "name": "스튜디오5",
+            "credits": 6
+          },
+          {
+            "type": "전필",
+            "name": "프로젝트관리론",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "건축법제도",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "도시계획",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "건축구조역학",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "건설경영",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "스튜디오6",
+            "credits": 6
+          },
+          {
+            "type": "전필",
+            "name": "한국건축사",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "인테리어",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 5,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "건축실무",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "공간과사회",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "스튜디오7",
+            "credits": 6
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
+          }
+        ]
+      },
+      {
+        "year": 5,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "졸업작품",
+            "credits": 0
+          },
+          {
+            "type": "전필",
+            "name": "스튜디오8",
+            "credits": 6
+          },
+          {
+            "type": "전선",
+            "name": "개별연구",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "주거론",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "인공지능과건축환경",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
+          }
+        ]
+      }
+    ]
+  }

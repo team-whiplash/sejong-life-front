@@ -6,33 +6,37 @@
         "semester": 1,
         "courses": [
           {
-            "type": "공통필수",
+            "type": "교필",
+            "name": "창업과기업가정신1(1~4학년중에 수강)",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "신입생세미나A",
             "credits": 1
           },
           {
-            "type": "공통필수",
+            "type": "교필",
             "name": "서양철학:쟁점과토론",
             "credits": 3
           },
           {
-            "type": "공통필수",
+            "type": "교필",
             "name": "대학영어",
             "credits": 2
           },
           {
-            "type": "학문기초교양",
-            "name": "소프트웨어기초코딩",
+            "type": "학기",
+            "name": "SW기초코딩",
             "credits": 3
           },
           {
-            "type": "학문기초교양",
+            "type": "학기",
             "name": "미적분학1",
             "credits": 3
           },
-          
           {
-            "type": "전공기초",
+            "type": "학기",
             "name": "일반화학1",
             "credits": 3
           }
@@ -43,40 +47,45 @@
         "semester": 2,
         "courses": [
           {
-            "type": "공통필수",
+            "type": "교필",
             "name": "신입생세미나B",
             "credits": 1
           },
           {
-            "type": "공통필수",
-            "name": "우주자연인간",
-            "credits": 1
-          },
-          {
-            "type": "공통필수",
+            "type": "교필",
             "name": "문제해결을위한글쓰기와발표",
             "credits": 3
           },
           {
-            "type": "학문기초교양",
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "학기",
             "name": "고급프로그래밍활용",
             "credits": 3
           },
           {
-            "type": "학문기초교양",
+            "type": "학기",
             "name": "미적분학2",
             "credits": 3
           },
           {
-            "type": "전공기초",
+            "type": "학기",
             "name": "일반화학2",
             "credits": 3
+          },
+          {
+            "type": "학기(A)",
+            "name": "통계학개론",
+            "credits": 3
+          }, 
+          {
+            "type": "학기(A)",
+            "name": "일반생물학",
+            "credits": 3
           }
-
-          
-
-         
-          
         ]
       },
       {
@@ -84,11 +93,10 @@
         "semester": 1,
         "courses": [
           {
-            "type": "학문기초교양",
-            "name": "고급프로그래밍활용",
+            "type": "학기",
+            "name": "인공지능과빅데이터",
             "credits": 3
           },
-          
           {
             "type": "전선",
             "name": "유기화학1",
@@ -106,12 +114,9 @@
           },
           {
             "type": "전선",
-            "name": "분석화학실험",
+            "name": "환경화학",
             "credits": 3
           }
-         
-          
-
         ]
       },
       {
@@ -143,15 +148,17 @@
             "name": "물리화학1",
             "credits": 3
           }
-          
-          
-          
         ]
       },
       {
         "year": 3,
         "semester": 1,
         "courses": [
+          {
+            "type": "교필",
+            "name": "취창업과진로설계(3~4학년중에 수강)",
+            "credits": 1
+          },
           {
             "type": "전필",
             "name": "무기화학",
@@ -160,13 +167,6 @@
           {
             "type": "전필",
             "name": "물리화학2",
-            "credits": 3
-          },
-         
-        
-          {
-            "type": "전선",
-            "name": "물리화학실험",
             "credits": 3
           },
           {
@@ -181,14 +181,14 @@
           },
           {
             "type": "전선",
+            "name": "전기화학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
             "name": "화학교과교육론",
             "credits": 3
           }
-          
-          
-          
-          
-          
         ]
       },
       {
@@ -200,8 +200,6 @@
             "name": "고분자화학",
             "credits": 3
           },
-          
-          
           {
             "type": "전선",
             "name": "생유기화학",
@@ -212,7 +210,6 @@
             "name": "생화학실험",
             "credits": 3
           },
-         
           {
             "type": "전선",
             "name": "화학교과교재연구및지도법",
@@ -223,21 +220,12 @@
             "name": "화학논리및논술",
             "credits": 3
           }
-         
-         
-          
         ]
       },
       {
         "year": 4,
         "semester": 1,
         "courses": [
-         
-          {
-            "type": "전선",
-            "name": "졸업연구및진로1",
-            "credits": 1
-          },
           {
             "type": "전필",
             "name": "생화학",
@@ -248,33 +236,32 @@
             "name": "유기합성",
             "credits": 3
           },
-          
           {
             "type": "전선",
             "name": "신소재화학",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
           }
-        
-          
         ]
       },
       {
         "year": 4,
         "semester": 2,
         "courses": [
-          
-          {
-            "type": "전선",
-            "name": "졸업연구및진로2",
-            "credits": 1
-          },
           {
             "type": "전선",
             "name": "고등분석화학",
             "credits": 3
           },
-          
-         
+           {
+            "type": "전선",
+            "name": "에너지화학",
+            "credits": 3
+          },     
           {
             "type": "전선",
             "name": "생물리화학",
@@ -289,12 +276,12 @@
             "type": "전선",
             "name": "생활속의화학", 
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
           }
-          
-
-
-         
-          
         ]
       }
     ]

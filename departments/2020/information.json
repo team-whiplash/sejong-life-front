@@ -6,40 +6,38 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전문교양(인필)",
+            "type": "교필(1~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "문제해결을위한글쓰기와발표",
             "credits": 3
           },
           {
-            "type": "전문교양",
-            "name": "대학생활과 진로설계",
+            "type": "교필",
+            "name": "대학생활과진로설계",
             "credits": 1
           },
           {
-            "type": "전문교양",
-            "name": "세종사회봉사1",
-            "credits": 1
-          },
-          
-          {
-            "type": "BSM(인필)",
+            "type": "학기",
             "name": "일반물리학및실험1",
             "credits": 3
           },
           {
-            "type": "BSM(인필)",
+            "type": "학기",
             "name": "기초미적분학",
             "credits": 3
           },
-          
           {
 
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "C프로그래밍및실습",
-            "credits": 3
+            "credits": 4
           },
           {
-            "type": "전선(인필)",
+            "type": "전선",
             "name": "정보보호와보안의기초",
             "credits": 3
           }
@@ -50,33 +48,37 @@
         "semester": 2,
         "courses": [
           {
-            "type": "전문교양(인필)",
+            "type": "교필",
             "name": "English Listening Practice 1",
             "credits": 2
           },
           {
-            "type": "전문교양(인필)",
+            "type": "교필",
+            "name": "신입생세미나",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "서양철학:쟁점과토론",
             "credits": 3
           },
           {
-            "type": "교양선택",
+            "type": "교선1",
             "name": "고급프로그래밍입문-P",
             "credits": 3
           },
-         
           {
-            "type": "BSM(인필)",
+            "type": "학기",
             "name": "일반생물학",
             "credits": 3
           },
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "고급C프로그래밍및실습",
-            "credits": 3
+            "credits": 4
           },
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "공학설계기초(산학프로젝트입문)",
             "credits": "3(3)"
           },
@@ -92,17 +94,27 @@
         "semester": 1,
         "courses": [
           {
-            "type": "교양선택(인필)",
+            "type": "교선1(2학년)",
             "name": "세계사:인간과문명",
             "credits": 3
           },  
           {
-            "type": "교양선택(인필)",
-            "name": "정보사회의 사이버윤리",
+            "type": "교선1",
+            "name": "정보사회의사이버윤리",
             "credits": 3
           },  
           {
-            "type": "전선(인필)",
+            "type": "전필",
+            "name": "자료구조및실습",
+            "credits": 4
+          },
+          {
+            "type": "전필",
+            "name": "컴퓨터네트워크",
+            "credits": 3
+          },
+          {
+            "type": "전선",
             "name": "이산수학및프로그래밍",
             "credits": 3
           },  
@@ -112,21 +124,10 @@
             "credits": 3
           },
           {
-            "type": "전선(인필)",
+            "type": "전선",
             "name": "정수론",
             "credits": 3
           },
-          {
-            "type": "전필(인필)",
-            "name": "자료구조및실습",
-            "credits": 3
-          },
-          {
-            "type": "전필(인필)",
-            "name": "컴퓨터네트워크",
-            "credits": 3
-          },
-         
           {
             "type": "전선",
             "name": "문제해결및실습:JAVA",
@@ -142,8 +143,6 @@
             "name": "사이버전개론",
             "credits": 3
           }
-          
-          
         ]
       },
       {
@@ -151,19 +150,23 @@
         "semester": 2,
         "courses": [
           {
-            "type": "전문교양(인필)",
+            "type": "교필",
             "name": "English Reading Practice 1",
             "credits": 2
           },  
-         
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "알고리즘및실습",
-            "credits": "3(1)"
+            "credits": "4(1)"
           },
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "어셈블리어",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "대칭키암호론",
             "credits": 3
           },
           {
@@ -172,17 +175,10 @@
             "credits": 3
           },
           {
-            "type": "전필",
-            "name": "대칭키암호론",
-            "credits": 3
-          },
-        
-          {
             "type": "전선",
             "name": "보안프로그래밍",
             "credits": "3(1)"
           },
-         
           {
             "type": "전선",
             "name": "고급컴퓨터네트워크",
@@ -198,7 +194,6 @@
             "name": "리눅스의기초및실습",
             "credits": 3
           }
-          
         ]
       },
       {
@@ -206,12 +201,17 @@
         "semester": 1,
         "courses": [
           {
-            "type": "교양선택",
+            "type": "교필(3~4학년)",
+            "name": "취업역량개발론",
+            "credits": 1
+          },
+          {
+            "type": "교선1",
             "name": "Technical Writing 기초",
             "credits": 2
           },  
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "공개키암호론",
             "credits": 3
           },
@@ -230,20 +230,16 @@
             "name": "웹해킹과보안",
             "credits": "3(1)"
           },
-          
           {
             "type": "전선",
             "name": "임베디드시스템보안",
             "credits": "3(1.5)"
           },
-          
-         
           {
             "type": "전선",
             "name": "보안경진대회트레이닝",
             "credits": 1
           }
-          
         ]
       },
       {
@@ -251,12 +247,12 @@
         "semester": 2,
         "courses": [
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "시스템해킹과보안",
             "credits": 3
           },
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "오픈소스보안SW설계",
             "credits": "3(1)"
           },
@@ -285,7 +281,6 @@
             "name": "사이버공방종합훈련",
             "credits": 1
           }
-          
         ]
       },
       {
@@ -293,14 +288,9 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "Capstone디자인(산학협력프로젝트)",
             "credits": "6(6)"
-          },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로1",
-            "credits": 1
           },
           {
             "type": "전선",
@@ -323,10 +313,12 @@
             "type": "전선",
             "name": "디지털포렌식",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
           }
-          
-        
-          
         ]
       },
       {
@@ -337,11 +329,6 @@
             "type": "전선",
             "name": "모바일시스템보안",
             "credits": "3(1.5)"
-          },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로2",
-            "credits": 1
           },
           {
             "type": "전선",
@@ -357,10 +344,12 @@
             "type": "전선",
             "name": "보안정책과법규",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
           }
-          
-          
-          
         ]
       }
     ]
