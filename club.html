@@ -1,11 +1,53 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
+  <meta charset="UTF-8">
+  <title>세종대학교 동아리</title>
+  <link rel="stylesheet" href="css/club.css">
 </head>
 <body>
-    
+    <header>
+        <div class="logo">
+            <a href="index.html">
+                <img src="assets/images/logo.png" alt="Sejong Life Logo">
+            </a>
+        </div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="info.html">정보광장</a></li>
+                <li><a href="graduate.html">졸업요건</a></li>
+                <li><a href="club.html">동아리</a></li>
+                <li><a href="meal.html">식사안내</a></li>
+        </nav>
+    </header>
+<h1>세종대학교 동아리 모음</h1>
+
+<div id="search-container">
+    <input type="text" id="search-input" placeholder="동아리를 검색하세요..." onkeyup="searchClubs()" />
+  </div>
+<!-- 필터 버튼 -->
+<div id="filters">
+  <button onclick="filterClubs('전체')">전체</button>
+  <button onclick="filterClubs('학술/전공 연계')">학술/전공 연계</button>
+  <button onclick="filterClubs('공연/예술/문화')">공연/예술/문화</button>
+  <button onclick="filterClubs('체육/레저')">체육/레저</button>
+  <button onclick="filterClubs('종교')">종교</button>
+  <button onclick="filterClubs('봉사/친목/대외활동')">봉사/친목/대외활동</button>
+</div>
+
+<!-- 동아리 카드 표시 영역 -->
+<div id="club-list"></div>
+
+<!-- 페이지네이션 -->
+<div id="pagination">
+  <button onclick="prevPage()">이전</button>
+  <span id="page-info">1 / 1</span>
+  <button onclick="nextPage()">다음</button>
+</div>
+
+<script src="js/club.js"></script>
 </body>
+<footer>
+    <p>ⓒ 2025 Whiplash Team. All rights reserved.</p>
+</footer>
 </html>
