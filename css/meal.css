@@ -75,9 +75,10 @@
   color: rgb(0, 0, 0);
   display: flex;
   flex-direction: column;
-  /* justify-content: center;
-  align-items: center; */
-  padding: 16px;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  /* margin-top: 16px; */
   box-sizing: border-box;
   /* text-align: center; */
   opacity: 0;
@@ -91,13 +92,13 @@
 }
 
 .hover-title {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   font-weight: bold;
-  /* margin-bottom: 8px; */
+  margin-bottom: 8px;
 }
 
 .hover-desc {
-  font-size: 0.95rem;
+  font-size: 1.2rem;
   line-height: 1.4;
   white-space: pre-wrap;
 }
@@ -126,26 +127,28 @@
   font-size: 1.1em;
 }
 
-/* .roulette-box {
-  position: fixed;
-  top: 100px;
-  right: 60px;
-  z-index: 1000;
-}
-
-.random-pick-btn {
-  background: none;
-  border: none;
-  cursor: pointer;
-  padding: 0;
-}
-
-.roulette-img {
-  width: 40px;
-  height: auto;
-  transition: transform 0.3s ease;
-}
-
-.random-pick-btn:hover .roulette-img {
-  transform: scale(1.05);
+/* .recommend-button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
 } */
+
+#recommend-btn {
+  position: absolute;
+  right: 125px; /* store-list 여백 기준에 맞춰 조정 */
+  top: 12%;
+  padding: 12px 24px;
+  font-size: 1.2rem;
+  background-color: #ffe1e7;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  font-weight: medium;
+  /* transition: background-color 0.3s ease; */
+}
+
+#recommend-btn:hover {
+  background-color: #dc143c;
+  color: white;
+}
