@@ -68,8 +68,65 @@ function initEventListeners() {
   });
 }
 
+const getLunchRecommendation = () => {
+  const randomCategory = Math.random() < 0.5 ? 'campus' : 'offcampus';
+  const type = 'restaurant';
+  const filtered = mealData.filter(
+    (item) => item.category === randomCategory && item.type === type
+  );
+
+  if (filtered.length === 0) {
+    console.warn('No lunch recommendation available');
+    return null;
+  }
+  const randomIndex = Math.floor(Math.random() * filtered.length);
+
+  return filtered[randomIndex];
+};
+
+function renderRecommendation(meal) {
+  const container = document.getElementById('recommend-result');
+  container.innerHTML = ''; // 초기화
+
+  const wrapper = document.createElement('div');
+  wrapper.className = 'recommend-card-wrapper';
+
+  wrapper.innerHTML = `
+    <div class="recommend-close-btn">×</div>
+    <div class="store-card recommend-card">
+      <div class="recommend-title">오늘의 점심 추천</div>
+      <img class="store-image" src="${meal.image}" alt="${meal.name}">
+      <p class="store-name">${meal.name}</p>
+      <p class="store-position">${meal.position}</p>
+    </div>
+  `;
+
+  container.appendChild(wrapper);
+
+  // 닫기 버튼 기능
+  const closeBtn = wrapper.querySelector('.recommend-close-btn');
+  closeBtn.addEventListener('click', () => {
+    container.innerHTML = '';
+  });
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   console.log('meal.js loaded');
+
+  // initEventListeners();
+  // renderStores();
+
+  const recommendBtn = document.getElementById('recommend-btn');
+  if (recommendBtn) {
+    recommendBtn.addEventListener('click', () => {
+      const meal = getLunchRecommendation();
+      if (meal) {
+        renderRecommendation(meal);
+      } else {
+        alert('추천할 식당이 없습니다.');
+      }
+    });
+  }
 
   initEventListeners();
   renderStores();

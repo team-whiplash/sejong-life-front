@@ -77,6 +77,7 @@ window.mealData = [
     type: 'restaurant',
     name: '군자관 식당',
     position: '군자관 6층',
+    image: 'assets/images/meal/gunja.jpg',
   },
   {
     id: 10,
@@ -84,6 +85,7 @@ window.mealData = [
     type: 'restaurant',
     name: '진관홀 식당',
     position: '진관홀 지하',
+    image: 'assets/images/meal/jin.jpg',
   },
   {
     id: 11,
@@ -91,6 +93,7 @@ window.mealData = [
     type: 'restaurant',
     name: '학생회관 식당',
     position: '학생회관 1층',
+    image: 'assets/images/meal/student_hall.jpg',
   },
   {
     id: 12,
@@ -98,6 +101,7 @@ window.mealData = [
     type: 'cafe',
     name: '보난자커피',
     position: '서울 광진구 능동로 239-1 B동 1층',
+    image: 'assets/images/meal/bonanza.jpg',
   },
   {
     id: 13,
@@ -105,6 +109,7 @@ window.mealData = [
     type: 'cafe',
     name: '스타벅스',
     position: '서울 광진구 능동로 243 (군자동)',
+    image: 'assets/images/meal/starbucks.jpg',
   },
   {
     id: 14,
@@ -199,7 +204,7 @@ window.mealData = [
     type: 'restaurant',
     name: '방이샤브샤브칼국수',
     position: '서울 광진구 군자로 106 1층',
-    image: 'assets/images/meal/bangyi.jpg',
+    image: 'assets/images/meal/bangyi.JPG',
   },
   {
     id: 26,
@@ -207,6 +212,7 @@ window.mealData = [
     type: 'restaurant',
     name: '채움 솥뚜껑생삼겹살',
     position: '서울 광진구 군자로 104-1',
+    image: 'assets/images/meal/chaeum.jpg',
   },
   {
     id: 27,
@@ -214,6 +220,7 @@ window.mealData = [
     type: 'restaurant',
     name: '또래끼리',
     position: '서울 광진구 군자로 103',
+    image: 'assets/images/meal/ddorae.jpg',
   },
   {
     id: 28,
@@ -221,6 +228,7 @@ window.mealData = [
     type: 'restaurant',
     name: '춘선만두',
     position: '서울 광진구 군자로 101',
+    image: 'assets/images/meal/chunseon.jpg',
   },
   {
     id: 29,
@@ -228,6 +236,7 @@ window.mealData = [
     type: 'restaurant',
     name: '마라대국',
     position: '서울 광진구 군자로 96',
+    image: 'assets/images/meal/mara.jpg',
   },
   {
     id: 30,
@@ -235,6 +244,7 @@ window.mealData = [
     type: 'restaurant',
     name: '피자스쿨',
     position: '서울 광진구 군자로 76 1층 1-1, 2호',
+    image: 'assets/images/meal/pizza_school.jpg',
   },
   {
     id: 31,
@@ -242,6 +252,7 @@ window.mealData = [
     type: 'restaurant',
     name: '춘천골닭갈비',
     position: '서울 광진구 군자로 70 나동 1층 105호',
+    image: 'assets/images/meal/chuncheongol.jpg',
   },
   {
     id: 32,
@@ -249,5 +260,6 @@ window.mealData = [
     type: 'restaurant',
     name: '미식반점',
     position: '서울 광진구 군자로 70 1층',
+    image: 'assets/images/meal/misik.jpg',
   },
 ];
