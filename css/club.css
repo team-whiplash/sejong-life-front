@@ -36,7 +36,7 @@
   }
   
   .nav-links li a:hover {
-    color: #0061b0;
+    color: #dc143c;
   }
   
   footer {
@@ -48,49 +48,42 @@
     margin-top: 100px;
   }
   
-  h1 {
-    text-align: center;
-    margin-bottom: 30px;
-  }
-  #search-container {
-    text-align: center;
-    margin: 20px;
-  }
   
-  #search-input {
-    width: 300px;
-    padding: 10px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-  }
+  
   #filters {
     text-align: center;
-    margin-bottom: 20px;
+    margin: 20px 0 20px 0; /* 상단 여백 크게, 하단 작게 */
     flex-wrap: wrap;
   }
   
   #filters button {
-    margin: 5px;
-    padding: 10px 15px;
+    padding: 8px 14px;
+    font-size: 1rem;
+    border-radius: 20px;
     border: none;
-    background-color: #007bff;
-    color: white;
-    border-radius: 5px;
+    background-color: #eee;
     cursor: pointer;
+    font-weight: bold;
+    margin: 5px; /* 버튼 간 간격 추가 */
   }
   #filters button:hover {
-    background-color: #0056b3;
+    background-color: black;
+    color: white;
+    transition: background-color 0.3s ease;
   }
+  #filters button.active {
+  background-color: black;
+  color: white;
+}
   #pagination {
     text-align: center;
-    margin: 30px 0;
+    margin: 20px 0;
   }
   
   #pagination button {
     padding: 10px 15px;
     margin: 0 10px;
-    background-color: #28a745;
+    background-color: #e94c70;
     color: white;
     border: none;
     border-radius: 5px;
@@ -106,8 +99,8 @@
   #club-list {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 20px;
-    padding: 0 20px;
+     gap: 24px 40px;  /* 세로 간격 40px으로 확대 */
+    padding: 0 100px;
   }
   
   .club-card {
@@ -117,7 +110,7 @@
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     display: flex;
     align-items: center; /* 수직 정렬 */
-    height: 160px; /* 고정 높이 (필요 시 조정 가능) */
+    height: 150px; /* 고정 높이 (필요 시 조정 가능) */
   }
   .club-card-content {
     display: flex;
@@ -138,17 +131,54 @@
   }
   
   .club-text h3 {
+    text-align: center;
     margin: 0 0 8px 0;
     font-size: 18px;
   }
   
   .club-text p {
+    word-break: keep-all;
     margin: 0;
+    text-align: center;
     color: #555;
-    font-size: 14px;
+    font-size: 13px;
   }
   .club-card:hover {
     transform: scale(1.03);
     box-shadow: 0 6px 12px rgba(0,0,0,0.15);
     transition: 0.3s;
   }
+
+  #search-container {
+    text-align: center;
+    margin-top: 20px
+  }
+  
+  .search-box {
+    display: inline-flex;
+    align-items: center;
+    border-bottom: 2px solid #333;
+    padding: 5px 10px;
+  }
+  
+  .search-icon {
+    font-size: 18px;
+    color: #999;
+    margin-right: 5px;
+  }
+  
+  #search-input {
+    border: none;
+    outline: none;
+    font-size: 16px;
+    line-height: 1.2;        /* ✅ 글자 높이 줄임 */
+    padding: 4px 0 2px 0;     /* ✅ 아래 여백 줄임 */
+    width: 250px;
+    background: transparent;
+    color: #333;
+  }
+  
+  #search-input::placeholder {
+    color: #bbb;
+  }
+  
