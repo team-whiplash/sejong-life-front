@@ -1,0 +1,99 @@
+{
+    "department": "경제학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "신입생세미나",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "경제원론1",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "기초경제수학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "대학생활과진로탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "경제원론2",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "경제수학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "국제통상학개론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "경제통계",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "미시경제학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경제사",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "거시경제학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경제발전론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경제학설사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "무역실무",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

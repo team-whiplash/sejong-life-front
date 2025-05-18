@@ -1,0 +1,523 @@
+{
+    "department": "음악과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "신입생세미나",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "전공실기1",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "연주1",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "딕션1",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "합창1",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "현악합주1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "피아노교수법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "체임버뮤직1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "시창청음1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "오케스트라및앙상블1",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "기초악전및컴퓨터사보",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "대학생활과진로탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "연주2",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "전공실기2",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "딕션2",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "합창2",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "현악합주2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "관악합주2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "체임버뮤직2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "시창청음2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "발성과발음",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "컴퓨터음악1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "오케스트라및앙상블2",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "연주3",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "전공실기3",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "피아노문헌1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "합창3",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "현악합주3",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "딕션3",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "체임버뮤직3",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "화성법및대위법1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "레코딩실습1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "컴퓨터음악2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "오케스트라및앙상블3",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "연주4",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "전공실기4",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "피아노문헌2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "합창4",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "현악합주4",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "관악합주4",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "딕션4",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "체임버뮤직4",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "화성법및대위법2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "레코딩실습2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "오케스트라및앙상블4",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "전공실기5",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "연주5",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "성악문헌1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "음악사1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "합창5",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "현악합주5",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "음악교과교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "체임버뮤직5",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "관현악문헌",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "퍼포먼스워크샵1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "오케스트라및앙상블5",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "연주6",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "전공실기5",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "전공실기6",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "성악문헌2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "음악사2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "합창6",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "현악합주6",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "관악합주6",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "음악교과교재연구및지도법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "음악논리및논술",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "체임버뮤직6",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "퍼포먼스워크샵2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "월드뮤직연구",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "오케스트라및앙상블6",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "전공실기7",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "졸업작품(P/NP)",
+                    "credits": 0
+                },
+                {
+                    "type": "전필",
+                    "name": "연주7",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "음악분석",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "현악합주7",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "체임버뮤직7",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "오페라워크샾1",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "DJing",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "반주문헌1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "퍼포먼스워크샵3",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "오케스트라및앙상블7",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "전공실기8",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "졸업작품(P/NP)",
+                    "credits": 0
+                },
+                {
+                    "type": "전필",
+                    "name": "연주8",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "지휘법",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "현악합주8",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "관악합주8",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "체임버뮤직8",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "오페라워크샾2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "뮤직비지니스",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "반주문헌2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "실용음악제작",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "퍼포먼스워크샵4",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "오케스트라및앙상블8",
+                    "credits": 2
+                }
+            ]
+        }
+    ]
+}

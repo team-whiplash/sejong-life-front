@@ -1,0 +1,353 @@
+{
+    "department": "영화예술학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "영화개론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "무대매커니즘1",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "스토리텔링",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "영상표현기초",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "연극의이해",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "기초연기1(근육과감각훈련)",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "개별창의연구1",
+                    "credits": 0
+                },
+                {
+                    "type": "전필",
+                    "name": "호흡과발성1",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "세종인을위한전공탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "서양영화사",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "무대매커니즘2",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "영화기술기초",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "개별창의연구2",
+                    "credits": 0
+                },
+                {
+                    "type": "전필",
+                    "name": "기초연기2(감성과체험훈련)",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "호흡과발성2",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "공연의이해와감상",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "작품분석",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "촬영조명1",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "세계연극사",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "텍스트와연기실습1",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "공연프로덕션실습1",
+                    "credits": 0
+                },
+                {
+                    "type": "전선",
+                    "name": "영화제작WS1",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "뮤지컬넘버플레이1",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "편집",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "신체언어훈련1",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "연출론",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "공연프로덕션실습2",
+                    "credits": 0
+                },
+                {
+                    "type": "전필",
+                    "name": "텍스트와연기실습2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "시나리오작법1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영화제작WS2",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "사운드",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "공연연출실습",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "화술트레이닝1",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "다큐영화제작",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "동양영화사",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "영화제작WS3",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "연극영화교과교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영화기술고급",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "화술트레이닝2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "연기실습콜라보레이션1",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "영화제작론",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "연기메소드연구",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "영화제작WS4",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "연극영화교과교재연구및지도법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "연극영화논리및논술",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "매체연기실습2",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "뮤지컬넘버플레이2",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "연기실습콜라보레이션2-종합설계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "신체언어훈련2",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "졸업작품(P/NP)",
+                    "credits": 0
+                },
+                {
+                    "type": "전선",
+                    "name": "영화제작WS5",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "장편영화기획",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "공연제작Project1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영화장르연구",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "다중매체연기연구",
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "졸업작품(P/NP)",
+                    "credits": 0
+                },
+                {
+                    "type": "전필",
+                    "name": "작가연구",
+                    "credits": 2
+                },
+                {
+                    "type": "전필",
+                    "name": "공연제작Project2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영화제작WS6",
+                    "credits": 2
+                },
+                {
+                    "type": "전선",
+                    "name": "예술과기획경영",
+                    "credits": 2
+                }
+            ]
+        }
+    ]
+}

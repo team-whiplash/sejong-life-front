@@ -1,0 +1,328 @@
+{
+    "department": "건설환경공학과",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "교필",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "교필",
+            "name": "세종인을위한전공설계",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "학기",
+            "name": "SW기초코딩",
+            "credits": 3
+          },
+          {
+            "type": "학기",
+            "name": "미적분학1",
+            "credits": 3
+          },
+          {
+            "type": "전기",
+            "name": "일반물리학1",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "교필",
+            "name": "대학영어",
+            "credits": 2
+          },
+          {
+            "type": "교필",
+            "name": "세종인을위한전공탐색",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "학기",
+            "name": "고급프로그래밍활용",
+            "credits": 3
+          },
+          {
+            "type": "학기",
+            "name": "미적분학2",
+            "credits": 3
+          },
+          {
+            "type": "전기",
+            "name": "일반화학1",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "교필(2~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "전기",
+            "name": "공업수학1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "환경공학및실험",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "유체역학및연습",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "응용역학및연습1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기초창의설계",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "MSC",
+            "name": "지구환경과학입문",
+            "credits": 3
+          },
+          {
+            "type": "전기",
+            "name": "공업수학2",
+            "credits": 3
+          },
+          {
+            "type": "MSC",
+            "name": "건설수치해석",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "응용역학및연습2",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "토질역학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "수리학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기후변화물관리",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "콘크리트공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전필",
+            "name": "구조공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "재해방지공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "스마트수처리시스템공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "강구조공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "측량학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "AI활용물관리기술",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "건설경영관리",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "콘크리트구조설계",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "물재생자원순환",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "도시수문학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기초공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "합성구조설계",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "도시물순환공학",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "도로공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "도시수재해공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "건설CAD",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "내진설계",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "해안및항만공학",
+            "credits": "3(1.5)"
+          },
+          {
+            "type": "전선",
+            "name": "Water-AI Open Lap",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "AI기반건설환경데이터분석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "스마트시티프로젝트(종합설계)",
+            "credits": "3(3)"
+          },
+          {
+            "type": "전선",
+            "name": "교량공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "첨단계측공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "건설재료시험",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "스마트환경유체모델링",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "Water-AI Internship",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "빅데이터분석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
+          }
+        ]
+      }
+    ]
+  }

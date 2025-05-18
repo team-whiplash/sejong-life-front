@@ -1,0 +1,208 @@
+{
+    "department": "교육학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "신입생세미나",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "교육학의탐구",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "대학생활과진로탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "교육심리의이론과실제",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "교육철학의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "교수학습이론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "평생교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "학습심리학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "인적자원개발론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "교육행정의이론과실제",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "교육공학의이론과실제",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "평생교육방법론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "교육과정과프로그램개발",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "기업교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "원격교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "교육학교과교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "진로상담의이해와실제",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "교육통계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "교육사회학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "평생교육프로그램개발론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "평생교육경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "교육학교과교재연구및지도법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "교육학논리및논술",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "리더십프로그램개발",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "학생상담의이론과실제",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "교육평가론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "평생교육실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "성인학습및상담",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "사회조사방법론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로2",
+                    "credits": 1
+                }
+            ]
+        }
+    ]
+}

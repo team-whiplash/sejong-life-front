@@ -1,0 +1,394 @@
+{
+    "department": "AI로봇학과 (전 지능기전공학과)",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전공교양(인필)",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "전공교양(인필)",
+            "name": "신입생세미나",
+            "credits": 1
+          },
+          {
+            "type": "교양선택",
+            "name": "세종사회봉사1",
+            "credits": 1
+          },
+          
+          {
+            "type": "BSM(인필)",
+            "name": "일반물리학및실험",
+            "credits": 3
+          },
+          {
+            "type": "BSM(인필)",
+            "name": "일변수미적분학",
+            "credits": 3
+          },
+          {
+            "type": "전필(인필)",
+            "name": "C프로그래밍및실습",
+            "credits": 3
+          },
+          {
+            "type": "교양선택",
+            "name": "고급프로그래밍입문-P",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전문교양(인필)",
+            "name": "English Listening Practice 1",
+            "credits": 2
+          },
+          {
+            "type": "전문교양(인필)",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "전문교양(인필)",
+            "name": "대학생활과진로탐색",
+            "credits": 1
+          },
+          {
+            "type": "BSM(인필)",
+            "name": "공업수학1",
+            "credits": 3
+          },
+          
+          {
+            "type": "전필(인필)",
+            "name": "고급C프로그래밍및실습",
+            "credits": 3
+          },
+           {
+            "type": "BSM(인필)",
+            "name": "이산수학및프로그래밍",
+            "credits": 3
+          }, 
+          {
+            "type": "전선",
+            "name": "창의SW융합노마드",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필(인필)",
+            "name": "선형대수및프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전필(인필)",
+            "name": "자료구조및실습",
+            "credits": 3
+          },
+          {
+            "type": "전필(인필)",
+            "name": "창의SW기초설계",
+            "credits": "3(3)"
+          },
+          {
+            "type": "전선",
+            "name": "디지털시스템",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "동적시스템모델링",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "전기회로",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "웹프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기계전자프로그래밍",
+            "credits": 3
+          }
+         
+        
+          
+          
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전문교양(인필)",
+            "name": "English Reading Practice 1",
+            "credits": 2
+          },  
+        
+          {
+            "type": "전필인필)",
+            "name": "확률통계및프로그래밍",
+            "credits": 3
+          },  
+          {
+            "type": "전필(인필)",
+            "name": "알고리즘및실습",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "동역학",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "K-MOOC:멀티미디어",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "신호및시스템",
+            "credits": 3
+          },
+          
+          {
+            "type": "전선",
+            "name": "JAVA프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "전기회로실험",
+            "credits": "3(1)"
+          }
+                   
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "기계학습",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "반도체소자",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "자동제어",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "통신시스템",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "수치해석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "영상처리",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "컴퓨터구조및운영체제",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "컴퓨터네트워크",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "전자회로",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "데이터베이스",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "인공지능",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "디지털신호처리",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디지털회로설계",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "로보틱스",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "앱프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "스마트카제어",
+            "credits": 3
+          },
+          
+          {
+            "type": "전선",
+            "name": "기계요소설계",
+            "credits": 3
+          },
+                   
+          {
+            "type": "전선",
+            "name": "임베디드시스템",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "무인이동체제어",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디지털통신",
+            "credits": 3
+          }
+          
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필(인필)",
+            "name": "캡스톤디자인(산학협력프로젝트)",
+            "credits": "6(6)"
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "무인이동체제어실습",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "딥러닝시스템",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "스마트카제어실습",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "인턴십1",
+            "credits": 3
+          },
+           {
+            "type": "전선",
+            "name": "센서및매핑알고리즘",
+            "credits": 3
+          }
+                    
+          
+        
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필(인필)",
+            "name": "Capstone디자인(산학협력프로젝트)",
+            "credits": "6(6)"
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "머신비전시스템",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "무인이동체제작및실습",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "인턴쉽2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "지능기전산학세미나",
+            "credits": 2
+          },
+          {
+            "type": "전선",
+            "name": "자율주행시뮬레이션",
+            "credits": 3
+          }
+          
+          
+        ]
+      }
+    ]
+  }
+

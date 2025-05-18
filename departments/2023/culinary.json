@@ -1,0 +1,218 @@
+{
+    "department": "글로벌조리학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "식품위생학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "조리기초실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "세계음식문화사",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "조리학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "글로벌식생활문화",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "모던이스트퀴진실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "페스티벌이벤트경영",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "외식영양과건강",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔연회기획과케이터링경영",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "고객커뮤니케이션전략",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무3",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "Coffee Barista창업",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "식품재료학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "유러피안퀴진실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "Boulanger실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무4",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "외식산업경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "K-Food&세계요리실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무5",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "메뉴기획과푸드플레이팅",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "퐁과소스실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "레스토랑경영과창업",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무6",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "글로벌퀴진인더키친",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "호텔외식원가관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무7",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "카페베이커리실습",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무8",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "글로벌조리캡스톤디자인",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "HMR상품기획",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

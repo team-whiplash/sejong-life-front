@@ -1,0 +1,89 @@
+{
+    "department": "미디어커뮤니케이션학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "인간커뮤니케이션",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "광고PR개론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "미디어의이해",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "커뮤니케이션이론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "정보리터러시",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "광고매체기획",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "어플리케이션기획",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "커뮤니케이션조사방법론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "취재보도론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "대화와가십",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영상콘텐츠제작기초",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "통합마케팅커뮤니케이션기획",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "department": "국어국문학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "한국문학의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "의사소통교육론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "세종인을위한전공탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "국어학개론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "국어어문생활의실제",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "국어문법론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "한국한문학의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "한국현대소설론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "한국문학의장르론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "향가여요론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "한국근대소설론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "한국문학과영상문화",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "국어교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "국어의미론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "한국현대시론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "국어교과교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "시조가사론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "한국고전소설론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "한국현대희곡론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "국어교과교재연구및지도법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "국어논리및논술",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "한국문화와한국어교육",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "독서교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "한국문학과문화콘텐츠",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "한국문학의역사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로2",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "국어화용론",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

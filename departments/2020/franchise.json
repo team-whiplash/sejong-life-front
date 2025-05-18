@@ -1,0 +1,213 @@
+{
+    "department": "호텔외식관광프랜차이즈경영학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "경영학원론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "마케팅원론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "관광산업의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식경영실무1",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "경제학원론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "Hospitality산업의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "글로벌식생활문화",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식경영실무2",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "여행사경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "주류학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품위생관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식음료원가관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식경영실무3",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "HRT서비스경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "HRT프랜차이즈관련법규",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식경영실무4",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "푸드스타일링",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "연회기획및케이터링경영론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "호텔경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "HRT프랜차이즈시스템및경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "HRT소비자행동",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식경영실무5",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "관광경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "외식산업경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품유통물류관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식경영실무6",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "커피학개론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "호텔외식경영실무7",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "음식관광기획론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "문화엔터테인먼트관광",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "호텔외식경영실무8",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "고객만족경영론",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

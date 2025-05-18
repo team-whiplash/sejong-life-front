@@ -1,0 +1,228 @@
+{
+    "department": "행정학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "세종인을위한진로설계",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "융합사회의정부와행정",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "세종인을위한전공탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "행정학원론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "헌법학원론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "인사행정론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "조직론1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "지방행정론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "행정통계분석(기초)",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "재무행정론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "행정법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "조직론2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "빅데이터와행정분석",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "디지털사회의NGO와시민참여",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "행정통계분석(응용)",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "정책론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "도시행정론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "전자정부론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일반사회교과교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "AI시대의행정철학과윤리",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "국제행정론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기획론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "행정관리론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "행정규제론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "행정개혁론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일반사회논리및논술",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "행동경제학과공공정책",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "공기업론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "공법연습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "정책분석평가론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "관료제도론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "한국행정론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "정책사례분석",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로2",
+                    "credits": 1
+                }
+            ]
+        }
+    ]
+}

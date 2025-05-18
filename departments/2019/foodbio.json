@@ -1,0 +1,134 @@
+{
+    "department": "생명시스템학부 식품생명공학전공",
+    "curriculum": [
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "유기화학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일반미생물학및실험",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "생화학",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "식품일반미생물학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영양화학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품가공기초",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "식품화학1",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "식품공학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품미생물학및실험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품저장학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기능성식품학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품분석및실험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품가공학및실험(종합설계)",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "동물생명식품학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "식품포장학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품화학2및실험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "향미화학및관능평가",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품개발및실험(종합설계)",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품분자생물학및실험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품공정학및실험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품생명공학연구실습",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

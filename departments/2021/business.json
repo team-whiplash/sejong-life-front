@@ -1,0 +1,144 @@
+{
+    "department": "경영학부",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "신입생세미나",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "경영학원론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "경제학원론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "대학생활과진로탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "회계원리1",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "경영통계학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경영기초수학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경영기초영어",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "Introduction to Finance",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "관리회계",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "재무관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "마케팅관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "회계원리2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "비즈니스커뮤니케이션1",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "조직행동론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "경영정보론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "생산관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "마케팅조사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "소비자행동론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "원가회계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "투자론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기업재무",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "비즈니스커뮤니케이션2",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

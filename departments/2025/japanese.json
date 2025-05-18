@@ -1,0 +1,120 @@
+{
+    "department": "일어일문학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "일본사회의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본어A1",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "일본문화",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본어A2",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필필",
+                    "name": "디지털일본학과AI리터러시",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본어문법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본어작문",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "중급일본어",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "일본어회화",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "고급일본어",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본문장리터러시",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                { "type": "전필", "name": "일본의무대예술", "credits": 3 },
+                { "type": "전필", "name": "일본어학개론", "credits": 3 }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                { "type": "전필", "name": "일문학과역사", "credits": 3 },
+                { "type": "전필", "name": "일본지역연구", "credits": 3 },
+                { "type": "전선", "name": "일본어논리및논술", "credits": 3 },
+                { "type": "전선", "name": "일본의현대문학", "credits": 3 }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                { "type": "전필", "name": "현대일본과국제사회", "credits": 3 },
+                { "type": "전선", "name": "일본사상사", "credits": 3 },
+                { "type": "전선", "name": "일본언어문화론", "credits": 3 }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                { "type": "전필", "name": "한일비교문화론", "credits": 3 },
+                { "type": "전필", "name": "일본어능력시험", "credits": 3 },
+                { "type": "전선", "name": "일본어교육론", "credits": 3 }
+            ]
+        }
+    ]
+}

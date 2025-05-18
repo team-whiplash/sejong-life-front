@@ -1,0 +1,188 @@
+{
+    "department": "패션디자인학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "모델드로잉",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "기초패턴설계",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "패션컴퓨터그래픽",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "응용패턴설계",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "텍스타일디자인",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "패션디자인",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "패션일러스트레이션",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "고급패턴설계",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "소재디자인",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "창작패션일러스트레이션",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "패션브랜드디자인",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기초패션드레이핑",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "고급패션드레이핑",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "디지털패션CAD",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기초니트설계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "남성복캡스톤디자인",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "창작의상캡스톤디자인",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "테일러링",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "디지털패션캡스톤디자인",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "니트캡스톤디자인",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "졸업작품(P/NP)",
+                    "credits": 0
+                },
+                {
+                    "type": "전선",
+                    "name": "창작패턴종합설계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "패션소재기획종합설계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "패션컬렉션종합설계",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "졸업작품(P/NP)",
+                    "credits": 0
+                },
+                {
+                    "type": "전선",
+                    "name": "패션포트폴리오",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "패션코디네이션종합설계",
+                    "credits": 3
+                }
+            ]
+        }
+    ]
+}

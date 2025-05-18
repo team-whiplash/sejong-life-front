@@ -1,0 +1,410 @@
+{
+    "department": "AI융합전자공학과 (전 전자정보통신공학과)",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전공교양(인필)",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "MSC(인필)",
+            "name": "확률및통계",
+            "credits": 3
+          },
+          {
+            "type": "MSC(인필)",
+            "name": "고급프로그래밍활용",
+            "credits": 3
+          },
+          {
+            "type": "MSC(인필)",
+            "name": "미적분학1",
+            "credits": 3
+          },
+          {
+            "type": "MSC(인필)",
+            "name": "C프로그래밍및실습",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전문교양(인필)",
+            "name": "대학영어",
+            "credits": 2
+          },
+          {
+            "type": "전문교양(인필)",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "MSC(인필)",
+            "name": "공업수학1",
+            "credits": 3
+          },
+          {
+            "type": "MSC(인필)",
+            "name": "인공지능과빅데이터",
+            "credits": 3
+          },
+          {
+            "type": "MSC(인필)",
+            "name": "고급C프로그래밍및실습",
+            "credits": 3
+          },
+           {
+            "type": "MSC(인필)",
+            "name": "선형대수",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "MSC(인필)",
+            "name": "기초전자물리",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "공업수학2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "데이터구조론",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "전기회로",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "MATLAB프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디지털논리회로",
+            "credits": "3(1)"
+          }
+          
+          
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "물리전자공학",
+            "credits": 3
+          },
+          {
+            "type": "전필(인필)",
+            "name": "기초설계",
+            "credits": "3(3)"
+          },
+          {
+            "type": "전필",
+            "name": "신호및시스템",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "컴퓨터구조론",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "전기회로실험",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "객체지향프로그래밍",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "데이터분석과도표작성",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "전자회로1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "고급물리전자",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "전자기1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "디지털신호처리",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "데이터통신",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "통신이론",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "인공지능",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "기초광학및실험",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "정보이론",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "자동제어",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "랜덤프로세스",
+            "credits": 3
+          }
+          
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "광전자공학",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "음성처리",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "영상처리",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "디지털통신시스템",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "컴퓨터네트워크",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "전자회로2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "양자전자소자공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "전자기2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "전자소자설계",
+            "credits": "3(2)"
+          },
+          {
+            "type": "전선",
+            "name": "디스플레이공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "데이터통신설계",
+            "credits": "3(2)"
+          },
+          {
+            "type": "전선",
+            "name": "임베디드시스템",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "정보시스템설계",
+            "credits": "3(2)"
+          }
+          
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "캡스톤디자인A",
+            "credits": "3(3)"
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "전자정보통신공학특강A",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "초고주파공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "무선통신공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "광통신공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "전자소자공정실험",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "마이크로컴퓨터실험",
+            "credits": "3(1)"
+          },
+          {
+            "type": "전선",
+            "name": "전자회로설계",
+            "credits": "3(2)"
+          },
+          {
+            "type": "전선",
+            "name": "통신시스템설계",
+            "credits": "3(2)"
+          },
+          {
+            "type": "전선",
+            "name": "멀티미디어설계",
+            "credits": "3(2)"
+          }
+          
+        
+          
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전선",
+            "name": "전자정보통신공학특강B",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "안테나공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "LED공학",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "수치해석",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "차세대이동통신",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "광통신시스템",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디지털제어",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "K-MOOC:무선인터넷의이해",
+            "credits": 1
+          },
+          
+          {
+            "type": "전선",
+            "name": "캡스톤디자인B",
+            "credits": "3(3)"
+          }
+        
+          
+        ]
+      }
+    ]
+  }

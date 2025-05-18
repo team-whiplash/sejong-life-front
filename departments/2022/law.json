@@ -1,0 +1,203 @@
+{
+    "department": "법학부 법학전공",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "신입생세미나A",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "법학입문",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "신입생세미나B",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "인권과법",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "헌법1",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "형법총론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "논리와논술",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "상행위법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "법학적성평가연습1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "민법총칙",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "채권총론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "계약법",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "물권법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "헌법2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "형법각론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "행정법1",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "형사소송법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "노동법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "민사소송법2",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "회사법",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "민사소송법1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "법학적성평가연습2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "저작권법입문",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "세법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "불법행위법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "공정거래법",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "환경법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "법철학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로2",
+                    "credits": 1
+                }
+            ]
+        }
+    ]
+}
