@@ -22,6 +22,7 @@
     </header>
     
 <!-- 필터 버튼 -->
+<div id="filters-search-container">
 <div id="filters">
   <button class="active" onclick="filterClubs('전체',event)">전체</button>
   <button onclick="filterClubs('학술/전공 연계',event)">학술/전공 연계</button>
@@ -30,9 +31,6 @@
   <button onclick="filterClubs('종교',event)">종교</button>
   <button onclick="filterClubs('봉사/친목/대외활동',event)">봉사/친목/대외활동</button>
 </div>
-
-<!-- 동아리 카드 표시 영역 -->
-<div id="club-list"></div>
 <!-- 검색 버튼 -->
 <div id="search-container">
   <div class="search-box">
@@ -44,6 +42,10 @@
     <input type="text" id="search-input" placeholder="동아리를 검색하세요..." onkeyup="searchClubs()" />
   </div>
 </div>
+</div>
+<!-- 동아리 카드 표시 영역 -->
+<div id="club-list"></div>
+
 <!-- 페이지네이션 -->
 <div id="pagination">
   <button onclick="prevPage()">이전</button>
