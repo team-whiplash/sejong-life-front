@@ -69,19 +69,26 @@ function initEventListeners() {
 }
 
 const getLunchRecommendation = () => {
-  const randomCategory = Math.random() < 0.5 ? 'campus' : 'offcampus';
-  const type = 'restaurant';
-  const filtered = mealData.filter(
-    (item) => item.category === randomCategory && item.type === type
+  // 두 조건에 맞는 배열 나누기
+  const campusList = mealData.filter(
+    (item) => item.category === 'campus' && item.type === 'restaurant'
   );
 
-  if (filtered.length === 0) {
+  const offcampusList = mealData.filter(
+    (item) => item.category === 'offcampus' && item.type === 'restaurant'
+  );
+
+  // 둘을 합친 전체 배열
+  const total = [...campusList, ...offcampusList];
+
+  if (total.length === 0) {
     console.warn('No lunch recommendation available');
     return null;
   }
-  const randomIndex = Math.floor(Math.random() * filtered.length);
 
-  return filtered[randomIndex];
+  // 전체에서 하나 무작위 선택
+  const randomIndex = Math.floor(Math.random() * total.length);
+  return total[randomIndex];
 };
 
 function renderRecommendation(meal) {

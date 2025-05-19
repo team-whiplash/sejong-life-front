@@ -93,7 +93,7 @@ window.mealData = [
     type: 'restaurant',
     name: '학생회관 식당',
     position: '학생회관 1층',
-    image: 'assets/images/meal/student_hall.jpg',
+    image: 'assets/images/meal/student_hall.png',
   },
   {
     id: 12,
@@ -197,6 +197,7 @@ window.mealData = [
     type: 'cafe',
     name: '단지커피',
     position: '서울 광진구 군자로 133-1 1층 102호',
+    image: 'assets/images/meal/danji.jpg',
   },
   {
     id: 25,
