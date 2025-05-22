@@ -1,55 +1,215 @@
 @import url('./meal.css');
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 24px 40px;
-    background-color: white;
-    border-bottom: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 40px;
+  background-color: white;
+  border-bottom: 1px solid #eee;
 }
 
 .logo img {
-    height: 30px;
+  height: 30px;
 }
 
 .nav-links {
-    list-style: none;
-    display: flex;
-    gap: 40px;
+  list-style: none;
+  display: flex;
+  gap: 40px;
 }
 
 .nav-links li a {
-    text-decoration: none;
-    font-size: 18px;
-    color: #444;
-    font-weight: 500;
-    transition: color 0.3s ease;
+  text-decoration: none;
+  font-size: 18px;
+  color: #444;
+  font-weight: 500;
+  transition: color 0.3s ease;
 }
 
 .nav-links li a:hover {
-<<<<<<< HEAD
-    color: #dc143c;
-=======
   color: #dc143c;
->>>>>>> 077edaec40a3aefb6cdd69269ece32482d4a2db6
 }
 
 footer {
-    text-align: center;
-    padding: 24px 0;
-    font-size: 14px;
-    color: #888;
-    background-color: #f9f9f9;
-    margin-top: 100px;
+  text-align: center;
+  padding: 24px 0;
+  font-size: 14px;
+  color: #888;
+  background-color: #f9f9f9;
+  margin-top: 100px;
+}
+
+/* 캘린더 및 학사일정정 */
+.main-layout {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+  padding: 40px;
+}
+
+/* 달력 */
+.calendar-container {
+  flex: 1;
+  max-width: 650px;
+  background: white;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  flex-shrink: 0;
+}
+
+.calendar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.calendar-header button {
+  font-size: 20px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 1px;
+}
+
+.day-label,
+.day-cell {
+  padding: 10px;
+  border: 1px solid #ddd;
+  height: 80px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.day-label {
+  background: #eee;
+  font-weight: bold;
+  text-align: center;
+}
+
+.day-cell .event-indicator {
+  display: block;
+  height: 4px;
+  border-radius: 2px;
+  margin-top: 6px;
+}
+
+
+.event-text {
+  font-size: 12px;
+  margin-top: 6px;
+  padding: 2px 4px;
+  border-radius: 4px;
+  color: #333;
+  background: rgba(255, 255, 255, 0.5);
+
+}
+
+.schedule-item {
+  text-align: left;
+  margin-bottom: 14px;
+  font-size: 14px;
+}
+
+.schedule-title {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.schedule-date {
+  font-size: 13px;
+  color: #777;
+}
+
+/* 학사일정 */
+.calendar-detail {
+  flex-shrink: 0;
+  width: 300px;
+  min-height: 350px;
+  background-color: #f9f9fb;
+  border-radius: 16px;
+  padding: 24px;
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+.calendar-detail-inner {
+  text-align: left;
+  color: #999;
+}
+
+.calendar-detail-inner img {
+  width: 60px;
+  margin-bottom: 12px;
+  opacity: 0.5;
+}
+
+.no-schedule-text {
+  font-size: 15px;
+  color: #888;
+}
+
+/* 퀵 메뉴 */
+.quick-menu {
+  position: fixed;
+  top: 120px;
+  right: 40px;
+  width: 220px;
+  background: #ffffff;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 16px 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  z-index: 1000;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.quick-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.quick-menu li {
+  margin-bottom: 12px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.quick-menu li a {
+  display: block;
+  color: #444;
+  text-decoration: none;
+  transition: color 0.2s ease;
+  padding: 6px 8px;
+  border-radius: 8px;
+}
+
+.quick-menu li a:hover {
+  background-color: #f2f2f2;
+  color: #dc143c;
+}
+
+@media screen and (max-width: 768px) {
+  .quick-menu {
+    display: none;
+  }
 }
