@@ -1,4 +1,4 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -47,147 +47,146 @@
     background-color: #f9f9f9;
     margin-top: 100px;
   }
-  
-  #filters-search-container {
+   */
+#filters-search-container {
   display: grid;
   grid-template-columns: 1fr auto 1fr;
   align-items: center;
   position: relative;
   margin-bottom: 24px;
 }
-  
-  #filters {
-    grid-column: 2;
-    display:flex;
-    /* text-align: center; */
-    margin: 20px 0; /* 상단 여백 크게, 하단 작게 */
-    flex-wrap: wrap;
-  }
-  
-  #filters button {
-    padding: 8px 14px;
-    font-size: 1rem;
-    border-radius: 20px;
-    border: none;
-    background-color: #eee;
-    cursor: pointer;
-    font-weight: bold;
-    margin: 5px; /* 버튼 간 간격 추가 */
-  }
-  #filters button:hover {
-    background-color: black;
-    color: white;
-    transition: background-color 0.3s ease;
-  }
-  #filters button.active {
+
+#filters {
+  grid-column: 2;
+  display: flex;
+  /* text-align: center; */
+  margin: 20px 0; /* 상단 여백 크게, 하단 작게 */
+  flex-wrap: wrap;
+}
+
+#filters button {
+  padding: 8px 14px;
+  font-size: 1rem;
+  border-radius: 20px;
+  border: none;
+  background-color: #eee;
+  cursor: pointer;
+  font-weight: bold;
+  margin: 5px; /* 버튼 간 간격 추가 */
+}
+#filters button:hover {
+  background-color: black;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+#filters button.active {
   background-color: black;
   color: white;
 }
-  #pagination {
-    text-align: center;
-    margin: 20px 0;
-  }
-  
-  #pagination button {
-    padding: 10px 15px;
-    margin: 0 10px;
-    background-color: #e94c70;
-    color: white;
-    border: none;
-    border-radius: 5px;
-  }
- 
-  #club-list {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-     gap: 24px 40px;  /* 세로 간격 40px으로 확대 */
-    padding: 0 100px;
-  }
-  
-  .club-card {
-    background: white;
-    border-radius: 8px;
-    padding: 15px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    display: flex;
-    align-items: center; /* 수직 정렬 */
-    height: 150px; /* 고정 높이 (필요 시 조정 가능) */
-  }
-  .club-card-content {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 20px;
-    width: 100%;
-  }
-  .club-image {
-    width: 100px;
+#pagination {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#pagination button {
+  padding: 10px 15px;
+  margin: 0 10px;
+  background-color: #e94c70;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+#club-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px 40px; /* 세로 간격 40px으로 확대 */
+  padding: 0 100px;
+}
+
+.club-card {
+  background: white;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center; /* 수직 정렬 */
+  height: 150px; /* 고정 높이 (필요 시 조정 가능) */
+}
+.club-card-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+}
+.club-image {
+  width: 100px;
   height: 100px;
   object-fit: cover;
   border-radius: 8px;
   flex-shrink: 0;
-  }
-  .club-text {
+}
+.club-text {
   display: flex;
   flex-direction: column;
-  justify-content: center;   /* 수직 중앙 정렬 */
-  align-items: center;       /* 수평 가운데 정렬 */
-  text-align: center;        /* 텍스트 가운데 정렬 */
+  justify-content: center; /* 수직 중앙 정렬 */
+  align-items: center; /* 수평 가운데 정렬 */
+  text-align: center; /* 텍스트 가운데 정렬 */
   flex: 1;
 }
-  .club-text p {
-    word-break: keep-all;
-    margin: 0;
-    text-align: center;
-    color: #555;
-    font-size: 12px;
-  }
-  .club-card:hover {
-    transform: scale(1.03);
-    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
-    transition: 0.3s;
-  }
+.club-text p {
+  word-break: keep-all;
+  margin: 0;
+  text-align: center;
+  color: #555;
+  font-size: 12px;
+}
+.club-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  transition: 0.3s;
+}
 
-  
-  #search-container {
+#search-container {
   grid-column: 3;
   justify-self: end;
-   transform: translateX(-102px); 
- }
-  
-  .search-box {
-    display: inline-flex;
-    align-items: center;
-    border-bottom: 2px solid #333;
-    padding: 5px 10px;
-  }
-  
-  .search-icon {
-    font-size: 18px;
-    color: #999;
-    margin-right: 5px;
-  }
-  
-  #search-input {
-    border: none;
-    outline: none;
-    font-size: 16px;
-    line-height: 1.2;        
-    padding: 4px 0 2px 0;     
-    width: 150px;
-    background: transparent;
-    color: #333;
-  }
-  
-  #search-input::placeholder {
-    font-size: 14px;
-    color: #bbb;
-  }
-.club-header {
-   display: flex;
-  justify-content: center;      
+  transform: translateX(-102px);
+}
+
+.search-box {
+  display: inline-flex;
   align-items: center;
-  gap: 8px;                     
+  border-bottom: 2px solid #333;
+  padding: 5px 10px;
+}
+
+.search-icon {
+  font-size: 18px;
+  color: #999;
+  margin-right: 5px;
+}
+
+#search-input {
+  border: none;
+  outline: none;
+  font-size: 16px;
+  line-height: 1.2;
+  padding: 4px 0 2px 0;
+  width: 150px;
+  background: transparent;
+  color: #333;
+}
+
+#search-input::placeholder {
+  font-size: 14px;
+  color: #bbb;
+}
+.club-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
   margin-bottom: 4px;
   text-align: center;
 }
@@ -212,7 +211,6 @@
   position: relative;
   transition: transform 0.2s ease;
 }
-
 
 .insta-icon:hover {
   transform: scale(1.2);
