@@ -2,6 +2,48 @@
     "department": "호텔관광외식경영학부 외식경영학전공",
     "curriculum": [
         {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "교필",
+                    "name": "신입생세미나",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "경제학원론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "경영학원론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔관광산업의이해",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "교필",
+                    "name": "대학생활과진로탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "회계원리",
+                    "credits": 3
+                }
+            ]
+        },
+        {
             "year": 2,
             "semester": 1,
             "courses": [

@@ -2,6 +2,33 @@
     "department": "법학부 법학전공",
     "curriculum": [
         {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "법학입문",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "세종인을위한전공탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "인권과법",
+                    "credits": 3
+                }
+            ]
+        },
+        {
             "year": 2,
             "semester": 1,
             "courses": [

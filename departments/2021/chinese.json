@@ -2,6 +2,88 @@
     "department": "국제학부 중국통상학전공",
     "curriculum": [
         {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "교필",
+                    "name": "신입생세미나",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영미문학의세계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어학의세계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본사회의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "중국어입문",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본어A1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "시장경제의원리",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "교필",
+                    "name": "대학생활과진로탐색",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본문화",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "현대중국의이해",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영어의활용",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영문번역의첫걸음",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "초급중국어",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일본어A2",
+                    "credits": 3
+                }
+            ]
+        },
+        {
             "year": 2,
             "semester": 1,
             "courses": [

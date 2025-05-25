@@ -6,14 +6,651 @@
       "semester": 1,
       "courses": [
         {
-          "type": "전선",
-          "name": "기초 전공 과목1",
-          "credits": 3
+          "type": "공필",
+          "name": "세종인을위한진로설계",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "현대무용기본1",
+          "credits": 2
+        },
+        {
+          "type": "전필",
+          "name": "발레테크닉1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "워크샵1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레레파토리1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레기초1",
+          "credits": 2
+        },
+        {
+          "type": "전필",
+          "name": "모던댄스1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국전통무용기교훈련1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국창작무용기교훈련1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국전통무용기본1",
+          "credits": 2
         },
         {
           "type": "전선",
-          "name": "기초 전공 과목2",
+          "name": "전통타악실기",
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "year": 1,
+      "semester": 2,
+      "courses": [
+        {
+          "type": "공필",
+          "name": "세종인을위한진로설계",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "현대무용기본1",
+          "credits": 2
+        },
+        {
+          "type": "전필",
+          "name": "발레테크닉1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "워크샵1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레레파토리1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레기초1",
+          "credits": 2
+        },
+        {
+          "type": "전필",
+          "name": "모던댄스1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국전통무용기교훈련1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국창작무용기교훈련1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국전통무용기본1",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "전통타악실기",
+          "credits": 2
+        },
+        {
+          "type": "공필",
+          "name": "세종인을위한전공탐색",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "현대무용기본2",
+          "credits": 2
+        },
+        {
+          "type": "전필",
+          "name": "발레테크닉2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "워크샵2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레레파토리2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레기초2",
+          "credits": 2
+        },
+        {
+          "type": "전필",
+          "name": "모던댄스2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국전통무용기교훈련2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국창작무용기교훈련2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국전통무용기본2",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "안무법",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "현대무용사",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "한국무용음악분석",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "발레와필라테스",
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "year": 2,
+      "semester": 1,
+      "courses": [
+        {
+          "type": "전필",
+          "name": "발레테크닉3",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "워크샵3",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레레파토리3",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "모던댄스3",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "전통춤기교실습1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "창작춤기교실습1",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "즉흥",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "한국무용표현법",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "발레사",
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "year": 2,
+      "semester": 2,
+      "courses": [
+        {
+          "type": "전필",
+          "name": "발레테크닉3",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "워크샵3",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레레파토리3",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "모던댄스3",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "전통춤기교실습1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "창작춤기교실습1",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "즉흥",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "한국무용표현법",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "발레사",
+          "credits": 2
+        },
+        {
+          "type": "전필",
+          "name": "발레테크닉4",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "워크샵4",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레레파토리4",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "모던댄스4",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "전통춤기교실습2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "창작춤기교실습2",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "궁중정재",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "무용사회학",
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "year": 3,
+      "semester": 1,
+      "courses": [
+        {
+          "type": "전필",
+          "name": "고급현대무용1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레테크닉5",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "컨템포러리댄스1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국전통무용안무1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국창작무용안무1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레레파토리5",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "춤과미디어",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "한국무용창작기법",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "컨템포러리발레1",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "발레워크샵1",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "무용교수학습방법",
           "credits": 3
+        }
+      ]
+    },
+    {
+      "year": 3,
+      "semester": 2,
+      "courses": [
+        {
+          "type": "전필",
+          "name": "고급현대무용1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레테크닉5",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "컨템포러리댄스1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국전통무용안무1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국창작무용안무1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레레파토리5",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "춤과미디어",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "한국무용창작기법",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "컨템포러리발레1",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "발레워크샵1",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "무용교수학습방법",
+          "credits": 3
+        },
+        {
+          "type": "전필",
+          "name": "고급현대무용2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레테크닉6",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "컨템포러리댄스2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국전통무용안무2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국창작무용안무2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레레파토리6",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "무용비평",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "컨템포러리발레2",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "발레워크샵2",
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "year": 4,
+      "semester": 1,
+      "courses": [
+        {
+          "type": "전필",
+          "name": "고급현대무용3",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레테크닉7",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "컨템포러리댄스3",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국전통무용작품분석1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국창작무용작품분석1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레레파토리7",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "무용미학",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "무용표현심리학",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "캐릭터발레1",
+          "credits": 1
+        }
+      ]
+    },
+    {
+      "year": 4,
+      "semester": 2,
+      "courses": [
+        {
+          "type": "전필",
+          "name": "고급현대무용3",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레테크닉7",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "컨템포러리댄스3",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국전통무용작품분석1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국창작무용작품분석1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레레파토리7",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "무용미학",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "무용표현심리학",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "캐릭터발레1",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "졸업작품(P/NP)",
+          "credits": 0
+        },
+        {
+          "type": "전필",
+          "name": "고급현대무용4",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레테크닉8",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "컨템포러리댄스4",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국전통무용작품분석2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "한국창작무용작품분석2",
+          "credits": 1
+        },
+        {
+          "type": "전필",
+          "name": "발레레파토리8",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "동양무용사",
+          "credits": 2
+        },
+        {
+          "type": "전선",
+          "name": "캐릭터발레2",
+          "credits": 1
+        },
+        {
+          "type": "전선",
+          "name": "공연기획과실습",
+          "credits": 2
         }
       ]
     }

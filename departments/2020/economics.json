@@ -1,21 +1,248 @@
 {
-  "department": "경제학과",
-  "curriculum": [
-    {
-      "year": 1,
-      "semester": 1,
-      "courses": [
+    "department": "경제통상학과",
+    "curriculum": [
         {
-          "type": "전선",
-          "name": "기초 전공 과목1",
-          "credits": 3
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "교필",
+                    "name": "대학생활과진로설계",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "경제원론1",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "기초경제수학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경제실무영어",
+                    "credits": 3
+                }
+            ]
         },
         {
-          "type": "전선",
-          "name": "기초 전공 과목2",
-          "credits": 3
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "교필",
+                    "name": "신입생세미나",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "경제원론2",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "경제수학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "국제통상학개론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "경제통계",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "미시경제학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경제사",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "거시경제학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경제발전론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경제학설사",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "무역실무",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "계량경제학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "국제무역론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "경제통합론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "공공경제학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일반사회교과교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "금융시장론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "빅데이터론",
+                    "credits": 3
+                },
+                {
+                    "type": "교선2",
+                    "name": "일반인턴십7",
+                    "credits": 6
+                },
+                {
+                    "type": "전선",
+                    "name": "전공인턴십8",
+                    "credits": 6
+                },
+                {
+                    "type": "전선",
+                    "name": "전공인턴십12",
+                    "credits": 12
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "국제금융론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "교통경제학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일반사회교과교재연구및지도법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일반사회논리및논술",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "파생금융상품론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "도시지역경제학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "고급계량경제학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "경제학세미나",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "노동경제학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "문화경제학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "금융경제세미나",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로2",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "안보경제론",
+                    "credits": 3
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

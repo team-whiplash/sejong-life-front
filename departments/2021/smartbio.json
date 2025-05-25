@@ -1,21 +1,42 @@
 {
-  "department": "스마트생명산업융합학과",
-  "curriculum": [
-    {
-      "year": 1,
-      "semester": 1,
-      "courses": [
+    "department": "스마트생명산업융합학과",
+    "curriculum": [
         {
-          "type": "전선",
-          "name": "기초 전공 과목1",
-          "credits": 3
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "교필",
+                    "name": "신입생세미나",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "일반생물학1",
+                    "credits": 3
+                }
+            ]
         },
         {
-          "type": "전선",
-          "name": "기초 전공 과목2",
-          "credits": 3
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "교필",
+                    "name": "대학생활과진로탐색",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "일반생물학2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기초생물통계학",
+                    "credits": 3
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

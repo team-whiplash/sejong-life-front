@@ -2,6 +2,43 @@
     "department": "생명시스템학부 바이오융합공학전공",
     "curriculum": [
         {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "세종인을위한진로설계",
+                    "credits": 1
+                },
+                {
+                    "type": "전기",
+                    "name": "일반생물학1",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "세종인을위한전공탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "전기",
+                    "name": "일반생물학2",
+                    "credits": 3
+                },
+                {
+                    "type": "전기",
+                    "name": "기초생물통계학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
             "year": 2,
             "semester": 1,
             "courses": [

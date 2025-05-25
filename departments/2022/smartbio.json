@@ -1,21 +1,94 @@
 {
-  "department": "스마트생명산업융합학과",
-  "curriculum": [
-    {
-      "year": 1,
-      "semester": 1,
-      "courses": [
+    "department": "스마트생명산업융합학과",
+    "curriculum": [
         {
-          "type": "전선",
-          "name": "기초 전공 과목1",
-          "credits": 3
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "신입생세미나A",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "일반생물학1",
+                    "credits": 3
+                }
+            ]
         },
         {
-          "type": "전선",
-          "name": "기초 전공 과목2",
-          "credits": 3
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "공필",
+                    "name": "신입생세미나B",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "일반생물학2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기초생물통계학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "분자세포생물학및실험1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "알고리즘및실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식물생명과학및실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "수산생물학및실험",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "종자생명산업과학및실습1",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "곤충생리학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "자원식물학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "어류생리학",
+                    "credits": 3
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
