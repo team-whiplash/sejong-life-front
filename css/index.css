@@ -1,12 +1,12 @@
-@import url('./meal.css');
+/* @import url('./meal.css');
 @import url('./club.css');
-@import url('./graduate.css');
+@import url('./graduate.css'); */
 
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+} */
 
 body {
   font-family: 'Noto Sans KR', sans-serif;
@@ -16,7 +16,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 24px 40px;
+  padding: 12px 28px;
   background-color: white;
   border-bottom: 1px solid #eee;
 }
@@ -52,7 +52,7 @@ footer {
   margin-top: 100px;
 }
 
-/* 캘린더 및 학사일정정 */
+/* 캘린더 및 학사일정 */
 .main-layout {
   display: flex;
   align-items: flex-start;
@@ -62,13 +62,15 @@ footer {
 }
 
 /* 달력 */
+
 .calendar-container {
   flex: 1;
   max-width: 650px;
   background: white;
   padding: 20px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   flex-shrink: 0;
+  border-radius: 8px;
 }
 
 .calendar-header {
@@ -80,8 +82,10 @@ footer {
 
 .calendar-header button {
   font-size: 20px;
-  padding: 5px 10px;
+  /* padding: 5px 10px; */
   cursor: pointer;
+  background: none;
+  border: none;
 }
 
 .calendar-grid {
@@ -90,28 +94,40 @@ footer {
   gap: 1px;
 }
 
-.day-label,
-.day-cell {
-  padding: 10px;
-  border: 1px solid #ddd;
-  height: 80px;
-  text-align: left;
-  vertical-align: top;
-}
-
 .day-label {
+  border: 1px solid #ddd;
+  height: 30px;
   background: #eee;
   font-weight: bold;
   text-align: center;
+  border-radius: 4px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.day-cell {
+  padding: 10px;
+  border: 1px solid #ddd;
+  height: 60px;
+  text-align: left;
+  vertical-align: top;
+  border-radius: 4px;
+}
+
+.day-cell.today {
+  border: 1px solid #a6a6a6;
+  background-color: hsl(0, 0%, 96%);
+  border-radius: 4px;
 }
 
 .day-cell .event-indicator {
   display: block;
-  height: 4px;
+  height: 3px;
   border-radius: 2px;
-  margin-top: 6px;
+  margin-top: 3px;
 }
-
 
 .event-text {
   font-size: 12px;
@@ -120,13 +136,41 @@ footer {
   border-radius: 4px;
   color: #333;
   background: rgba(255, 255, 255, 0.5);
-
 }
 
-.schedule-item {
+/* .schedule-item {
   text-align: left;
+  padding: 8px 12px;
+  border-radius: 6px;
   margin-bottom: 14px;
   font-size: 14px;
+} */
+
+/* 기본 구조 공통 */
+.schedule-item {
+  text-align: left;
+  padding: 8px 12px;
+  border-radius: 6px;
+  margin-bottom: 14px;
+  font-size: 14px;
+  position: relative; /* ::before 배치를 위해 필요 */
+  /* background-color: white;  */
+}
+/* long일정 표시만 따로 스타일링 */
+.schedule-item.long-event {
+  background-color: #fff8e1;
+}
+
+/* 긴 일정의 구분선은 ::before로 통일 */
+.schedule-item.long-event::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 8px;
+  bottom: 8px;
+  width: 4px;
+  background-color: #ffa000;
+  border-radius: 2px;
 }
 
 .schedule-title {
@@ -181,7 +225,6 @@ footer {
   padding: 16px 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   z-index: 1000;
-  font-family: 'Noto Sans KR', sans-serif;
 }
 
 .quick-menu ul {
@@ -191,9 +234,10 @@ footer {
 }
 
 .quick-menu li {
-  margin-bottom: 12px;
+  /* margin-bottom: 12px; */
   font-size: 15px;
   font-weight: 500;
+  padding: 6px;
 }
 
 .quick-menu li a {
@@ -201,7 +245,7 @@ footer {
   color: #444;
   text-decoration: none;
   transition: color 0.2s ease;
-  padding: 6px 8px;
+  padding: 4px;
   border-radius: 8px;
 }
 
