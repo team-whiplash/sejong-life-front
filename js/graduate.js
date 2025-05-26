@@ -95,13 +95,11 @@ const deptNames = {
 };
 
 const pageTitle = document.getElementById('page-title');
-const curriculumContainer = document.getElementById('curriculum-container');
-
-// ✅ select 요소와 버튼 가져오기
 const collegeSelect = document.getElementById('college-select');
 const deptSelect = document.getElementById('dept-select');
 const yearSelect = document.getElementById('year-select');
 const confirmBtn = document.getElementById('confirm-btn');
+const curriculumContainer = document.getElementById('curriculum-container');
 
 // ✅ 단과대 셀렉트 옵션 추가
 for (const college in colleges) {
@@ -121,7 +119,7 @@ collegeSelect.addEventListener('change', () => {
     yearSelect.classList.add('hide');
     confirmBtn.classList.add('hide');
     curriculumContainer.innerHTML = '';
-
+    pageTitle.textContent = '교과과정'; // 페이지 타이틀 초기화
     if (selectedCollege && colleges[selectedCollege]) {
         colleges[selectedCollege].forEach((dept) => {
             const option = document.createElement('option');
@@ -140,7 +138,7 @@ deptSelect.addEventListener('change', () => {
     yearSelect.classList.add('hide');
     confirmBtn.classList.add('hide');
     curriculumContainer.innerHTML = '';
-
+    pageTitle.textContent = '교과과정'; // 페이지 타이틀 초기화
     if (selectedDept) {
         let validYears = [];
 
@@ -168,27 +166,30 @@ yearSelect.addEventListener('change', () => {
     } else {
         confirmBtn.classList.add('hide');
     }
+    pageTitle.textContent = '교과과정'; // 페이지 타이틀 초기화
 });
 
 // ✅ 확인 버튼 클릭 시 학과 정보 로드
+// 확인 버튼 클릭 이벤트
 confirmBtn.addEventListener('click', () => {
-    const dept = deptSelect.value;
-    const year = yearSelect.value;
+    const selectedDept = deptSelect.value;
+    const selectedYear = yearSelect.value;
 
-    if (!dept || !year) {
+    if (!selectedDept || !selectedYear) {
         alert('학과와 년도를 모두 선택해주세요.');
         return;
     }
 
-    pageTitle.textContent = `${deptNames[dept]} ${year}학년도 교과과정`;
-
-    fetch(`./departments/${year}/${dept}.json`)
+    fetch(`./departments/${selectedYear}/${selectedDept}.json`)
         .then((res) => res.json())
         .then((data) => {
+            pageTitle.textContent = `${data.department} ${selectedYear}학년도 교과과정`;
             renderCurriculum(data.curriculum);
         })
-        .catch(() => {
-            curriculumContainer.textContent = '데이터를 불러오지 못했습니다.';
+        .catch((err) => {
+            console.error(err);
+            curriculumContainer.innerHTML =
+                '<p style="text-align: center; margin-top: 20px;">데이터를 불러오지 못했습니다.</p>';
         });
 });
 

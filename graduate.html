@@ -1,18 +1,29 @@
 <!DOCTYPE html>
 <html lang="ko">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Sejong Life - 교과과정</title>
-        <link rel="stylesheet" href="css/graduate.css" />
-    </head>
-    <body>
-        <header>
-            <h1 id="page-title">학과 교과과정</h1>
-        </header>
+<head>
+  <meta charset="UTF-8">
+  <title>Sejong Life</title>
+  <link rel="stylesheet" href="css/club.css">
+  <link rel="stylesheet" href="css/graduate.css" />
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html">
+                <img src="assets/images/logo.png" alt="Sejong Life Logo">
+            </a>
+        </div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="info.html">정보광장</a></li>
+                <li><a href="graduate.html">졸업요건</a></li>
+                <li><a href="club.html">동아리</a></li>
+                <li><a href="meal.html">식사안내</a></li>
+        </nav>
+    </header>
 
-        <!-- ✅ 통합된 select-container -->
-        <!-- ...existing code... -->
+        <h1 id="page-title">교과과정</h1>
+
         <div class="select-container">
             <select id="college-select">
                 <option value="">단과대학 선택</option>
@@ -25,7 +36,6 @@
             </select>
             <button id="confirm-btn" class="confirm-button hide">확인</button>
         </div>
-        <!-- ...existing code... -->
 
         <div id="curriculum-container"></div>
 
