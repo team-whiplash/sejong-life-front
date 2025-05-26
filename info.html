@@ -1,11 +1,59 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-</head>
-<body>
-    
-</body>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>세종대학교 정보광장</title>
+        <link rel="stylesheet" href="css/info.css" />
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <a href="index.html">
+                    <img src="assets/images/logo.png" alt="Sejong Life Logo" />
+                </a>
+            </div>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="info.html">정보광장</a></li>
+                    <li><a href="graduate.html">졸업요건</a></li>
+                    <li><a href="club.html">동아리</a></li>
+                    <li><a href="meal.html">식사안내</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <div class="info-container">
+                <div class="section contact-info">
+                    <h2>교내 전화번호</h2>
+                    <input
+                        type="text"
+                        id="search"
+                        placeholder="검색 (예: 총장실, 도서관)"
+                    />
+                    <div id="contact-list"></div>
+                    <div class="contact-more">
+                        <a
+                            href="http://www.sejong.ac.kr/etc/download/Organization_20250415.pdf"
+                            target="_blank"
+                            >📞 전체 전화번호부 보기</a
+                        >
+                    </div>
+                </div>
+
+                <div class="section campus-map">
+                    <h2>캠퍼스 지도</h2>
+                    <div id="map"></div>
+                    <div id="building-info"></div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>ⓒ 2025 Whiplash Team. All rights reserved.</p>
+        </footer>
+
+        <script src="js/info.js"></script>
+    </body>
 </html>
