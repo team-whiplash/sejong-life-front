@@ -146,6 +146,48 @@
                     "credits": 3
                 }
             ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "호텔외식원가관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무7",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "카페베이커리실습",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무8",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "글로벌조리캡스톤디자인",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "HMR상품기획",
+                    "credits": 3
+                }
+            ]
         }
     ]
 }

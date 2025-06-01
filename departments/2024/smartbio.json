@@ -1,20 +1,46 @@
 {
     "department": "스마트생명산업융합학과",
+    "notice" : "전기(A) 7개 과목 중 2과목을 선택하여 이수",
     "curriculum": [
         {
             "year": 1,
             "semester": 1,
             "courses": [
                 {
-                    "type": "전선",
-                    "name": "기초 전공 과목1",
-                    "credits": 3
-                },
-                {
-                    "type": "전선",
-                    "name": "기초 전공 과목2",
-                    "credits": 3
-                }
+            "type": "교필",
+            "name": "세종인을위한진로설계",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "교필",
+            "name": "대학영어",
+            "credits": 2
+          },
+          {
+            "type": "학기",
+            "name": "미적분학1",
+            "credits": 3
+          },
+          {
+            "type": "전기",
+            "name": "일반물리학1",
+            "credits": 3
+          },
+          {
+            "type": "전기",
+            "name": "일반화학1",
+            "credits": 3
+          },
+          {
+            "type": "전기",
+            "name": "일반생물학1",
+            "credits": 3
+          }
             ]
         },
         {
@@ -22,26 +48,72 @@
             "semester": 2,
             "courses": [
                 {
-                    "type": "공필",
-                    "name": "세종인을위한전공탐색",
-                    "credits": 1
-                },
-                {
-                    "type": "전기",
-                    "name": "일반생물학2",
-                    "credits": 3
-                },
-                {
-                    "type": "전기",
-                    "name": "기초생물통계학",
-                    "credits": 3
-                }
+            "type": "교필",
+            "name": "세종인을위한전공탐색",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "학기",
+            "name": "SW기초코딩",
+            "credits": 3
+          },
+          {
+            "type": "전기(A)",
+            "name": "미적분학2",
+            "credits": 3
+          },
+          {
+            "type": "전기(A)",
+            "name": "기초통계학",
+            "credits": 3
+          },
+          {
+            "type": "전기(A)",
+            "name": "기초천문학",
+            "credits": 3
+          },
+          {
+            "type": "전기(A)",
+            "name": "기초생물통계학",
+            "credits": 3
+          },
+          {
+            "type": "전기(A)",
+            "name": "일반물리학2",
+            "credits": 3
+          },
+         
+          {
+            "type": "전기(A)",
+            "name": "일반화학2",
+            "credits": 3
+          },
+          {
+            "type": "전기(A)",
+            "name": "일반생물학2",
+            "credits": 3
+          }
             ]
         },
         {
             "year": 2,
             "semester": 1,
             "courses": [
+                {
+                   "type": "교필(2~4학년)",
+                   "name": "창업과기업가정신1",
+                   "credits": 1
+                },
                 {
                     "type": "전필",
                     "name": "분자세포생물학및실험1",
@@ -114,6 +186,11 @@
             "year": 3,
             "semester": 1,
             "courses": [
+                {
+                   "type": "교필(3~4학년)",
+                   "name": "취창업과진로설계",
+                   "credits": 1
+                }, 
                 {
                     "type": "전필",
                     "name": "천연물화학및실험1",

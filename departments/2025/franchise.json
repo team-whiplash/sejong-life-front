@@ -33,11 +33,6 @@
             "courses": [
                 {
                     "type": "전선",
-                    "name": "경제학원론",
-                    "credits": 3
-                },
-                {
-                    "type": "전선",
                     "name": "Hospitality산업의이해",
                     "credits": 3
                 },

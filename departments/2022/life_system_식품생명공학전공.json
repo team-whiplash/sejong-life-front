@@ -1,0 +1,264 @@
+{
+    "department": "생명시스템학부 식품생명공학전공",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+            "type": "교필(1~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "신입생세미나A",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "교필",
+            "name": "대학영어",
+            "credits": 2
+          },
+          {
+            "type": "학기",
+            "name": "SW기초코딩",
+            "credits": 3
+          },
+         
+          {
+            "type": "학기",
+            "name": "일반화학1",
+            "credits": 3
+          },
+                {
+                    "type": "전필",
+                    "name": "일반생물학1",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+            "type": "교필",
+            "name": "신입생세미나B",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "학기",
+            "name": "일반화학2",
+            "credits": 3
+          },
+                {
+                    "type": "전필",
+                    "name": "일반생물학2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기초생물통계학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+            "type": "학기",
+            "name": "인공지능과빅데이터",
+            "credits": 3
+          },
+                {
+                    "type": "전필",
+                    "name": "유기화학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일반미생물학및실험",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "생화학",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "식품미생물학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "영양화학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                 {
+            "type": "교필(3~4학년)",
+            "name": "취창업과진로설계",
+            "credits": 1
+          },
+                {
+                    "type": "전필",
+                    "name": "식품화학1",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "식품공학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품저장학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기능성식품학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품생물공학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품가공학및실험(종합설계)",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "동물생명식품학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품위해미생물학및실험",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "식품포장학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품화학2및실험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품개발및실험(종합설계)",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품분자생물학및실험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품생명공학연구실습",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "식품첨가물학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품분석및실험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품효소공학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "향장식품소재공학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "식품품질관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "식품안전및법규",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "최신식품생명동향연구",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로2",
+                    "credits": 1
+                }
+            ]
+        }
+    ]
+}

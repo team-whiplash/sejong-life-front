@@ -5,6 +5,12 @@
             "year": 1,
             "semester": 1,
             "courses": [
+                
+                {
+                    "type": "교선1",
+                    "name": "컴퓨터사고기반기초코딩",
+                    "credits": 3
+                },
                 {
                     "type": "전필",
                     "name": "체육원리",
@@ -31,6 +37,7 @@
             "year": 1,
             "semester": 2,
             "courses": [
+            
                 {
                     "type": "전필",
                     "name": "체육사회학",
@@ -47,6 +54,11 @@
             "year": 2,
             "semester": 1,
             "courses": [
+                {
+                    "type": "교선1(2학년)",
+                    "name": "한국현대사의이해",
+                    "credits": 3
+                },
                 {
                     "type": "전필",
                     "name": "체육철학",
@@ -104,6 +116,7 @@
             "year": 3,
             "semester": 1,
             "courses": [
+
                 {
                     "type": "전필",
                     "name": "운동생리학",

@@ -6,7 +6,7 @@
         "semester": 1,
         "courses": [
           {
-            "type": "중중필(1~4학년)",
+            "type": "중필(1~4학년)",
             "name": "창업과기업가정신1",
             "credits": 1
           },
@@ -47,7 +47,7 @@
         "semester": 2,
         "courses": [
           {
-            "type": "중중필",
+            "type": "중필",
             "name": "English Listening Practice 1",
             "credits": 2
           },

@@ -1,0 +1,304 @@
+{
+    "department": "생명시스템학부 바이오융합공학전공",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+            "type": "교필(1~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "신입생세미나A",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "교필",
+            "name": "대학영어",
+            "credits": 2
+          },
+          {
+            "type": "학기",
+            "name": "SW기초코딩",
+            "credits": 3
+          },
+         
+          {
+            "type": "학기",
+            "name": "일반화학1",
+            "credits": 3
+          },
+                {
+                    "type": "전필",
+                    "name": "일반생물학1",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+            "type": "교필",
+            "name": "신입생세미나B",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "학기",
+            "name": "일반화학2",
+            "credits": 3
+          },
+                {
+                    "type": "전필",
+                    "name": "일반생물학2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기초생물통계학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "일반미생물학및실험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "유기화학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "생화학1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "생물리화학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "일반생리학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+            "type": "학기",
+            "name": "인공지능활용",
+            "credits": 3
+          },
+                {
+                    "type": "전필",
+                    "name": "생화학2및실험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "분석화학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기기분석학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "면역학1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "기초유전공학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                          {
+            "type": "교필(3~4학년)",
+            "name": "취창업과진로설계",
+            "credits": 1
+          },
+                {
+                    "type": "전필",
+                    "name": "세포생물학1",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "유전학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "대사생화학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "생명의약학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "면역학2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "분자생물학1및실험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "응용균학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "분자생물학2",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "신경생물학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "바이러스학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "세포조직공학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "세포생물학2및실험",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "암생물학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "나노생명공학",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "생물화학공학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "줄기세포학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "후성유전학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "바이오나노소재공학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "인지뇌과학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "분자유전학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "생물공정학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "스트레스생물학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "분자병리학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로2",
+                    "credits": 1
+                }
+            ]
+        }
+    ]
+}

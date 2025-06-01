@@ -1,0 +1,283 @@
+{
+    "department": "창의소프트학부",
+    "curriculum": [
+      {
+        "year": 1,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "중필(1~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "중필",
+            "name": "서양철학:쟁점과토론",
+            "credits": 3
+          },
+          {
+            "type": "중필",
+            "name": "대학생활과진로설계",
+            "credits": 1
+          },
+          {
+            "type": "중필",
+            "name": "Englsih Listening Practice 1",
+            "credits": 2
+          },
+          {
+            "type": "중필선택",
+            "name": "컴퓨터사고기반기초코딩",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "만화기초1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "애니메이션기초1",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 1,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "중필",
+            "name": "세종사회봉사1",
+            "credits": 1
+          },
+          {
+            "type": "중필",
+            "name": "문제해결을위한글쓰기와발표",
+            "credits": 3
+          },
+          {
+            "type": "중필선택",
+            "name": "프로그래밍입문-P",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "만화기초2",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "애니메이션기초2",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "창의SW융합노마드",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "중필",
+            "name": "Englsih Reading Practice 1",
+            "credits": 2
+          },
+          {
+            "type": "중필선택(2학년)",
+            "name": "세계사:인간과문명",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "콘텐츠기획1",
+            "credits": 2
+          },
+          {
+            "type": "전선",
+            "name": "만화제작1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "내러티브워크숍",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "애니메이션액팅1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "3D제작도구1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "프리비즈워크숍1",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 2,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "콘텐츠기획2",
+            "credits": 2
+          },
+          {
+            "type": "전선",
+            "name": "디지털스토리텔링",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "만화제작2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "애니메이션액팅2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "3D제작도구2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "프리비즈워크숍2",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "중필(3~4학년)",
+            "name": "취업역량개발론",
+            "credits": 1
+          },
+          {
+            "type": "전필",
+            "name": "디지털코믹스제작1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "비주얼디벨롭먼트1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "이펙트디자인1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디지털애니메이션디렉팅1",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "디지털코믹스제작2",
+            "credits": 3
+          },
+          {
+            "type": "전필",
+            "name": "비주얼디벨롭먼트2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "이펙트디자인2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "애니메이션워크숍",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "디지털애니메이션디렉팅2",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 1,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "졸업작품",
+            "credits": 0
+          },
+          {
+            "type": "전필",
+            "name": "애니메이션코어스튜디오1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "웹툰커넥션프로덕션1",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "영상캡스톤디자인",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semester": 2,
+        "courses": [
+          {
+            "type": "전필",
+            "name": "졸업작품",
+            "credits": 0
+          },
+          {
+            "type": "전필",
+            "name": "애니메이션코어스튜디오2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "웹툰커넥션프로덕션2",
+            "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
+          }
+        ]
+      }
+    ]
+  }

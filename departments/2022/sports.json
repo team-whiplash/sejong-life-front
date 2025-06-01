@@ -6,6 +6,11 @@
             "semester": 1,
             "courses": [
                 {
+                    "type": "학기",
+                    "name": "컴퓨터사고기반기초코딩",
+                    "credits": 3
+                },
+                {
                     "type": "전필",
                     "name": "체육원리",
                     "credits": 3
@@ -73,6 +78,11 @@
             "year": 2,
             "semester": 2,
             "courses": [
+                {
+                    "type": "학기",
+                    "name": "인공지능과빅데이터",
+                    "credits": 3
+                },
                 {
                     "type": "전필",
                     "name": "인체해부학",

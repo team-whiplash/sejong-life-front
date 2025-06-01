@@ -6,9 +6,24 @@
       "semester": 1,
       "courses": [
         {
-          "type": "공필",
+          "type": "교필",
           "name": "세종인을위한진로설계",
           "credits": 1
+        },
+        {
+          "type": "교필",
+          "name": "대학영어",
+          "credits": 2
+        },
+        {
+          "type": "교필",
+          "name": "서양철학:쟁점과토론",
+          "credits": 3
+        },
+        {
+          "type": "학기",
+          "name": "컴퓨터사고기반기초코딩",
+          "credits": 3
         },
         {
           "type": "전필",
@@ -22,19 +37,24 @@
       "semester": 2,
       "courses": [
         {
-          "type": "공필",
-          "name": "세종인을위한진로설계",
+          "type": "교필",
+          "name": "세종인을위한전공탐색",
           "credits": 1
         },
         {
-          "type": "전필",
-          "name": "기초패턴설계",
+          "type": "교필",
+          "name": "우주자연인간",
+          "credits": 1
+        },
+        {
+          "type": "교필",
+          "name": "문제해결을위한글쓰기와발표",
           "credits": 3
         },
         {
-          "type": "공필",
-          "name": "세종인을위한전공탐색",
-          "credits": 1
+          "type": "학기",
+          "name": "인공지능과빅데이터",
+          "credits": 3
         },
         {
           "type": "전필",
@@ -53,6 +73,11 @@
       "semester": 1,
       "courses": [
         {
+          "type": "교필(2~4학년)",
+          "name": "창업과기업가정신1",
+          "credits": 1
+        },
+        {
           "type": "전필",
           "name": "패션디자인",
           "credits": 3
@@ -88,36 +113,6 @@
       "year": 2,
       "semester": 2,
       "courses": [
-        {
-          "type": "전필",
-          "name": "패션디자인",
-          "credits": 3
-        },
-        {
-          "type": "전필",
-          "name": "텍스타일캡스톤디자인",
-          "credits": 3
-        },
-        {
-          "type": "전선",
-          "name": "서양복식사",
-          "credits": 3
-        },
-        {
-          "type": "전선",
-          "name": "모델드로잉",
-          "credits": 3
-        },
-        {
-          "type": "전선",
-          "name": "고급패턴종합설계",
-          "credits": 3
-        },
-        {
-          "type": "전선",
-          "name": "패션과색채",
-          "credits": 3
-        },
         {
           "type": "전필",
           "name": "소재캡스톤디자인",
@@ -150,6 +145,11 @@
       "semester": 1,
       "courses": [
         {
+          "type": "교필(3~4학년)",
+          "name": "취창업과진로설계",
+          "credits": 1
+        },
+        {
           "type": "전필",
           "name": "고급패션드레이핑",
           "credits": 3
@@ -175,26 +175,6 @@
       "year": 3,
       "semester": 2,
       "courses": [
-        {
-          "type": "전필",
-          "name": "고급패션드레이핑",
-          "credits": 3
-        },
-        {
-          "type": "전선",
-          "name": "의상교과교육론",
-          "credits": 3
-        },
-        {
-          "type": "전선",
-          "name": "기초니트종합설계",
-          "credits": 3
-        },
-        {
-          "type": "전선",
-          "name": "디지털패션종합설계",
-          "credits": 3
-        },
         {
           "type": "전필",
           "name": "창작의상캡스톤디자인",
@@ -247,26 +227,6 @@
       "year": 4,
       "semester": 2,
       "courses": [
-        {
-          "type": "전필",
-          "name": "졸업작품(P/NP)",
-          "credits": 0
-        },
-        {
-          "type": "전선",
-          "name": "창작패턴종합설계",
-          "credits": 3
-        },
-        {
-          "type": "전선",
-          "name": "패션소재기획종합설계",
-          "credits": 3
-        },
-        {
-          "type": "전선",
-          "name": "패션컬렉션종합설계",
-          "credits": 3
-        },
         {
           "type": "전선",
           "name": "패션코디네이션종합설계",

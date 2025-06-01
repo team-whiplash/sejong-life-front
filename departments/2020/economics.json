@@ -6,8 +6,28 @@
             "semester": 1,
             "courses": [
                 {
+                    "type": "교필(1~4학년)",
+                    "name": "창업과기업가정신1",
+                    "credits": 1
+                },
+                {
                     "type": "교필",
                     "name": "대학생활과진로설계",
+                    "credits": 1
+                },
+                {
+                    "type": "교필",
+                    "name": "English Listening Practice 1",
+                    "credits": 2
+                },
+                {
+                    "type": "교필",
+                    "name": "서양철학:쟁점과토론",
+                    "credits": 3
+                },
+                {
+                    "type": "교선1",
+                    "name": "컴퓨터사고기반기초코딩",
                     "credits": 3
                 },
                 {
@@ -37,6 +57,16 @@
                     "credits": 1
                 },
                 {
+                    "type": "교필",
+                    "name": "문제해결을위한글쓰기와발표",
+                    "credits": 3
+                },
+                {
+                    "type": "교선1",
+                    "name": "프로그래밍입문-P",
+                    "credits": 3
+                },
+                {
                     "type": "전필",
                     "name": "경제원론2",
                     "credits": 3
@@ -58,6 +88,16 @@
             "semester": 1,
             "courses": [
                 {
+                    "type": "교필",
+                    "name": "English Reading Practice 1",
+                    "credits": 2
+                },
+                {
+                    "type": "교선1(2학년)",
+                    "name": "한국현대사의이해",
+                    "credits": 3
+                },
+                {
                     "type": "전필",
                     "name": "경제통계",
                     "credits": 3
@@ -78,6 +118,11 @@
             "year": 2,
             "semester": 2,
             "courses": [
+                {
+                    "type": "교선1",
+                    "name": "세계사:인간과문명",
+                    "credits": 3
+                },
                 {
                     "type": "전필",
                     "name": "거시경제학",
@@ -104,6 +149,11 @@
             "year": 3,
             "semester": 1,
             "courses": [
+                {
+                    "type": "교필(3~4학년)",
+                    "name": "취업역량개발론",
+                    "credits": 1
+                },
                 {
                     "type": "전필",
                     "name": "계량경제학",
@@ -138,21 +188,6 @@
                     "type": "전선",
                     "name": "빅데이터론",
                     "credits": 3
-                },
-                {
-                    "type": "교선2",
-                    "name": "일반인턴십7",
-                    "credits": 6
-                },
-                {
-                    "type": "전선",
-                    "name": "전공인턴십8",
-                    "credits": 6
-                },
-                {
-                    "type": "전선",
-                    "name": "전공인턴십12",
-                    "credits": 12
                 }
             ]
         },
@@ -234,13 +269,13 @@
                 },
                 {
                     "type": "전선",
-                    "name": "졸업연구및진로2",
-                    "credits": 1
+                    "name": "안보경제론",
+                    "credits": 3
                 },
                 {
                     "type": "전선",
-                    "name": "안보경제론",
-                    "credits": 3
+                    "name": "졸업연구및진로2",
+                    "credits": 1
                 }
             ]
         }

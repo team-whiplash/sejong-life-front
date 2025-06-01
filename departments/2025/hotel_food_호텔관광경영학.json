@@ -1,0 +1,338 @@
+{
+    "department": "호텔관광경영학과",
+    "curriculum": [
+        {
+            "year": 1,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "교필",
+                    "name": "세종인을위한진로설계",
+                    "credits": 1
+                },
+                {
+                    "type": "교필",
+                    "name": "대학영어",
+                    "credits": 2
+                },
+                {
+                    "type": "교필",
+                    "name": "서양철학:쟁점과토론",
+                    "credits": 3
+                },
+                {
+                    "type": "학기",
+                    "name": "컴퓨터사고기반기초코딩",
+                    "credits": 3
+                },
+                {
+                    "type": "학기(1학년)",
+                    "name": "사회과학수학",
+                    "credits": 3
+                },
+                {
+                    "type": "전기(1학년)",
+                    "name": "Hospitality경영원론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 1,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "교필",
+                    "name": "세종인을위한전공탐색",
+                    "credits": 1
+                },
+                {
+                    "type": "교필",
+                    "name": "우주자연인간",
+                    "credits": 1
+                },
+                {
+                    "type": "교필",
+                    "name": "문제해결을위한글쓰기와발표",
+                    "credits": 3
+                },
+                {
+                    "type": "학기",
+                    "name": "인공지능과빅데이터",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "회계원리",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "교필(2~4학년)",
+                    "name": "창업과기업가정신1",
+                    "credits": 1
+                },
+                {
+                    "type": "전필",
+                    "name": "호텔경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "호텔관광마케팅",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "관광자원론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "축제경영연구",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "AI와호스피탈리티산업",
+                    "credits": 3
+                },{
+                    "type": "전선",
+                    "name": "호텔관광조직행동론",
+                    "credits": 3
+                }
+
+            ]
+        },
+        {
+            "year": 2,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "호텔관광경영통계원론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "호텔관광조직인적자원관리론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔관광재무회계",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "여가사회학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "서비스경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "마케팅조사론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "서비스운영관리",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "교필(3~4학년)",
+                    "name": "취창업과진로설계",
+                    "credits": 1
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔관광재무관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "여가공간계획론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "문화관광경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "관광교과교육론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔관광 e-business전략",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "MICE산업론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "HTM 스마트의사결정체계",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "관광행동론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "서비스마케팅",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "리조트경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "크루즈경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "관광교과교재연구및지도법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "관광논리및논술",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔관광경제학",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔관광전략경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "국제회의및이벤트기획",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "HTM데이터마이닝",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "HTM스마트/AI알고리즘",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "TPDM빅데이터플랫폼경영",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "호텔관광연구방법론",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔관광사례연구세미나",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔관광기업가정신과리더십",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔관광의사결정방법",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔관광데이터분석",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔관광가격전략",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "관광법규",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "국제호텔관광세미나",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔관광수익관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "Special Topics in Hospitality and Tourism Industry",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로2",
+                    "credits": 1
+                }
+            ]
+        }
+    ]
+}

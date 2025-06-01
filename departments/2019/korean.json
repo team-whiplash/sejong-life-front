@@ -6,6 +6,31 @@
             "semester": 1,
             "courses": [
                 {
+                    "type": "중필(1~4학년)",
+                    "name": "창업과기업가정신1",
+                    "credits": 1
+                },
+                {
+                    "type": "중필",
+                    "name": "대학생활과진로설계",
+                    "credits": 1
+                },
+                {
+                    "type": "중필",
+                    "name": "English Listening Practice 1",
+                    "credits": 2
+                },
+                {
+                    "type": "중필",
+                    "name": "서양철학:쟁점과토론",
+                    "credits": 3
+                },
+                {
+                    "type": "중필선택",
+                    "name": "컴퓨터사고기반기초코딩",
+                    "credits": 3
+                },
+                {
                     "type": "전선",
                     "name": "한국문학의이해",
                     "credits": 3
@@ -22,6 +47,21 @@
             "semester": 2,
             "courses": [
                 {
+                    "type": "중필",
+                    "name": "세종사회봉사1",
+                    "credits": 1
+                },
+                {
+                    "type": "중필",
+                    "name": "문제해결을위한글쓰기와발표",
+                    "credits": 3
+                },
+                {
+                    "type": "중필선택",
+                    "name": "프로그래밍입문-P",
+                    "credits": 3
+                },
+                {
                     "type": "전필",
                     "name": "매체언어론",
                     "credits": 3
@@ -37,6 +77,16 @@
             "year": 2,
             "semester": 1,
             "courses": [
+                {
+                    "type": "중필",
+                    "name": "English Reading Practice 1",
+                    "credits": 2
+                },
+                {
+                    "type": "중필선택(2학년)",
+                    "name": "한국현대사의이해",
+                    "credits": 3
+                },
                 {
                     "type": "전필",
                     "name": "국어문법론",
@@ -64,6 +114,11 @@
             "semester": 2,
             "courses": [
                 {
+                    "type": "중필선택",
+                    "name": "세계사:인간과문명",
+                    "credits": 3
+                },
+                {
                     "type": "전선",
                     "name": "한국어어문생활의실제",
                     "credits": 3
@@ -84,6 +139,11 @@
             "year": 3,
             "semester": 1,
             "courses": [
+                {
+                    "type": "중필(3~4학년)",
+                    "name": "취업역량개발론",
+                    "credits": 1
+                },
                 {
                     "type": "전필",
                     "name": "국어교육론",

@@ -22,11 +22,6 @@
                 },
                 {
                     "type": "전선",
-                    "name": "인공지능과빅데이터",
-                    "credits": 3
-                },
-                {
-                    "type": "전선",
                     "name": "식품안전관리시스템(FSMS)",
                     "credits": 3
                 },
@@ -41,6 +36,12 @@
             "year": 1,
             "semester": 2,
             "courses": [
+                
+                {
+                    "type": "전선",
+                    "name": "경제학개론",
+                    "credits": 3
+                },
                 {
                     "type": "전선",
                     "name": "호텔외식비즈니스의이해",
@@ -54,11 +55,6 @@
                 {
                     "type": "전선",
                     "name": "사회조사분석론",
-                    "credits": 3
-                },
-                {
-                    "type": "전선",
-                    "name": "경제학개론",
                     "credits": 3
                 }
             ]

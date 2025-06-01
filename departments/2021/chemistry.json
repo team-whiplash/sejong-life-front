@@ -1,5 +1,6 @@
 {
     "department": "화학과",
+    "notice" : "1-2(A) '통계학개론, 일반생물학' 중 1과목을 선택하여 이수",
     "curriculum": [
       {
         "year": 1,
@@ -114,11 +115,6 @@
           },
           {
             "type": "전선",
-            "name": "환경화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
             "name": "분석화학실험",
             "credits": 3
           }
@@ -152,12 +148,8 @@
             "type": "전선",
             "name": "물리화학1",
             "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "화학과진로1",
-            "credits": 1
           }
+          
         ]
       },
       {
@@ -186,32 +178,12 @@
           },
           {
             "type": "전선",
-            "name": "나노화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
             "name": "기기분석화학",
             "credits": 3
           },
           {
             "type": "전선",
             "name": "유전생화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "전기화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "화학과진로2",
-            "credits": 1
-          },
-          {
-            "type": "전선",
-            "name": "화학전공인턴십1",
             "credits": 3
           },
           {
@@ -235,34 +207,10 @@
             "name": "고분자화학",
             "credits": 3
           },
-          {
-            "type": "전선",
-            "name": "생유기화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "극미량분석",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "금속착물화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "무기화학실험",
-            "credits": 3
-          },
+          
           {
             "type": "전선",
             "name": "생화학실험",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "화학과소프트웨어1",
             "credits": 3
           },
           {
@@ -273,11 +221,6 @@
           {
             "type": "전선",
             "name": "화학논리및논술",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "화학전공인턴십2",
             "credits": 3
           }
         ]
@@ -291,31 +234,13 @@
             "name": "생화학",
             "credits": 3
           },
-          {
-            "type": "전선",
-            "name": "고등고분자화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "고등무기화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "고등유기화학",
-            "credits": 3
-          },
+          
           {
             "type": "전선",
             "name": "고분자화학실험",
             "credits": 3
           },
-          {
-            "type": "전선",
-            "name": "고체화학",
-            "credits": 3
-          },
+          
           {
             "type": "전선",
             "name": "신소재화학",
@@ -324,26 +249,6 @@
           {
             "type": "전선",
             "name": "유기합성",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "응용화학연구및실험1",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "의약화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "화학과소프트웨어2",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "크로마토그래피실습",
             "credits": 3
           },
           {
@@ -357,21 +262,7 @@
         "year": 4,
         "semester": 2,
         "courses": [
-          {
-            "type": "전선",
-            "name": "고등물리화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "고등분석화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "고등생화학",
-            "credits": 3
-          },
+          
           {
             "type": "전선",
             "name": "분광학및실험",
@@ -382,26 +273,7 @@
             "name": "생활속의화학",
             "credits": 3
           },
-          {
-            "type": "전선",
-            "name": "정밀화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "생물리화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "응용화학연구및실험2",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "정밀화학",
-            "credits": 3
-          },
+        
           {
             "type": "전선",
             "name": "융복합화학",
@@ -409,22 +281,7 @@
           },
           {
             "type": "전선",
-            "name": "천연물화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "초분자화학",
-            "credits": 3
-          },
-          {
-            "type": "전선",
             "name": "분자모델링",
-            "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "에너지화학",
             "credits": 3
           },
           {

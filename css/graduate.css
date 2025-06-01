@@ -12,36 +12,38 @@ h1 {
     margin-bottom: 30px;
 }
 
-/* 수평 정렬된 선택 요소들을 감싸는 컨테이너 */
+/* 선택 컨테이너 스타일 */
 .select-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: nowrap;
     gap: 16px;
-    overflow-x: auto;
     margin: 20px auto;
     padding: 0 20px;
+    max-width: 1200px;
 }
 
 /* select 요소 스타일 */
 .select-container select {
-    min-width: 300px;
-    max-width: 400px;
+    min-width: 200px;
     height: 48px;
     padding: 0 16px;
     font-size: 16px;
     border-radius: 8px;
     border: 2px solid #e0e0e0;
     background-color: white;
-    white-space: nowrap;
-    flex-shrink: 0;
     cursor: pointer;
     appearance: none;
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
     background-repeat: no-repeat;
     background-position: right 1rem center;
     background-size: 1em;
+    transition: all 0.2s ease;
+}
+
+/* 숨김 처리 수정 */
+.hide {
+    display: none !important;
 }
 
 /* 확인 버튼 스타일 */
@@ -57,8 +59,6 @@ h1 {
     border-radius: 8px;
     cursor: pointer;
     transition: all 0.2s ease;
-    white-space: nowrap;
-    flex-shrink: 0;
 }
 
 .confirm-button:hover {

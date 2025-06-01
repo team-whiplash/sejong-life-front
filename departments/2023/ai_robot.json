@@ -6,23 +6,42 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전공교양(인필)",
+            "type": "교필(1~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "문제해결을위한글쓰기와발표",
             "credits": 3
           },
-          
           {
-            "type": "BSM(인필)",
-            "name": "일반물리학1",
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
+          },
+          {
+            "type": "교필",
+            "name": "신입생세미나A",
+            "credits": 1
+          },
+          {
+            "type": "학기",
+            "name": "고급프로그래밍활용",
             "credits": 3
           },
           {
-            "type": "BSM(인필)",
+            "type": "학기",
             "name": "미적분학1",
             "credits": 3
           },
           {
-            "type": "전필(인필)",
+            "type": "학기",
+            "name": "일반물리학1",
+            "credits": 3
+          },
+          {
+            "type": "전필",
             "name": "C프로그래밍및실습",
             "credits": 3
           }
@@ -33,28 +52,33 @@
         "semester": 2,
         "courses": [
           {
-            "type": "전문교양(인필)",
+            "type": "교필",
             "name": "대학영어",
             "credits": 2
           },
           {
-            "type": "전문교양(인필)",
+            "type": "교필",
             "name": "서양철학:쟁점과토론",
             "credits": 3
           },
           {
-            "type": "BSM(인필)",
+            "type": "교필",
+            "name": "신입생세미나B",
+            "credits": 1
+          },
+          {
+            "type": "학기",
             "name": "공업수학1",
             "credits": 3
           },
           
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "고급C프로그래밍및실습",
             "credits": 3
           },
            {
-            "type": "BSM(인필)",
+            "type": "전선",
             "name": "이산수학및프로그래밍",
             "credits": 3
           }
@@ -65,17 +89,18 @@
         "semester": 1,
         "courses": [
           {
-            "type": "BSM(인필)",
-            "name": "선형대수및프로그래밍",
+            "type": "학기",
+            "name": "인공지능과빅데이터",
             "credits": 3
           },
+        
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "자료구조및실습",
             "credits": 3
           },
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "창의SW기초설계",
             "credits": "3(3)"
           },
@@ -98,6 +123,11 @@
             "type": "전선",
             "name": "동역학",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "선형대수및프로그래밍",
+            "credits": 3
           }
          
         
@@ -109,13 +139,9 @@
         "year": 2,
         "semester": 2,
         "courses": [
+     
           {
-            "type": "BSM(인필)",
-            "name": "확률통계및프로그래밍",
-            "credits": 3
-          },  
-          {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "알고리즘및실습",
             "credits": "3(1)"
           },
@@ -144,6 +170,11 @@
             "type": "전선",
             "name": "전기회로실험",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "확률통계및프로그래밍",
+            "credits": 3
           }
           
         ]
@@ -152,6 +183,11 @@
         "year": 3,
         "semester": 1,
         "courses": [
+          {
+            "type": "교필(3~4학년)",
+            "name": "취창업과진로설계",
+            "credits": 1
+          },
           {
             "type": "전필",
             "name": "기계학습",
@@ -255,15 +291,11 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "캡스톤디자인(산학협력프로젝트)",
             "credits": "6(6)"
           },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로1",
-            "credits": 1
-          },
+      
           {
             "type": "전선",
             "name": "AI로봇설계",
@@ -283,6 +315,11 @@
             "type": "전선",
             "name": "지능기전산학세미나",
             "credits": 1
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
           }
           
           
@@ -295,15 +332,11 @@
         "semester": 2,
         "courses": [
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "Capstone디자인(산학협력프로젝트)",
             "credits": "6(6)"
           },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로2",
-            "credits": 1
-          },
+      
           {
             "type": "전선",
             "name": "머신러닝시스템",
@@ -323,6 +356,11 @@
             "type": "전선",
             "name": "지능기전특강2",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
           }
           
           
