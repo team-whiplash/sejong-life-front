@@ -15,6 +15,7 @@ const contactData = {
 // 전화번호부 렌더링 함수
 function renderContactList(filter = '') {
     const contactList = document.getElementById('contact-list');
+    if (!contactList) return;
     contactList.innerHTML = '';
 
     for (const [category, contacts] of Object.entries(contactData)) {
@@ -41,24 +42,35 @@ function renderContactList(filter = '') {
     }
 }
 
-// 지도 이미지만 렌더링 (마커 없음)
+// 지도 렌더링
 function renderCampusMap() {
-    const map = document.getElementById('map');
+    const sejongLatLng = new kakao.maps.LatLng(37.550434, 127.073193);
+    const container = document.getElementById('map');
 
-    const img = document.createElement('img');
-    img.src = 'assets/images/info/map.png'; // 지도 이미지 경로
-    img.alt = '세종대학교 캠퍼스 지도';
-    img.style.width = '100%';
-    img.style.height = '100%';
-    img.style.borderRadius = '8px';
-    img.style.objectFit = 'cover';
+    const options = {
+        center: sejongLatLng,
+        level: 3,
+    };
 
-    map.innerHTML = '';
-    map.appendChild(img);
+    const map = new kakao.maps.Map(container, options);
+
+    const marker = new kakao.maps.Marker({
+        position: sejongLatLng,
+        map: map,
+        title: '세종대학교',
+    });
+
+    const infowindow = new kakao.maps.InfoWindow({
+        content: '<div style="padding:5px;font-size:14px;">세종대학교</div>',
+    });
+
+    kakao.maps.event.addListener(marker, 'click', function () {
+        infowindow.open(map, marker);
+    });
 }
 
-// 페이지 로드 시 실행
-document.addEventListener('DOMContentLoaded', () => {
+// 초기 실행
+window.onload = () => {
     renderContactList();
     renderCampusMap();
 
@@ -68,4 +80,4 @@ document.addEventListener('DOMContentLoaded', () => {
             renderContactList(e.target.value);
         });
     }
-});
+};
