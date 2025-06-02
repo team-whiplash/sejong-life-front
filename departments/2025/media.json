@@ -6,9 +6,24 @@
             "semester": 1,
             "courses": [
                 {
-                    "type": "공필",
+                    "type": "교필",
                     "name": "세종인을위한진로설계",
                     "credits": 1
+                },
+                {
+                    "type": "교필",
+                    "name": "대학영어",
+                    "credits": 2
+                },
+                {
+                    "type": "교필",
+                    "name": "서양철학:쟁점과토론",
+                    "credits": 3
+                },
+                {
+                    "type": "학기",
+                    "name": "컴퓨터사고기반기초코딩",
+                    "credits": 3
                 },
                 {
                     "type": "전필",
@@ -22,9 +37,24 @@
             "semester": 2,
             "courses": [
                 {
-                    "type": "공필",
+                    "type": "교필",
                     "name": "세종인을위한전공탐색",
                     "credits": 1
+                },
+                {
+                    "type": "교필",
+                    "name": "우주자연인간",
+                    "credits": 1
+                },
+                {
+                    "type": "교필",
+                    "name": "문제해결을위한글쓰기와발표",
+                    "credits": 3
+                },
+                {
+                    "type": "학기",
+                    "name": "인공지능과빅데이터",
+                    "credits": 3
                 },
                 {
                     "type": "전필",
@@ -42,6 +72,11 @@
             "year": 2,
             "semester": 1,
             "courses": [
+                {
+                    "type": "교필(2~4학년)",
+                    "name": "창업과기업가정신1",
+                    "credits": 1
+                },
                 {
                     "type": "전필",
                     "name": "커뮤니케이션조사방법론",
@@ -100,6 +135,11 @@
             "semester": 1,
             "courses": [
                 {
+                    "type": "교필(3~4학년)",
+                    "name": "취창업과진로설계",
+                    "credits": 1
+                },
+                {
                     "type": "전필",
                     "name": "커뮤니케이션통계실무",
                     "credits": 3
@@ -127,11 +167,6 @@
                 {
                     "type": "전선",
                     "name": "PR론",
-                    "credits": 3
-                },
-                {
-                    "type": "전선",
-                    "name": "미디어와문화",
                     "credits": 3
                 },
                 {
@@ -173,8 +208,8 @@
             "courses": [
                 {
                     "type": "전선",
-                    "name": "졸업연구및진로",
-                    "credits": 1
+                    "name": "미디어법제",
+                    "credits": 3
                 },
                 {
                     "type": "전선",
@@ -185,6 +220,11 @@
                     "type": "전선",
                     "name": "영상제작워크샵",
                     "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "졸업연구및진로1",
+                    "credits": 1
                 }
             ]
         },
@@ -204,18 +244,13 @@
                 },
                 {
                     "type": "전선",
-                    "name": "졸업연구및진로2",
-                    "credits": 1
-                },
-                {
-                    "type": "전선",
                     "name": "브랜드콘텐츠제작",
                     "credits": 3
                 },
                 {
                     "type": "전선",
-                    "name": "현장실습12",
-                    "credits": 12
+                    "name": "졸업연구및진로2",
+                    "credits": 1
                 }
             ]
         }

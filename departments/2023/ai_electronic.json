@@ -6,27 +6,37 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전공교양(인필)",
+            "type": "교필(1~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "문제해결을위한글쓰기와발표",
             "credits": 3
           },
           {
-            "type": "MSC(인필)",
-            "name": "일반물리학1",
-            "credits": 3
+            "type": "교필",
+            "name": "우주자연인간",
+            "credits": 1
           },
           {
-            "type": "MSC(인필)",
-            "name": "선형대수",
-            "credits": 3
+            "type": "교필",
+            "name": "신입생세미나A",
+            "credits": 1
           },
           {
-            "type": "MSC(인필)",
+            "type": "학기",
             "name": "미적분학1",
             "credits": 3
           },
           {
-            "type": "MSC(인필)",
+            "type": "학기",
+            "name": "일반물리학1",
+            "credits": 3
+          },
+          {
+            "type": "학기",
             "name": "프로그래밍활용-C",
             "credits": 3
           }
@@ -37,33 +47,38 @@
         "semester": 2,
         "courses": [
           {
-            "type": "전문교양(인필)",
+            "type": "교필",
             "name": "대학영어",
             "credits": 2
           },
           {
-            "type": "전문교양(인필)",
+            "type": "교필",
             "name": "서양철학:쟁점과토론",
             "credits": 3
           },
           {
-            "type": "MSC(인필)",
+            "type": "교필",
+            "name": "신입생세미나B",
+            "credits": 1
+          },
+          {
+            "type": "학기",
             "name": "공업수학1",
             "credits": 3
           },
           {
-            "type": "MSC(인필)",
+            "type": "학기",
             "name": "일반물리학2",
+            "credits": 3
+          },
+          {
+            "type": "학기",
+            "name": "일반화학1",
             "credits": 3
           },
           {
             "type": "전선",
             "name": "프로그래밍",
-            "credits": 3
-          },
-           {
-            "type": "MSC(인필)",
-            "name": "일반화학1",
             "credits": 3
           }
         ]
@@ -73,17 +88,17 @@
         "semester": 1,
         "courses": [
           {
-            "type": "MSC(인필)",
+            "type": "학기",
             "name": "인공지능과빅데이터",
             "credits": 3
           },
           {
-            "type": "MSC(인필)",
+            "type": "학기",
             "name": "공업수학2",
             "credits": 3
           },
           {
-            "type": "MSC(인필)",
+            "type": "전선",
             "name": "확률및랜덤변수",
             "credits": 3
           },
@@ -102,8 +117,6 @@
             "name": "디지털논리회로",
             "credits": "3(1)"
           }
-          
-          
         ]
       },
       {
@@ -116,7 +129,7 @@
             "credits": 3
           },
           {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "기초설계",
             "credits": "3(3)"
           },
@@ -140,14 +153,17 @@
             "name": "JAVA프로그래밍",
             "credits": 3
           }
-          
-          
         ]
       },
       {
         "year": 3,
         "semester": 1,
         "courses": [
+          {
+            "type": "교필(3~4학년)",
+            "name": "취창업과진로설계",
+            "credits": 1
+          },
           {
             "type": "전선",
             "name": "전자회로1",
@@ -204,7 +220,6 @@
             "name": "랜덤프로세스",
             "credits": 3
           }
-          
         ]
       },
       {
@@ -292,8 +307,6 @@
             "name": "정보시스템설계",
             "credits": "3(2)"
           }
-          
-          
         ]
       },
       {
@@ -309,11 +322,6 @@
             "type": "전선",
             "name": "인턴쉽A",
             "credits": "3(3)"
-          },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로1",
-            "credits": 1
           },
           {
             "type": "전선",
@@ -375,8 +383,6 @@
             "name": "태양전지공학",
             "credits": 3
           },
-          
-          
           {
             "type": "전선",
             "name": "반도체공정실험",
@@ -406,10 +412,12 @@
             "type": "전선",
             "name": "멀티미디어설계",
             "credits": "3(2)"
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로1",
+            "credits": 1
           }
-          
-        
-          
         ]
       },
       {
@@ -420,11 +428,6 @@
             "type": "전선",
             "name": "전자정보통신공학특강B",
             "credits": 3
-          },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로2",
-            "credits": 1
           },
           {
             "type": "전선",
@@ -461,7 +464,6 @@
             "name": "유선통신공학",
             "credits": 3
           },
-          
           {
             "type": "전선",
             "name": "차세대이동통신",
@@ -497,14 +499,16 @@
             "name": "K-MOOC:무선인터넷의이해",
             "credits": 1
           },
-          
           {
             "type": "전선",
             "name": "캡스톤디자인B",
             "credits": "3(3)"
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
           }
-        
-          
         ]
       }
     ]

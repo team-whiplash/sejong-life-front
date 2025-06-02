@@ -31,6 +31,7 @@
             "year": 1,
             "semester": 2,
             "courses": [
+    
                 {
                     "type": "전필",
                     "name": "회계원리",
@@ -62,6 +63,7 @@
             "year": 2,
             "semester": 1,
             "courses": [
+        
                 {
                     "type": "전선",
                     "name": "여행사경영론",

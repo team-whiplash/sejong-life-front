@@ -7,7 +7,7 @@
             "courses": [
                 {
                     "type": "전선",
-                    "name": "호텔외식경영실무1",
+                    "name": "호텔외식조리경영실무1",
                     "credits": 3
                 },
                 {
@@ -33,7 +33,7 @@
                 },
                 {
                     "type": "전선",
-                    "name": "호텔외식경영실무2",
+                    "name": "호텔외식조리경영실무2",
                     "credits": 3
                 },
                 {
@@ -49,7 +49,7 @@
             "courses": [
                 {
                     "type": "전선",
-                    "name": "호텔외식경영실무3",
+                    "name": "호텔외식조리경영실무3",
                     "credits": 3
                 },
                 {
@@ -70,7 +70,7 @@
             "courses": [
                 {
                     "type": "전선",
-                    "name": "호텔외식경영실무4",
+                    "name": "호텔외식조리경영실무4",
                     "credits": 3
                 },
                 {
@@ -81,6 +81,80 @@
                 {
                     "type": "전선",
                     "name": "레스토랑주방시설관리론",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "외식산업경영론",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "글로벌동양요리실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무5",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "메뉴기획과디자인",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 3,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "글로벌서양요리실습",
+                    "credits": 3
+                },
+                {
+                    "type": "전필",
+                    "name": "외식원가관리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무6",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 1,
+            "courses": [
+                {
+                    "type": "전필",
+                    "name": "한국전통요리와궁중요리",
+                    "credits": 3
+                },
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무7",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "year": 4,
+            "semester": 2,
+            "courses": [
+                {
+                    "type": "전선",
+                    "name": "호텔외식조리경영실무8",
                     "credits": 3
                 }
             ]

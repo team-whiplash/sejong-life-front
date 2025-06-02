@@ -1,5 +1,6 @@
 {
     "department": "수학통계학과",
+    "notice" : "전기(A) 7개 과목 중 2과목을 선택하여 이수",
     "curriculum": [
       {
         "year": 1,
@@ -19,6 +20,11 @@
             "type": "교필",
             "name": "대학영어",
             "credits": 2
+          },
+          {
+            "type": "학기",
+            "name": "미적분학1",
+            "credits": 3
           },
           {
             "type": "전기",
@@ -104,6 +110,11 @@
         "semester": 1,
         "courses": [
           {
+            "type": "교필(2~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
             "type": "학기",
             "name": "고급프로그래밍활용",
             "credits": 3
@@ -166,8 +177,8 @@
         "semester": 1,
         "courses": [
           {
-            "type": "교필",
-            "name": "취창업과진로설계(3~4학년중에 수강)",
+            "type": "교필(3~4학년)",
+            "name": "취창업과진로설계",
             "credits": 1
           },
           {

@@ -1,4 +1,11 @@
 /* 전체 바디 스타일 */
+
+/* body {
+    font-family: 'Noto Sans KR', sans-serif;
+    margin: 0;
+    background-color: white;
+} */
+
 /* body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 20px;
@@ -6,8 +13,94 @@
     color: #333;
 } */
 
-/* 메인 타이틀 */
+
+/* 페이지 타이틀 */
 h1 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+/* 선택 컨테이너 스타일 */
+.select-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    margin: 20px auto;
+    padding: 0 20px;
+    max-width: 1200px;
+}
+
+/* select 요소 스타일 */
+.select-container select {
+    min-width: 200px;
+    height: 48px;
+    padding: 0 16px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 2px solid #e0e0e0;
+    background-color: white;
+    cursor: pointer;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 1rem center;
+    background-size: 1em;
+    transition: all 0.2s ease;
+}
+
+/* 숨김 처리 수정 */
+.hide {
+    display: none !important;
+}
+
+/* 확인 버튼 스타일 */
+.confirm-button {
+    min-width: 100px;
+    height: 48px;
+    padding: 0 24px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    background-color: #2196f3;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.confirm-button:hover {
+    background-color: #1976d2;
+    transform: translateY(-1px);
+}
+
+.confirm-button:active {
+    transform: translateY(1px);
+}
+
+.confirm-button.hide {
+    display: none;
+}
+
+.select-container select:hover,
+.select-container button:hover {
+    border-color: #2196f3;
+}
+
+.select-container select:focus {
+    outline: none;
+    border-color: #2196f3;
+    box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.1);
+}
+
+/* 버튼 색상 별도 정의 (기본 버튼 보호용) */
+button {
+    background-color: #2196f3;
+    color: white;
+    font-weight: 500;
+    border: none;
+    min-width: 100px;
   text-align: center;
   margin-bottom: 30px;
   font-size: 32px;
@@ -57,23 +150,56 @@ button {
   word-break: keep-all;
 }
 
-/* 버튼 hover 효과 */
 button:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
-  opacity: 0.9;
+    background-color: #1976d2;
+    transform: translateY(-1px);
 }
 
-/* 커리큘럼 테이블 컨테이너 */
+button:active {
+    transform: translateY(1px);
+}
+
+/* 숨김 처리: display: none 대신 자리 유지 */
+.hide {
+    visibility: hidden;
+    pointer-events: none;
+    opacity: 0;
+}
+
+/* 커리큘럼 출력 영역 */
 #curriculum-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px; /* 카드 사이 여백 */
+    padding: 24px;
+    max-width: 1400px;
+    margin: 0 auto;
+    box-sizing: border-box;
 }
 
 /* 커리큘럼 카드 스타일 */
 .curriculum-item {
+    width: 100%;
+    box-sizing: border-box; /* ✅ 내부 padding 포함한 너비 계산 */
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.curriculum-item:hover {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+    transition: all 0.2s ease;
+}
+
+/* 카드 내부 제목 */
+.curriculum-item h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
   width: 320px;
   background: white;
   border-radius: 16px;
@@ -92,20 +218,36 @@ h2 {
 
 /* 테이블 스타일 */
 table {
-  width: 100%;
-  border-collapse: collapse;
-  word-break: keep-all;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    word-break: keep-all;
 }
-
 th,
 td {
   border: 1px solid #e0e0e0;
   padding: 8px;
   font-size: 14px;
   text-align: center;
+
 }
 
 th {
   background-color: #f1f3f4;
   font-weight: 600;
+}
+
+/* 반응형 처리 */
+@media (max-width: 1024px) {
+    .select-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .select-container select,
+    .select-container button {
+        width: 100%;
+        max-width: 300px;
+        margin: 8px 0;
+    }
 }

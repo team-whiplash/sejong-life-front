@@ -57,6 +57,7 @@
             "year": 2,
             "semester": 1,
             "courses": [
+
                 {
                     "type": "전선",
                     "name": "여행사경영론",
@@ -119,6 +120,7 @@
             "year": 3,
             "semester": 1,
             "courses": [
+        
                 {
                     "type": "전필",
                     "name": "호텔경영론",

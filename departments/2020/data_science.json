@@ -6,79 +6,73 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전문교양(인필)",
+            "type": "교필(1~4학년)",
+            "name": "창업과기업가정신1",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "문제해결을위한글쓰기와발표",
             "credits": 3
           },
           {
-            "type": "교양선택",
-            "name": "세종사회봉사1",
+            "type": "교필",
+            "name": "대학생활과진로설계",
             "credits": 1
           },
           {
-            "type": "전문교양(인필)",
-            "name": "대학생활과진로설계1",
-            "credits": 1
-          },
-         
-          {
-            "type": "BSM(인필)",
-            "name": "일반물리학및실험1",
-            "credits": 3
-          },
-          {
-            "type": "BSM(인필)",
-            "name": "일변수미적분학",
-            "credits": 3
-          },
-          {
-            "type": "교양선택",
+            "type": "교선1",
             "name": "고급프로그래밍입문-P",
             "credits": 3
           },
           {
-            "type": "전공기초(인필)",
+            "type": "학기",
+            "name": "일반물리학및실험1",
+            "credits": 3
+          },
+          {
+            "type": "학기",
+            "name": "일변수미적분학",
+            "credits": 3
+          },
+          {
+            "type": "전필",
             "name": "C프로그래밍및실습",
             "credits": 4
           }
-         
         ]
       },
       {
         "year": 1,
         "semester": 2,
         "courses": [
-         
           {
-            "type": "전문교양(인필)",
+            "type": "교필",
             "name": "English Listening Practice 1",
             "credits": 2
           },
           {
-            "type": "전문교양(인필)",
+            "type": "교필",
+            "name": "신입생세미나",
+            "credits": 1
+          },
+          {
+            "type": "교필",
             "name": "서양철학:쟁점과토론",
             "credits": 3
           },
-          
-         
-         
           {
-            "type": "BSM(인필)",
+            "type": "학기",
             "name": "공업수학1",
             "credits": 3
           },
           {
-            "type": "BSM(인필)",
+            "type": "학기",
             "name": "통계학개론",
             "credits": 3
           },
           {
-            "type": "전공기초(인필)",
-            "name": "고급C프로그래밍및실습",
-            "credits": "4(1)"
-          },
-          {
-            "type": "전필(인필)",
+            "type": "전필",
             "name": "공학설계기초(산학프로젝트입문)",
             "credits": "3(3)"
           },
@@ -94,19 +88,22 @@
         "semester": 1,
         "courses": [
           {
-            "type": "전필(인필)",
+            "type": "교선1(2학년)",
+            "name": "세계사:인간과문명",
+            "credits": 3
+          },
+          {
+            "type": "전필",
             "name": "자료구조및실습",
             "credits": 4
           },
-          
-          
           {
             "type": "전선",
             "name": "웹프로그래밍",
             "credits": 3
           },
           {
-            "type": "전선(인필)",
+            "type": "전선",
             "name": "데이터분석개론",
             "credits": "3(1)"
           },
@@ -120,7 +117,6 @@
             "name": "확률통계및프로그래밍",
             "credits": 3
           }
-          
         ]
       },
       {
@@ -128,17 +124,22 @@
         "semester": 2,
         "courses": [
           {
-            "type": "전문교양(인필)",
+            "type": "교필",
             "name": "English Reading Practice 1",
             "credits": 2
-          },  
+          },
           {
-            "type": "교양선택",
-            "name": "세계사:인간과문명",
+            "type": "전필",
+            "name": "알고리즘및실습",
             "credits": 3
-          },  
+          },
           {
-            "type": "BSM(인필)",
+            "type": "전필",
+            "name": "컴퓨터구조",
+            "credits": 3
+          },   
+          {
+            "type": "전선",
             "name": "선형대수및프로그래밍",
             "credits": 3
           },
@@ -147,40 +148,29 @@
             "name": "수치해석",
             "credits": 3
           },  
-        
-          {
-            "type": "전필(인필)",
-            "name": "알고리즘및실습",
-            "credits": 3
-          },
-          {
-            "type": "전필(인필)",
-            "name": "컴퓨터구조",
-            "credits": 3
-          },
           {
             "type": "전선",
             "name": "문제해결및실습:JAVA",
             "credits": "3(1)"
           }
-          
-          
-          
-          
         ]
       },
       {
         "year": 3,
         "semester": 1,
         "courses": [
-         {
-            "type": "전문교양(인필)",
+          {
+            "type": "교필(3~4학년)",
+            "name": "취업역량개발론",
+            "credits": 1
+          },
+          {
+            "type": "교선1",
             "name": "Technical Writing 기초",
             "credits": 2
           },  
-        
           {
-            "type": "전선(인필)",
+            "type": "전필",
             "name": "운영체제",
             "credits": 3
           },
@@ -190,7 +180,7 @@
             "credits": "3(1)"
           },
           {
-            "type": "전선(인필)",
+            "type": "전선",
             "name": "기계학습",
             "credits": "3(1)"
           },
@@ -204,8 +194,6 @@
             "name": "의사결정분석",
             "credits": 3
           }
-          
-          
         ]
       },
       {
@@ -218,7 +206,7 @@
             "credits": "3(1)"
           },
           {
-            "type": "전선(인필)",
+            "type": "전선",
             "name": "오픈소스SW개론",
             "credits": 3
           },
@@ -228,14 +216,10 @@
             "credits": 3
           },
           {
-            "type": "전선(인필)",
+            "type": "전선",
             "name": "대용량데이터처리개론",
             "credits": 3
           }
-          
-          
-         
-          
         ]
       },
       {
@@ -247,12 +231,6 @@
             "name": "Capstone디자인(산학협력프로젝트)",
             "credits": "6(6)"
           },
-          {
-            "type": "전선",
-            "name": "졸업연구및진로1",
-            "credits": 1
-          },
-         
           {
             "type": "전선",
             "name": "고급데이터처리",
@@ -274,15 +252,10 @@
             "credits": 3
           },
           {
-            "type": "전문교양",
-            "name": "취업역량개발론",
+            "type": "전선",
+            "name": "졸업연구및진로1",
             "credits": 1
           }
-
-         
-        
-          
-          
         ]
       },
       {
@@ -300,11 +273,6 @@
             "credits": 3
           },
           {
-            "type": "전선",
-            "name": "졸업연구및진로2",
-            "credits": 1
-          },
-          {
             "type": "전공",
             "name": "데이터사이언스특론",
             "credits": 3
@@ -318,11 +286,12 @@
             "type": "전선",
             "name": "데이터기반인공지능",
             "credits": 3
+          },
+          {
+            "type": "전선",
+            "name": "졸업연구및진로2",
+            "credits": 1
           }
-          
-          
-        
-          
         ]
       }
     ]

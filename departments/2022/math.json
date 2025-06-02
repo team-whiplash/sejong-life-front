@@ -6,8 +6,8 @@
         "semester": 1,
         "courses": [
           {
-            "type": "교필",
-            "name": "창업과기업가정신1(1~4학년중에 수강)",
+            "type": "교필(1~4학년)",
+            "name": "창업과기업가정신1",
             "credits": 1
           },
           {
@@ -46,7 +46,6 @@
         "year": 1,
         "semester": 2,
         "courses": [
-
           {
             "type": "교필",
             "name": "신입생세미나B",
