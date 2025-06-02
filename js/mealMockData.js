@@ -77,7 +77,7 @@ window.mealData = [
     type: 'restaurant',
     name: '군자관 식당',
     position: '군자관 6층',
-    image: 'assets/images/meal/gunja.jpg',
+    image: 'assets/images/meal/gunja.jpeg',
   },
   {
     id: 10,

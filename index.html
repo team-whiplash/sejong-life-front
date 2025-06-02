@@ -1,30 +1,76 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Sejong Life</title>
-        <link rel="stylesheet" href="css/index.css">
-    </head>
-    <body>
-        <header>
-            <div class="logo">
-                <a href="index.html">
-                    <img src="assets/images/logo.png" alt="Sejong Life Logo">
-                </a>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sejong Life</title>
+    <link rel="stylesheet" href="css/index.css" />
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html">
+                <img src="assets/images/logo.png" alt="Sejong Life Logo" />
+            </a>
+        </div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="info.html">정보광장</a></li>
+                <li><a href="graduate.html">졸업요건</a></li>
+                <li><a href="club.html">동아리</a></li>
+                <li><a href="meal.html">식사안내</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="main-layout">
+            <!-- 왼쪽 달력 영역 -->
+            <div class="calendar-container">
+                <div class="calendar-header">
+                    <button onclick="prevMonth()">
+                        <img src="/assets/images/leftarrow.svg" alt="이전 달" width="40px" />
+                    </button>
+                    <h2 id="month-title"></h2>
+                    <button onclick="nextMonth()">
+                        <img src="/assets/images/rightarrow.svg" alt="이전 달" width="40px" />
+                    </button>
+                </div>
+                <div class="calendar-grid" id="calendar-grid"></div>
             </div>
-            <nav>
-                <ul class="nav-links">
-                    <li><a href="info.html">정보광장</a></li>
-                    <li><a href="graduate.html">졸업요건</a></li>
-                    <li><a href="club.html">동아리</a></li>
-                    <li><a href="meal.html">식사안내</a></li>
-            </nav>
-        </header>
-        <main>   
-        </main>
-        <footer>
-            <p>ⓒ 2025 Whiplash Team. All rights reserved.</p>
-        </footer>
-    </body>
+            <!-- 오른쪽: 일정 표시 -->
+            <div class="calendar-detail">
+                <div class="calendar-detail-inner">x
+                    <!-- <img src="assets/icons/empty-calendar.png" alt="빈 달력 아이콘" /> -->
+                    <p class="no-schedule-text">학사일정이 없습니다.</p>
+                </div>
+            </div>
+        </div>
+    </main>
+    <!-- 퀵 메뉴 -->
+    <aside class="quick-menu">
+        <ul>
+            <li><a href="http://www.sejong.ac.kr/index.htm" target="_blank">세종대학교 홈페이지</a></li>
+            <li><a href="https://portal.sejong.ac.kr/jsp/login/loginSSL.jsp?rtUrl=portal.sejong.ac.kr/comm/member/user/ssoLoginProc.do"
+                    target="_blank">학사정보시스템</a></li>
+            <li><a href="https://ecampus.sejong.ac.kr/" target="_blank">집현캠퍼스</a></li>
+            <li><a href="https://library.sejong.ac.kr/index.ax" target="_blank">학술정보원</a></li>
+            <li><a href="https://do.sejong.ac.kr/" target="_blank">두드림</a></li>
+            <li><a href="https://udream.sejong.ac.kr/" target="_blank">유드림</a></li>
+            <li><a href="https://allcll.kr/" target="_blank">올클</a></li>
+            <li><a href="https://tutorial-sejong.com/login" target="_blank">수강신청 연습</a></li>
+            <li><a href="https://please-graduate.com/" target="_blank">졸업검사</a></li>
+        </ul>
+    </aside>
+
+
+    <script src="js/index.js"></script>
+
+    <footer>
+        <p>ⓒ 2025 Whiplash Team. All rights reserved.</p>
+    </footer>
+</body>
+
 </html>
