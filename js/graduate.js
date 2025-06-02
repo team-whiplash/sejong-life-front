@@ -6,30 +6,30 @@ const colleges = {
   생명과학대학: ['life_system', 'smartbio'],
   예체능대학: ['painting', 'fashion', 'music', 'sports', 'dance', 'film'],
   공과대학: [
-    'Mechanical_Engineering',
+    'mechanical_engineering',
     'Aerospace',
-    'Nano',
-    'Nuclear',
-    'Construction',
-    'Department_of_Civil',
+    'nano',
+    'nuclear',
+    'construction',
+    'department_of_civil',
     'environment',
     'energy',
-    'Defense',
-    'Architecture',
+    'defense',
+    'architecture',
   ],
   인공지능융합대학: [
     'computer',
-    'Information',
-    'Data_Science',
-    'AI_electronic',
+    'information',
+    'data_science',
+    'ai_electronic',
     'Semiconductor',
-    'AI_Robot',
-    'Software',
+    'ai_robot',
+    'software',
     'creative',
     'intelligent',
-    'AI',
+    'ai',
   ],
-  자연과학대학: ['math', 'Physics', 'Chemistry'],
+  자연과학대학: ['math', 'physics', 'chemistry'],
   대양휴머니티칼리지: ['Free', 'pick'],
 };
 
@@ -56,31 +56,31 @@ const deptNames = {
   sports: '체육학과',
   dance: '무용과',
   film: '영화예술학과',
-  Mechanical_Engineering: '기계공학과',
+  mechanical_engineering: '기계공학과',
   Aerospace: '우주항공시스템공학부',
-  Nano: '나노신소재공학과',
-  Nuclear: '양자원자력공학과',
-  Construction: '건축공학과',
-  Department_of_Civil: '건설환경공학과',
+  nano: '나노신소재공학과',
+  nuclear: '양자원자력공학과',
+  construction: '건축공학과',
+  department_of_civil: '건설환경공학과',
   environment: '환경융합공학과',
   energy: '지구자원시스템공학과(전 에너지자원공학과)',
-  Defense: '국방시스템공학과',
-  Architecture: '건축학과',
+  defense: '국방시스템공학과',
+  architecture: '건축학과',
   computer: '컴퓨터공학과',
-  Information: '정보보호학과',
-  Data_Science: '인공지능데이터사이언스학과',
-  AI_electronic: 'AI융합전자공학과',
-  Semiconductor: '반도체시스템공학과',
-  AI_Robot: 'AI로봇학과',
-  Software: '콘텐츠소프트웨어학과',
+  information: '정보보호학과',
+  data_science: '인공지능데이터사이언스학과',
+  ai_electronic: 'AI융합전자공학과',
+  semiconductor: '반도체시스템공학과',
+  ai_robot: 'AI로봇학과',
+  software: '콘텐츠소프트웨어학과',
   creative: '창의소프트학부',
   math: '수학통계학과',
-  Physics: '물리천문학과',
-  Chemistry: '화학과',
+  physics: '물리천문학과',
+  chemistry: '화학과',
   Free: '자유전공학부',
   pick: '균형교양선택(2022 ~ 2025학년도)',
   intelligent: '지능정보융합학과',
-  AI: '인공지능학과',
+  ai: '인공지능학과',
 };
 
 const pageTitle = document.getElementById('page-title');
@@ -115,7 +115,7 @@ const detailedMajors = {
     2024: ['우주항공공학전공', '항공시스템공학전공', '지능형드론융합전공'],
     2025: ['우주항공공학전공', '항공시스템공학전공', '지능형드론융합전공'],
   },
-  AI_Robot: {
+  ai_robot: {
     2019: ['스마트기기전공', '무인이동체공학전공'],
     2020: ['스마트기기전공', '무인이동체공학전공'],
     2021: ['스마트기기전공', '무인이동체공학전공'],
@@ -207,12 +207,14 @@ deptSelect.addEventListener('change', () => {
       validYears = [2022, 2023, 2024, 2025];
     } else if (selectedDept === 'Free') {
       validYears = [2025];
-    } else if (selectedDept === 'Semiconductor') {
+    } else if (selectedDept === 'semiconductor') {
       validYears = [2023, 2024, 2025];
     } else if (selectedDept === 'smartbio') {
       validYears = [2021, 2022, 2023, 2024, 2025]; // ✅ 여기에 추가!
-    } else if (selectedDept === 'AI') {
+    } else if (selectedDept === 'ai') {
       validYears = [2021, 2022, 2023];
+    } else if (selectedDept === 'intelligent') {
+      validYears = [2025]; // 지능정보융합학과
     } else {
       validYears = Array.from({ length: 7 }, (_, i) => 2019 + i); // 기본: 2019~2025
     }
