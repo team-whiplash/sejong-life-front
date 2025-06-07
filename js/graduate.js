@@ -166,7 +166,7 @@ collegeSelect.addEventListener('change', () => {
 
   // 초기화
   deptSelect.innerHTML = '<option value="">학과 선택</option>';
-  yearSelect.innerHTML = '<option value="">년도 선택</option>';
+  yearSelect.innerHTML = '<option value="">연도 선택</option>';
   majorSelect.innerHTML = '<option value="">전공 선택</option>';
 
   // 모든 선택 요소 숨기기
@@ -193,7 +193,7 @@ collegeSelect.addEventListener('change', () => {
 // 학과 선택 시 년도 노출
 deptSelect.addEventListener('change', () => {
   const selectedDept = deptSelect.value;
-  yearSelect.innerHTML = '<option value="">년도 선택</option>';
+  yearSelect.innerHTML = '<option value="">연도 선택</option>';
   majorSelect.innerHTML = '<option value="">전공 선택</option>';
   [yearSelect, majorSelect, confirmBtn].forEach((el) =>
     el.classList.add('hide')

@@ -1,16 +1,8 @@
 /* 전체 바디 스타일 */
-
 /* body {
-    font-family: 'Noto Sans KR', sans-serif;
-    margin: 0;
-    background-color: white;
-} */
-
-/* body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 20px;
-    background-color: white;
-    color: #333;
+  font-family: 'Noto Sans KR', sans-serif;
+  margin: 0;
+  background-color: white;
 } */
 
 /* 페이지 타이틀 */
@@ -20,38 +12,36 @@ h1 {
   margin-bottom: 30px;
 }
 
-/* 선택 컨테이너 스타일 */
+/* 수평 정렬된 선택 요소들을 감싸는 컨테이너 */
 .select-container {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: nowrap;
   gap: 16px;
+  overflow-x: auto;
   margin: 20px auto;
   padding: 0 20px;
-  max-width: 1200px;
 }
 
 /* select 요소 스타일 */
 .select-container select {
-  min-width: 200px;
+  min-width: 300px;
+  max-width: 400px;
   height: 48px;
   padding: 0 16px;
   font-size: 16px;
   border-radius: 8px;
   border: 2px solid #e0e0e0;
   background-color: white;
+  white-space: nowrap;
+  flex-shrink: 0;
   cursor: pointer;
   appearance: none;
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
   background-repeat: no-repeat;
   background-position: right 1rem center;
   background-size: 1em;
-  transition: all 0.2s ease;
-}
-
-/* 숨김 처리 수정 */
-.hide {
-  display: none !important;
 }
 
 /* 확인 버튼 스타일 */
@@ -61,18 +51,19 @@ h1 {
   padding: 0 24px;
   font-size: 16px;
   font-weight: 500;
-  /* color: white; */
   background-color: #eee;
+  color: black;
   border: none;
   border-radius: 8px;
   cursor: pointer;
   transition: all 0.2s ease;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .confirm-button:hover {
   background-color: black;
   color: white;
-  transition: background-color 0.3s ease;
   transform: translateY(-1px);
 }
 
@@ -98,69 +89,24 @@ h1 {
 }
 
 /* 버튼 색상 별도 정의 (기본 버튼 보호용) */
-button {
-  background-color: #2196f3;
-  color: white;
+/* button {
+  background-color: #eee;
+  color: black;
   font-weight: 500;
   border: none;
   min-width: 100px;
-  text-align: center;
-  margin-bottom: 30px;
-  font-size: 32px;
-}
-
-/* 단과대 버튼 메뉴 */
-#college-menu {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 15px;
-  margin-bottom: 30px;
-}
-
-/* 학과 버튼 메뉴 */
-#dept-menu {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 20px;
-  justify-items: center;
-  margin-bottom: 30px;
-}
-
-/* 모든 버튼 기본 스타일 */
-button {
-  padding: 12px 18px;
-  font-size: 15px;
-  font-weight: 500;
-  cursor: pointer;
-  border: none;
-  border-radius: 12px;
-  background-color: #4caf50;
-  color: black;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease;
-}
-
-/* 단과대 버튼 스타일 구분 */
-#college-menu button {
-  background-color: #1976d2;
-  word-break: keep-all;
-}
-
-/* 학과 버튼 스타일 구분 */
-#dept-menu button {
-  background-color: #4caf50;
-  word-break: keep-all;
+  border-radius: 8px;
 }
 
 button:hover {
-  background-color: #1976d2;
+  background-color: black;
+  color: white;
   transform: translateY(-1px);
 }
 
 button:active {
   transform: translateY(1px);
-}
+} */
 
 /* 숨김 처리: display: none 대신 자리 유지 */
 .hide {
@@ -203,20 +149,6 @@ button:active {
 .curriculum-item h2 {
   font-size: 20px;
   margin-bottom: 15px;
-  width: 320px;
-  background: white;
-  border-radius: 16px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  padding: 20px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-/* 학년/학기 제목 */
-h2 {
-  font-size: 20px;
-  margin-bottom: 15px;
 }
 
 /* 테이블 스타일 */
@@ -230,7 +162,6 @@ th,
 td {
   border: 1px solid #e0e0e0;
   padding: 8px;
-  font-size: 14px;
   text-align: center;
 }
 
