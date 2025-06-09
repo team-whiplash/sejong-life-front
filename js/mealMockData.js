@@ -78,6 +78,7 @@ window.mealData = [
     name: '군자관 식당',
     position: '군자관 6층',
     image: 'assets/images/meal/gunja.jpeg',
+    description: '뷔페식 식당, 양이 많고 가격도 저렴해요',
   },
   {
     id: 10,
@@ -86,6 +87,7 @@ window.mealData = [
     name: '진관홀 식당',
     position: '진관홀 지하',
     image: 'assets/images/meal/jin.jpg',
+    description: '순쫄이 유명한 식당',
   },
   {
     id: 11,
@@ -94,6 +96,7 @@ window.mealData = [
     name: '학생회관 식당',
     position: '학생회관 1층',
     image: 'assets/images/meal/student_hall.png',
+    description: '메뉴가 정말 다양해요',
   },
   {
     id: 12,

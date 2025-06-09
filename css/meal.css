@@ -136,7 +136,7 @@
 #recommend-btn {
   position: absolute;
   right: 125px; /* store-list 여백 기준에 맞춰 조정 */
-  top: 12%;
+  top: 14%;
   padding: 12px 24px;
   font-size: 1.2rem;
   background-color: #ffe1e7;
